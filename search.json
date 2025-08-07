@@ -210,11 +210,21 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducere în Inteligența Artificială",
+    "section": "",
+    "text": "Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nPrin intermediul unei serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața, de la rețelele sociale la platformele de cumpărături. Vom analiza ascensiunea inteligenței artificiale generative, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda dilemele etice esențiale pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
     "objectID": "index.html#ce-este-acest-curs",
     "href": "index.html#ce-este-acest-curs",
     "title": "Introducere în Inteligența Artificială",
-    "section": "Ce este acest curs?",
-    "text": "Ce este acest curs?\nCursul de Introducere în inteligența artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nÎntr-o serie de ateliere vom explora ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața, de la platformele de social media la cele de cumpărături online. Vom analiza ascensiunea inteligenței artificiale generative, învățând să identificăm conținutul sintetic, cum ar fi deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. Pe parcurs, vom aborda dilemele etice esențiale și vom descoperi cum poate fi folosită IA în mod responsabil, în beneficiul comunităților noastre.",
+    "section": "",
+    "text": "Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nPrin intermediul unei serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața, de la rețelele sociale la platformele de cumpărături. Vom analiza ascensiunea inteligenței artificiale generative, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda dilemele etice esențiale pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.",
     "crumbs": [
       "Prezentare curs"
     ]
@@ -224,7 +234,7 @@
     "href": "index.html#cum-se-desfășoară",
     "title": "Introducere în Inteligența Artificială",
     "section": "Cum se desfășoară?",
-    "text": "Cum se desfășoară?\nAcest website reprezintă suportul teoretic pentru cursul „Introducere în Inteligența Artificială”. El este conceput pentru a completa întâlnirile fizice, care sunt interactive și bazate pe colaborare.\n\n\nVersiunea online (acest website)\nConține materialele teoretice, structurate în 3 module și optimizate pentru a fi accesate de pe orice dispozitiv. Am exclus componenta practică pentru a ne concentra pe conceptele fundamentale.\n\n\n\n  \n\n\n\n\n\nCursul în format fizic\nInclude 4 module și este conceput pentru a fi foarte interactiv și colaborativ. Pe lângă partea teoretică, participarea la cursul fizic oferă oportunitatea de a dezvolta abilități esențiale prin:\n\nLucru în echipă: Dezbateri și proiecte de grup.\nActivități practice: Folosirea directă a instrumentelor IA.\nProiect final (Modulul 4): Crearea unei experiențe de învățare despre IA pentru comunitate.\n\n\n\n\n  \n\n\n\n\nModule (): Structura completă a cursului.",
+    "text": "Cum se desfășoară?\nAcest website reprezintă suportul teoretic pentru acest curs. A fost realizat pentru a completa întâlnirile fizice, care sunt concepute să fie interactive și bazate pe colaborare.\n\n\nVersiunea online (acest website)\nConține materialele teoretice, structurate în 3 module și optimizate pentru a fi accesate de pe orice dispozitiv.\n\n\n\n  \n\n\n\n\n\nCursul în format fizic\nInclude 4 module și este conceput pentru a fi foarte interactiv și colaborativ. Pe lângă partea teoretică, participarea la cursul fizic oferă oportunitatea de a dezvolta abilități esențiale prin:\n\nLucru în echipă: Dezbateri și proiecte de grup.\nActivități practice: Folosirea directă a instrumentelor IA.\nProiect final (Modulul 4): Crearea unei experiențe de învățare despre IA pentru comunitate.\n\n\n\n\n  \n\n\n\n\n\n\nStructura completă a cursului: Module ().",
     "crumbs": [
       "Prezentare curs"
     ]
@@ -234,17 +244,17 @@
     "href": "index.html#cui-se-adresează",
     "title": "Introducere în Inteligența Artificială",
     "section": "Cui se adresează?",
-    "text": "Cui se adresează?\nAcest curs este conceput pentru elevi de liceu și studenți, indiferent de specializarea urmată. Datorită abordării sale non-tehnice și a modului treptat de introducere a conceptelor, nu sunt necesare cunoștințe de programare.",
+    "text": "Cui se adresează?\nAcest curs este destinat elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.",
     "crumbs": [
       "Prezentare curs"
     ]
   },
   {
-    "objectID": "index.html#care-sunt-obiectivele-principale-de-învățare",
-    "href": "index.html#care-sunt-obiectivele-principale-de-învățare",
+    "objectID": "index.html#obiective-de-învățare",
+    "href": "index.html#obiective-de-învățare",
     "title": "Introducere în Inteligența Artificială",
-    "section": "Care sunt obiectivele principale de învățare?",
-    "text": "Care sunt obiectivele principale de învățare?\n\nRecunoașterea IA ca fiind condusă de oameni și înțelegerea importanței controlului și a supravegherii umane.\nÎnțelegerea algoritmilor obișnuiți și analizarea în mod critic a algoritmilor IA utilizați de platformele cunoscute.\nDefinirea principiilor etice IA și evaluarea sistemelor IA pe baza acestor principii.\nEvaluarea scopului și intenției unui produs IA.\nColaborarea cu colegii pentru a crea materiale cu instrumente IA pentru diverse domenii în proiecte de grup.\nEvaluarea impactului tehnologiilor IA asupra societății, normelor sociale și culturale și asupra mediului.\n\nAceste activități practice contribuie la dezvoltarea unor competențe precum gândirea critică, colaborarea, creativitatea și abilitățile de prezentare.",
+    "section": "Obiective de învățare",
+    "text": "Obiective de învățare\nLa finalul acestui curs, participanții vor putea:\n\nSă explice rolul esențial al oamenilor în dezvoltarea și controlul sistemelor IA.\nSă analizeze critic algoritmii folosiți de platforme cunoscute, precum cele de social media sau streaming.\nSă evalueze un produs IA pe baza principiilor etice fundamentale.\nSă identifice scopul și publicul țintă pentru diferite aplicații IA.\nSă colaboreze în echipă pentru a crea proiecte simple folosind instrumente IA.\nSă dezbată impactul social, cultural și de mediu al tehnologiilor IA.",
     "crumbs": [
       "Prezentare curs"
     ]
@@ -254,7 +264,7 @@
     "href": "index.html#cine-facilitează-acest-curs",
     "title": "Introducere în Inteligența Artificială",
     "section": "Cine facilitează acest curs?",
-    "text": "Cine facilitează acest curs?\n\n\n\n\n\nFotografie [Nume Prenume]\n\n\n\nNumele meu este [Nume Prenume] și voi fi ghidul vostru în această călătorie de descoperire a Inteligenței Artificiale.\nCu o pasiune pentru educație și tehnologie, am creat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.\nPuteți afla mai multe despre mine pe LinkedIn.",
+    "text": "Cine facilitează acest curs?\n\n\n\n\n\nFotografie [Nume Prenume]\n\n\n\nNumele meu este [Nume Prenume] și voi fi ghidul vostru în această călătorie de descoperire a Inteligenței Artificiale.\nCu o pasiune pentru educație și tehnologie, am dezvoltate acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.\nPuteți afla mai multe despre mine pe LinkedIn.",
     "crumbs": [
       "Prezentare curs"
     ]
@@ -284,7 +294,7 @@
     "href": "modul1/index.html",
     "title": "Fundamentele IA",
     "section": "",
-    "text": "Acest modul te introduce în lumea inteligenței artificiale, explorând exemple de tehnologie, învățând despre algoritmi simpli și arbori de decizie și aprofundând principiile etice ale IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nSubiect\nResursă\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n\n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nSubiect\nResursă\n\n\n\n\nIntroducere capitol\n\n\n\nCum definim IA?\n\n\n\nEste sau nu IA?\n\n\n\nActivități: discuții, lucru în grup\n\n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nSubiect\nResursă\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
+    "text": "Acest modul te introduce în lumea inteligenței artificiale, explorând exemple de tehnologie, învățând despre algoritmi simpli și arbori de decizie și aprofundând principiile etice ale IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\nIntroducere\n\n\nCe este IA?\n\n\nIstoria IA\n\n\nCum “învață” IA?\n\n\nRolul tău\n\n\nActivități: brainstorming, discuții, prezentări\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\nIntroducere capitol\n\n\nCum definim IA?\n\n\nEste sau nu IA?\n\n\nActivități: discuții, lucru în grup\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\nIntroducere capitol\n\n\nCe este un arbore decizional?\n\n\nCum funcționează?\n\n\nActivități: creare arbore decizional",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
