@@ -5,7 +5,7 @@ website:
   title: "IA-Introducere"
   page-navigation: true
   description: 'Curs de introducere în Inteligența artificială pentru elevi de liceu și studenți'
-  search: true
+  search: false
   sidebar:
     style: "docked"
     background: "light"
