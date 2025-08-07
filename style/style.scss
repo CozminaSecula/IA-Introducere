@@ -1,0 +1,257 @@
+/*-- scss:defaults --*/
+
+/* Bootstrap Icons CSS should be included in your HTML, not in SCSS */
+
+
+// Home page stuff
+.title-block {
+  margin: 1em 0;
+  border-bottom: 3px solid #353535;
+  padding-bottom: 1em;
+}
+
+
+// Overview Box Styles
+.overview-box {
+  border: 1px solid #dcdbdb;
+  margin: 2em 0;
+
+  .header {
+    background-color: #cfe8f3;
+    color: black;
+    padding: 0.025em 0.3em;
+    padding-bottom: 0.025em;
+    font-weight: 600;
+    font-size: 1.8em;
+  }
+
+  .content {
+    display: flex;
+    background-color: white;
+    padding: 1em;
+  }
+
+  .questions-col, .objectives-col {
+    flex: 1; // Fiecare coloană ocupă 50% din spațiu
+    padding: 0 1.5em;
+  }
+
+  .questions-col {
+    border-right: 1px solid #e3e3e3;
+  }
+
+  h2 {
+    font-size: 1.6em;
+    font-weight: 600;
+    color: #000000;
+    padding-bottom: 0.3em;
+    margin-bottom: 1em;
+    border-bottom: 2px solid #353535;
+    display: inline-block; // Linia de sub se întinde doar cât textul
+  }
+
+  p, ul {
+    margin-top: 0;
+  }
+
+  ul {
+    padding-left: 20px;
+    line-height: 1.6;
+  }
+}
+
+
+
+// Callout Box Styles
+.callout-chat {
+  position: relative;
+  margin: 2em 0;
+  padding: 2.5em 2em 1.5em 3em;
+  border-left: 10px solid #fdd870; // Galben
+  background-color: #f5f5f5;
+
+  // Icon container
+  &::before {
+    font-family: "bootstrap-icons";
+    content: '\F268'; 
+    position: absolute;
+    top: -15px;
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    background-color: #fdd870; // Același galben ca bordura
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    line-height: 1;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  h3 {
+    font-size: 1.4em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 0.75em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #dcdbdb;
+  }
+
+  p {
+    margin-bottom: 1em;
+    line-height: 1.7;
+    color: #353535;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.callout-keypoints {
+  position: relative;
+  margin: 2em 0;
+  padding: 2.5em 2em 1.5em 3em;
+  border-left: 10px solid #a2d4ec; // Blue
+  background-color: #f5f5f5;
+
+  // Icon container
+  &::before {
+    font-family: "bootstrap-icons";
+    content: '\F44F'; // Key icon (bi-key)
+    position: absolute;
+    top: -15px;
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    background-color: #a2d4ec; // Same blue as border
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    line-height: 1;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: black;
+  }
+
+  h2 {
+    font-size: 1.6em;
+    font-weight: 600;
+    padding-bottom: 0.3em;
+    margin-bottom: 1em;
+    border-bottom: 2px solid #353535;
+    display: inline-block; // Linia de sub se întinde doar cât textul
+  }
+
+  p {
+    margin-bottom: 1em;
+    line-height: 1.7;
+    color: #353535;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+.callout-definition {
+  position: relative;
+  margin: 2em 0;
+  padding: 2.5em 2em 1.5em 3em;
+  border-left: 10px solid #bcdeb4; // Green
+  background-color: #f5f5f5;
+
+  // Icon container
+  &::before {
+    font-family: "bootstrap-icons";
+    content: '\F431'; // Lightbulb icon (bi-lightbulb)
+    position: absolute;
+    top: -15px;
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    background-color: #bcdeb4; // Same green as border
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    line-height: 1;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: black;
+  }
+
+  h2, h3 {
+    font-size: 1.6em;
+    font-weight: 600;
+    padding-bottom: 0.3em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    border-bottom: 2px solid #353535;
+    display: inline-block;
+  }
+
+  p, ul {
+    margin-bottom: 1em;
+    line-height: 1.7;
+    color: #353535;
+  }
+
+  p:last-child, ul:last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+// Three columns layout
+.three-columns {
+  display: flex;
+  gap: 2em;
+  margin: 1em 0;
+
+  .column {
+    flex: 1;
+    
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+  }
+}
+
+// AI Example sections with text-image layout
+.ai-example-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin: 2em 0;
+  
+  .text-content {
+    flex: 2;
+    
+    h3 {
+      margin-top: 0;
+      
+      i {
+        margin-right: 0.5em;
+        color: #000000;
+      }
+    }
+  }
+  
+  .image-content {
+    flex: 1;
+    text-align: center;
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+  }
+}

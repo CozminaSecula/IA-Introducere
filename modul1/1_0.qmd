@@ -1,0 +1,32 @@
+---
+title: "Introducere"
+---
+
+
+![O ilustrație despre conceptele cheie ale Inteligenței Artificiale.](/modul1/images/artificial-intelligence.png){fig-align="center" width="650"}
+
+<div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
+Sursa: [Licențe | Ilustrație: *Artificial Intelligence*](/altele/licenta.qmd#sec-ilustratii)
+</div>
+
+<details>
+  <summary>Descrierea imaginii</summary>
+  <p>Ilustrația prezintă un creier uman stilizat, conectat prin linii la diverse pictograme ce reprezintă aplicații și concepte ale IA: un robot, un grafic de date, o față umană pentru recunoaștere facială, un microfon pentru procesarea vocii, o mașină autonomă, un document pentru analiza textului.</p>
+</details>
+
+## Obiectivul capitolului
+
+Bun venit la primul capitol! 
+
+Aici vom explora fundamentele inteligenței artificiale. 
+
+Vom începe prin a defini ce este (și ce nu este) IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum am ajuns aici. Vom descoperi mecanismele de bază prin care sistemele IA "învață" din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.
+
+## Rezultatele învățării
+
+La finalul acestui capitol, vei putea să:
+
+-   Definești ce este Inteligența Artificială (IA) și să identifici exemple de utilizare a acesteia în viața de zi cu zi.
+-   Descrii pe scurt istoria IA și să explici factorii cheie care au dus la dezvoltarea sa rapidă.
+-   Explici conceptul de învățare supervizată și rolul datelor etichetate în antrenarea unui sistem IA.
+-   Recunoști importanța rolului tău în interacțiunea cu sistemele de inteligență artificială.

@@ -1,0 +1,51 @@
+---
+title: "Fundamentele IA"
+subtitle: "Acest modul te introduce în lumea inteligenței artificiale, explorând exemple de tehnologie, învățând despre algoritmi simpli și arbori de decizie și aprofundând principiile etice ale IA."
+---
+
+
+Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
+
+
+::: {.grid}
+
+::: {.g-col-4}
+#### 1: Orientare către dezvoltarea competențelor IA.
+
+| Subiect | Resursă |
+|:---|:---:|
+| Introducere | <a href="1_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Ce este IA? | <a href="1_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Istoria IA | <a href="1_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Cum "învață" IA? | <a href="1_3.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Rolul tău | <a href="1_4.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Activități: brainstorming, discuții, prezentări | <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i> |
+
+:::
+
+::: {.g-col-4}
+#### 2: Controlul uman în interacțiunile cu IA
+
+| Subiect | Resursă |
+|:---|:---:|
+| Introducere capitol | <a href="2_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Cum definim IA? | <a href="2_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Este sau nu IA? | <a href="2_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Activități: discuții, lucru în grup | <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i> |
+
+:::
+
+::: {.g-col-4}
+#### 3: Introducerea arborilor decizionali
+
+| Subiect | Resursă |
+|:---|:---:|
+| Introducere capitol | <a href="3_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Ce este un arbore decizional? | <a href="3_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Cum funcționează? | <a href="3_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
+| Activități: creare arbore decizional | <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i> |
+
+:::
+
+:::
+

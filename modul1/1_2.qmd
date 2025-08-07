@@ -1,0 +1,70 @@
+---
+title: "Istoria IA"
+---
+
+::::::: overview-box
+::: header
+Rezumat
+:::
+
+::::: content
+::: questions-col
+## Întrebări
+
+- Când a fost inventat termenul „Inteligență Artificială”?
+- Care sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?
+:::
+
+::: objectives-col
+## Obiective
+
+-   Înțelegi originile termenului "Inteligență Artificială".
+-   Explici progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.
+:::
+:::::
+:::::::
+
+# Originile Inteligenței Artificiale
+
+Termenul "IA" are mai puțin de un secol.
+
+A fost inventat în 1956 și îi este atribuit lui John McCarthy, care a folosit termenul pentru *Proiectul de cercetare de vară de la Dartmouth privind inteligența artificială*. Aceasta a fost o conferință de 8 săptămâni în care matematicieni, informaticieni, psihologi cognitivi și-au combinat forțele pentru a elabora ideea de inteligență artificială. Unii dintre acești oameni de știință au supraestimat foarte mult dezvoltarea IA și în special cronologia. De exemplu, Marvin Minsky, co-fondatorul Laboratorului de IA de la MIT, a spus, în 1970, "în 3 – 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite". Dar încă se lucrează la asta.
+
+Cum de au fost atât de departe de realitate?
+
+Au subestimat cât de multe date și putere de calcul sunt necesare. Deoarece aceste elemente nu erau disponibile, a existat o "Iarnă a IA" până prin 2010.
+
+![Istoria IA.](/modul1/diagrams/2_diagram.svg){fig-align="center" width="80%"}
+
+<div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
+Sursa: [Licențe | Istoria IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)
+</div>
+
+
+
+# Revoluția IA de astăzi
+
+Revoluția IA de astăzi a fost posibilă datorită următoarelor două progrese majore:
+
+1. **Creșterea puterii de calcul**
+
+- În 1956, computerele executau 200 000 de operații pe secundă.
+- În 2007, iPhone-ul făcea 400 de milioane de operații pe secundă.
+- Astăzi, computerele pot face peste 30 de cvadrilioane operații pe secțiune. 
+
+Deci, ceea ce fac calculatoarele azi într-o secundă, în 1956 le-ar fi luat 4753 ani. Ca termen de referință, ce făcea un calculator din 1976 într-o secundă, unui om i-ar fi luat peste 55 de ani.
+
+2. **Accesul la date prin intermediul internetului și a rețelelor de socializare**.  
+
+Lumea modernă generează cantități masive de date care sunt accesibile (unelor) companii pentru dezvoltarea IA. 
+
+Dar nu știm întotdeauna dacă, de ce sau cum datele pe care le generăm sunt folosite pentru IA.
+
+
+<!-- Keypoints -->
+
+::: callout-keypoints
+## Puncte cheie
+
+-   Dezvoltarea rapidă a IA de astăzi a fost posibilă datorită progreselor majore în creșterea puterii de calcul și a accesului la cantități masive de date.
+:::

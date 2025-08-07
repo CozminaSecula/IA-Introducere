@@ -1,0 +1,22 @@
+---
+title: "Rolul tău"
+---
+
+
+![O ilustrație despre rolul cetățenilor în modelarea tehnologiei.](/modul1/images/citizen-engagement-ro.png){fig-align="center" width="640"}
+
+<div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
+Sursa: [Licențe | Ilustrație: *Citizen Engagement*](/altele/licenta.qmd#sec-ilustratii)
+</div>
+
+<details>
+  <summary>Descrierea imaginii</summary>
+  <p>Ilustrația prezintă o aplicație ce permite cetățenilor să ofere feedback cu privire la un sistem de transport comunitar.</p>
+</details>
+## În fiecare zi, iei decizii care influențează viitorul IA.
+
+Pe parcursul acestui curs, vei învăța cum să faci alegeri informate, care să îți aducă beneficii atât ție, cât și comunității tale, prin folosirea responsabilă a inteligenței artificiale.
+
+Ai un rol activ în interacțiunile tale cu ceilalți, cu tehnologia și, implicit, cu IA.
+
+Vei descoperi cum poți deveni mai conștient de acest rol și cum să îți folosești influența în mod constructiv atunci când interacționezi cu instrumentele IA.
