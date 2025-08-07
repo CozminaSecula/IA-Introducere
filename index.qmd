@@ -10,7 +10,7 @@ subtitle: "Un ghid pentru a înțelege ce este IA, algoritmii, pentru a recunoa�
 
 Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.
 
-Prin intermediul unei serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața, de la rețelele sociale la platformele de cumpărături. Vom analiza ascensiunea inteligenței artificiale generative, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda dilemele etice esențiale pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.
+Prin intermediul unor serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața. Vom discuta despre inteligența artificială generativă, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda aspectele etice pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.
 
 
 ## Cum se desfășoară?
@@ -38,10 +38,10 @@ Conține materialele teoretice, structurate în 3 module și optimizate pentru a
 
 ### Cursul în format fizic
 
-Include 4 module și este conceput pentru a fi foarte interactiv și colaborativ. Pe lângă partea teoretică, participarea la cursul fizic oferă oportunitatea de a dezvolta abilități esențiale prin:
+Include 4 module și, pe lângă partea teoretică, participarea la cursul fizic oferă oportunitatea de a dezvolta abilitățile cognitive și socio-emoționale cu privire la: comunicare, colaborare, negociere, planificare, creativitate, abilități de prezentare, gândire critică, rezolvare de probleme, abilități de argumentare, prin:
 
 - **Lucru în echipă:** Dezbateri și proiecte de grup.
-- **Activități practice:** Folosirea directă a instrumentelor IA.
+- **Activități practice:** Brainstorming, discuții, prezentări, folosirea directă a instrumentelor IA.
 - **Proiect final (Modulul 4):** Crearea unei experiențe de învățare despre IA pentru comunitate.
 :::
 
