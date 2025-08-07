@@ -23,18 +23,18 @@ jobs:
         with:
           r-version: '4.2.0'
 
-      - name: Install renv and force latest xfun
+      - name: Pre-install xfun and litedown
         run: |
-          install.packages(c("xfun", "renv"), repos = "https://cloud.r-project.org", lib = Sys.getenv("R_LIBS_USER"))
+          install.packages(c("xfun", "litedown", "renv"), repos = "https://cloud.r-project.org", lib = Sys.getenv("R_LIBS_USER"))
           .libPaths(Sys.getenv("R_LIBS_USER"))
-          cat("xfun version:", as.character(packageVersion("xfun")), "\n")
-          cat(".libPaths:\n")
+          cat("xfun version: ", as.character(packageVersion("xfun")), "\n")
+          cat("litedown version: ", as.character(packageVersion("litedown")), "\n")
           print(.libPaths())
 
-      - name: Restore R packages
+      - name: Restore R packages (skip rebuild)
         run: |
           .libPaths(Sys.getenv("R_LIBS_USER"))
-          renv::restore()
+          renv::restore(rebuild = FALSE)
         shell: Rscript {0}
 
       - name: Render and Publish
