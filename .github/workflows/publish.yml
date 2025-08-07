@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -17,15 +18,24 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install R
+      - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.2.0'
 
-      - name: Install R Dependencies
-        uses: r-lib/actions/setup-renv@v2
-        with:
-          cache-version: 1
+      - name: Install renv and force latest xfun
+        run: |
+          install.packages(c("xfun", "renv"), repos = "https://cloud.r-project.org", lib = Sys.getenv("R_LIBS_USER"))
+          .libPaths(Sys.getenv("R_LIBS_USER"))
+          cat("xfun version:", as.character(packageVersion("xfun")), "\n")
+          cat(".libPaths:\n")
+          print(.libPaths())
+
+      - name: Restore R packages
+        run: |
+          .libPaths(Sys.getenv("R_LIBS_USER"))
+          renv::restore()
+        shell: Rscript {0}
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
