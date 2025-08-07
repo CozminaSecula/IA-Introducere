@@ -6,44 +6,43 @@ subtitle: "Acest modul te introduce în lumea inteligenței artificiale, explor�
 
 Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 
-
 ::: {.grid}
 
 ::: {.g-col-4}
 #### 1: Orientare către dezvoltarea competențelor IA.
 
-| Subiect | Resursă |
-|:---|:---:|
-| Introducere | <a href="1_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Ce este IA? | <a href="1_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Istoria IA | <a href="1_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Cum "învață" IA? | <a href="1_3.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Rolul tău | <a href="1_4.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Activități: brainstorming, discuții, prezentări | <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i> |
+<ul class="resource-list">
+  <li><span>Introducere</span><a href="1_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Ce este IA?</span><a href="1_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Istoria IA</span><a href="1_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Cum "învață" IA?</span><a href="1_3.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Rolul tău</span><a href="1_4.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Activități: brainstorming, discuții, prezentări</span><i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i></li>
+</ul>
 
 :::
 
 ::: {.g-col-4}
 #### 2: Controlul uman în interacțiunile cu IA
 
-| Subiect | Resursă |
-|:---|:---:|
-| Introducere capitol | <a href="2_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Cum definim IA? | <a href="2_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Este sau nu IA? | <a href="2_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Activități: discuții, lucru în grup | <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i> |
+<ul class="resource-list">
+  <li><span>Introducere capitol</span><a href="2_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Cum definim IA?</span><a href="2_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Este sau nu IA?</span><a href="2_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Activități: discuții, lucru în grup</span><i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i></li>
+</ul>
 
 :::
 
 ::: {.g-col-4}
 #### 3: Introducerea arborilor decizionali
 
-| Subiect | Resursă |
-|:---|:---:|
-| Introducere capitol | <a href="3_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Ce este un arbore decizional? | <a href="3_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Cum funcționează? | <a href="3_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a> |
-| Activități: creare arbore decizional | <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i> |
+<ul class="resource-list">
+  <li><span>Introducere capitol</span><a href="3_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Ce este un arbore decizional?</span><a href="3_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Cum funcționează?</span><a href="3_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a></li>
+  <li><span>Activități: creare arbore decizional</span><i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i></li>
+</ul>
 
 :::
 

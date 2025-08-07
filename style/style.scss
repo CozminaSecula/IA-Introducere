@@ -29,7 +29,12 @@
     display: flex;
     background-color: white;
     padding: 1em;
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+    }
   }
+
 
   .questions-col, .objectives-col {
     flex: 1; // Fiecare coloană ocupă 50% din spațiu
@@ -38,6 +43,13 @@
 
   .questions-col {
     border-right: 1px solid #e3e3e3;
+
+    @media (max-width: 768px) {
+      border-right: none;
+      border-bottom: 1px solid #e3e3e3;
+      padding-bottom: 1.5em;
+      margin-bottom: 1.5em;
+    }
   }
 
   h2 {
@@ -213,6 +225,11 @@
   gap: 2em;
   margin: 1em 0;
 
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+
+
   .column {
     flex: 1;
     
@@ -229,6 +246,11 @@
   align-items: flex-start;
   gap: 2em;
   margin: 2em 0;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+  
   
   .text-content {
     flex: 2;
@@ -252,6 +274,35 @@
       height: auto;
       border-radius: 8px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+  }
+}
+
+// Resource list styles (replaces the tables in module index)
+.resource-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6em 0.2em;
+    border-bottom: 1px solid #e3e3e3;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    span {
+      flex-grow: 1;
+      padding-right: 1em; // Spațiu între text și icon
+    }
+
+    i, a {
+      flex-shrink: 0; // Previne micșorarea iconului
+      text-align: center;
     }
   }
 }

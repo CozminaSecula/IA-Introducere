@@ -1,24 +1,27 @@
 ---
 title: "Introducere în Inteligența Artificială"
-subtitle: "Un ghid pentru a înțelege ce este IA, algoritmii, a recunoaște conținutul generat și a naviga implicațiile etice și sociale ale Inteligenței Artificiale în societatea modernă."
+subtitle: "Un ghid pentru a înțelege ce este IA, algoritmii, pentru a recunoaște conținutul generat și a naviga implicațiile etice și sociale ale Inteligenței Artificiale în societatea modernă."
 ---
-![](/logo/curs-box.svg){style="float: right; margin-top: 60px;" fig-alt="Logo curs \"Atelierele IA\"Introducere în Inteligența Artificială\"" fig-align="right" width="200"}
+
 
 ## Ce este acest curs?
 
-Cursul de Introducere în inteligența artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.
+![](/logo/curs-box.svg){style="float: right; margin-top: 10px;" fig-alt="Logo curs \"Atelierele IA\"Introducere în Inteligența Artificială\"" fig-align="right" width="200"}
 
-Într-o serie de ateliere vom explora ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața, de la platformele de social media la cele de cumpărături online. Vom analiza ascensiunea inteligenței artificiale generative, învățând să identificăm conținutul sintetic, cum ar fi deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. Pe parcurs, vom aborda dilemele etice esențiale și vom descoperi cum poate fi folosită IA în mod responsabil, în beneficiul comunităților noastre.
+Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.
+
+Prin intermediul unei serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața, de la rețelele sociale la platformele de cumpărături. Vom analiza ascensiunea inteligenței artificiale generative, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda dilemele etice esențiale pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.
+
 
 ## Cum se desfășoară?
 
-Acest website reprezintă suportul teoretic pentru cursul „Introducere în Inteligența Artificială”. El este conceput pentru a completa întâlnirile fizice, care sunt interactive și bazate pe colaborare.
+Acest website reprezintă suportul teoretic pentru acest curs. A fost realizat pentru a completa întâlnirile fizice, care sunt concepute să fie interactive și bazate pe colaborare.
 
 ::::: ai-example-section
 ::: text-content
 ### Versiunea online (acest website)
 
-Conține materialele teoretice, structurate în 3 module și optimizate pentru a fi accesate de pe orice dispozitiv. Am exclus componenta practică pentru a ne concentra pe conceptele fundamentale.
+Conține materialele teoretice, structurate în 3 module și optimizate pentru a fi accesate de pe orice dispozitiv. 
 :::
 
 ::: image-content
@@ -53,23 +56,22 @@ Include 4 module și este conceput pentru a fi foarte interactiv și colaborativ
 
 ![](modul1/images/curs-flowchart_ext.svg) 
 
-[**Module**](/structura-curs.qmd) ({{< iconify fa6-solid:book-open-reader style="color:#1696d2;" >}}): Structura completă a cursului. 
+: Structura completă a cursului: [**Module**](/structura-curs.qmd) ({{< iconify fa6-solid:book-open-reader style="color:#1696d2;" >}}). 
 
 ## Cui se adresează?
 
-Acest curs este conceput pentru elevi de liceu și studenți, indiferent de specializarea urmată. Datorită abordării sale non-tehnice și a modului treptat de introducere a conceptelor, nu sunt necesare cunoștințe de programare.
+Acest curs este destinat elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.
 
-## Care sunt obiectivele principale de învățare?
+## Obiective de învățare
 
-- Recunoașterea IA ca fiind condusă de oameni și înțelegerea importanței controlului și a supravegherii umane.
-- Înțelegerea algoritmilor obișnuiți și analizarea în mod critic a algoritmilor IA utilizați de platformele cunoscute.
-- Definirea principiilor etice IA și evaluarea sistemelor IA pe baza acestor principii.
-- Evaluarea scopului și intenției unui produs IA.
-- Colaborarea cu colegii pentru a crea materiale cu instrumente IA pentru diverse domenii în proiecte de grup.
-- Evaluarea impactului tehnologiilor IA asupra societății, normelor sociale și culturale și asupra mediului.
+La finalul acestui curs, participanții vor putea:
 
-Aceste activități practice contribuie la dezvoltarea unor competențe precum gândirea critică, colaborarea, creativitatea și abilitățile de prezentare.
-
+- Să explice rolul esențial al oamenilor în dezvoltarea și controlul sistemelor IA.
+- Să analizeze critic algoritmii folosiți de platforme cunoscute, precum cele de social media sau streaming.
+- Să evalueze un produs IA pe baza principiilor etice fundamentale.
+- Să identifice scopul și publicul țintă pentru diferite aplicații IA.
+- Să colaboreze în echipă pentru a crea proiecte simple folosind instrumente IA.
+- Să dezbată impactul social, cultural și de mediu al tehnologiilor IA.
 
 ## Cine facilitează acest curs?
 
@@ -81,7 +83,7 @@ Aceste activități practice contribuie la dezvoltarea unor competențe precum g
 ::: {.column width="80%"}
 Numele meu este **[Nume Prenume]** și voi fi ghidul vostru în această călătorie de descoperire a Inteligenței Artificiale.
 
-Cu o pasiune pentru educație și tehnologie, am creat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
+Cu o pasiune pentru educație și tehnologie, am dezvoltate acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
 
 Puteți afla mai multe despre mine pe [LinkedIn]().
 :::
