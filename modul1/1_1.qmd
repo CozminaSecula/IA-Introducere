@@ -25,11 +25,11 @@ Rezumat
 
 # Ce este IA și când o folosim?
 
-Inteligența Artificială (IA) este tot mai prezentă în viața noastră, însă percepția asupra ei variază. Adesea, în cultura populară și science-fiction, IA este imaginată ca o **IA generală**, un sistem capabil să gândească asemenea unui om, să răspundă la orice întrebare și să execute orice sarcină umană. Această viziune este, cel puțin pentru moment, nerealistă.
+Inteligența Artificială (IA) este tot mai prezentă în viața noastră, însă percepția asupra ei variază. Adesea, în cultura populară și science-fiction (SF), IA este imaginată ca **IA generală**, un sistem capabil să gândească asemenea unui om, să răspundă la orice întrebare și să execute orice sarcină umană. Această viziune este, în prezent, nerealistă.
 
 În realitate, un sistem este considerat inteligență artificială dacă poate îndeplini sarcini specifice prin interpretarea datelor, învățarea din acestea și adaptarea comportamentului pentru a-și atinge obiectivele. Exemple simple includ navigarea pe o rută optimă, clasificarea unei imagini (ca fiind o pisică sau un câine) sau recomandarea unui videoclip pe baza preferințelor tale.
 
-![Ce este IA](/modul1/diagrams/1_diagram.svg){fig-align="center" width="70%"}
+![Ce este IA](/modul1/diagrams/1_diagram.svg){fig-align="center" width="100%"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
 Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)
@@ -40,9 +40,9 @@ Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/altele/licenta.qm
 
 **IA generală și IA restrânsă**
 
-Este posibil să întâlnești termenii IA "generală" și IA "restrânsă". 
+Este posibil să întâlnești în alte materiale termenii IA "generală" și IA "restrânsă". 
 
-**IA generală** se referă la o mașină care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. Cercetătorii din domeniul inteligenței artificiale nu au înregistrat progrese prea mari în ceea ce privește IA generală. 
+**IA generală** se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. Cercetătorii din domeniul inteligenței artificiale nu au înregistrat progrese prea mari în ceea ce privește IA generală. 
 
 În schimb, în domeniul IA restrânse sunt înregistrate progrese. 
 

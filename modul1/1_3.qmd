@@ -20,14 +20,14 @@ Rezumat
 ::: objectives-col
 ## Obiective
 
--   Diferențiezi între modul în care oamenii și IA colectează date.
+-   Diferențiezi între modul în care oamenii și sistemele IA colectează date.
 -   Descrii conceptul de bază al învățării supervizate.
 -   Explici rolul datelor etichetate în antrenarea unui sistem IA.
 :::
 :::::
 :::::::
 
-Inteligența Artificială nu "învață" în același mod ca un om. Deși ambele pot colecta date din mediul înconjurător, metodele lor sunt diferite.
+Inteligența artificială nu "învață" în același mod ca un om. Deși atât sistemele de IA cât și oamenii pot colecta date din mediul înconjurător, metodele lor sunt diferite.
 
 Oamenii se bazează pe cele cinci simțuri: văz, auz, miros, gust și pipăit. În schimb, computerele folosesc senzori pentru a colecta date. De exemplu, un senzor poate măsura umiditatea solului într-un câmp agricol sau viteza unei mașini.
 
@@ -78,5 +78,5 @@ Vom explora aceste metode pe parcursul cursului.
 
 -   IA utilizează senzori pentru a colecta date (input), pe care le procesează pentru a genera o acțiune (output).
 -   Învățarea supervizată este o metodă de antrenare a IA care necesită cantități mari de date etichetate de oameni.
--   Spre deosebire de oameni, care folosesc simțurile, IA se bazează pe date structurate și senzori pentru a "înțelege" lumea.
+-   Spre deosebire de oameni, care folosesc simțurile, sistemele IA se bazează pe date structurate și senzori pentru a "înțelege" lumea.
 :::

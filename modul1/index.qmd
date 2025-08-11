@@ -1,6 +1,6 @@
 ---
 title: "Fundamentele IA"
-subtitle: "Acest modul te introduce în lumea inteligenței artificiale, explorând exemple de tehnologie, învățând despre algoritmi simpli și arbori de decizie și aprofundând principiile etice ale IA."
+subtitle: "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA."
 tbl-colwidths: [50,25]
 ---
 
@@ -15,11 +15,11 @@ Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 
 | Titlu                                           |                                                                                             |
 |:--------------------------------------------------|:---------------------------------------------------------------------------------------------------:|
-| Introducere                                       | <a href="1_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Ce este IA?                                       | <a href="1_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Istoria IA                                        | <a href="1_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Cum "învață" IA?                                  | <a href="1_3.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Rolul tău                                         | <a href="1_4.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
+| [Introducere](1_0.html) | <a href="1_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a> |
+| [Ce este IA?](1_1.html) | <a href="1_1.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>        |
+| [Istoria IA](1_2.html)  | <a href="1_2.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>        |
+| [Cum "învață" IA?](1_3.html)| <a href="1_3.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>        |
+| [Rolul tău](1_4.html)   | <a href="1_4.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg"  aria-hidden="true"></i></a>        |
 | Activități: brainstorming, discuții, prezentări   | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i></span> |
                            |
 

@@ -1,6 +1,6 @@
 ---
-title: "Introducere în Inteligența Artificială"
-subtitle: "Un ghid pentru a înțelege ce este IA, algoritmii, pentru a recunoaște conținutul generat și a naviga implicațiile etice și sociale ale Inteligenței Artificiale în societatea modernă."
+title: "Introducere în Inteligența Artificială (IA)"
+subtitle: "Un ghid pentru a înțelege IA și algoritmii, pentru a recunoaște conținutul generat de IA și a naviga implicațiile etice și sociale ale IA în societatea de azi."
 ---
 
 
@@ -8,20 +8,21 @@ subtitle: "Un ghid pentru a înțelege ce este IA, algoritmii, pentru a recunoa�
 
 ![](/logo/curs-box.svg){style="float: right; margin-top: 10px;" fig-alt="Logo curs \"Atelierele IA\"Introducere în Inteligența Artificială\"" fig-align="right" width="200"}
 
-Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.
+Cursul **Introducere în Inteligența Artificială** construiește fundamentele pentru literația în domeniul inteligenței artificiale.
 
 Prin intermediul unor serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața. Vom discuta despre inteligența artificială generativă, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda aspectele etice pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.
 
 
 ## Cum se desfășoară?
 
-Acest website reprezintă suportul teoretic pentru acest curs. A fost realizat pentru a completa întâlnirile fizice, care sunt concepute să fie interactive și bazate pe colaborare.
+Acest website este suportul teoretic al cursului și completează întâlnirile față în față, care sunt concepute să fie interactive și colaborative.
+
 
 ::::: ai-example-section
 ::: text-content
 ### Versiunea online (acest website)
 
-Conține materialele teoretice, structurate în 3 module și optimizate pentru a fi accesate de pe orice dispozitiv. 
+Materialele sunt structurate în 3 module și pot fi accesate pe orice dispozitiv. Vei găsi explicații, exemple și resurse utile.
 :::
 
 ::: image-content
@@ -38,11 +39,17 @@ Conține materialele teoretice, structurate în 3 module și optimizate pentru a
 
 ### Cursul în format fizic
 
-Include 4 module și, pe lângă partea teoretică, participarea la cursul fizic oferă oportunitatea de a dezvolta abilitățile cognitive și socio-emoționale cu privire la: comunicare, colaborare, negociere, planificare, creativitate, abilități de prezentare, gândire critică, rezolvare de probleme, abilități de argumentare, prin:
+Cursul față în față are 4 module. Pe lângă partea teoretică, accentul este pe activități interactive. Participanții își dezvoltă:
+- comunicarea și colaborarea
+- gândirea critică și argumentarea
+- planificarea și prezentarea
+- creativitatea și rezolvarea de probleme
+- utilizarea responsabilă a instrumentelor IA
 
-- **Lucru în echipă:** Dezbateri și proiecte de grup.
-- **Activități practice:** Brainstorming, discuții, prezentări, folosirea directă a instrumentelor IA.
-- **Proiect final (Modulul 4):** Crearea unei experiențe de învățare despre IA pentru comunitate.
+Activități:
+- Lucru în echipă: dezbateri și proiecte de grup.
+- Activități practice: brainstorming, discuții, prezentări, folosirea directă a instrumentelor IA.
+- Proiect final (Modulul 4): crearea unei experiențe de învățare despre IA pentru comunitate.
 :::
 
 ::: image-content
@@ -81,9 +88,9 @@ La finalul acestui curs, participanții vor putea:
 :::
 
 ::: {.column width="80%"}
-Numele meu este **[Nume Prenume]** și voi fi ghidul vostru în această călătorie de descoperire a Inteligenței Artificiale.
+Numele meu este **[Nume Prenume]** și voi facilita acest curs de descoperire a inteligenței artificiale.
 
-Cu o pasiune pentru educație și tehnologie, am dezvoltate acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
+Cu o pasiune pentru educație și tehnologie, am dezvoltat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
 
 Puteți afla mai multe despre mine pe [LinkedIn]().
 :::
@@ -92,7 +99,7 @@ Puteți afla mai multe despre mine pe [LinkedIn]().
 
 ## Vrei să aduci acest curs în comunitatea ta?
 
-Dacă reprezinți o instituție de învățământ, o companie sau o organizație și dorești să oferi acest curs elevilor, studenților sau membrilor comunității tale, suntem deschiși la colaborare.
+Dacă reprezinți o instituție de învățământ, o companie sau o organizație și dorești să oferi acest curs elevilor, studenților sau membrilor comunității tale, sunt deschisă la colaborare.
 
 Cursul poate fi adaptat și livrat pentru:
 
@@ -100,18 +107,18 @@ Cursul poate fi adaptat și livrat pentru:
 - **Companii** care vor să ofere programe de dezvoltare pentru angajați sau ca beneficiu pentru copiii acestora.
 - **Biblioteci, hub-uri de tineret sau centre comunitare** care vor să organizeze ateliere de literație digitală.
 
-Pentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, te rugăm să ne scrii la **[adresă de e-mail pentru parteneriate]**.
+Pentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, te rog să îmi scrii la **[adresă de e-mail pentru parteneriate]**.
 
 ## Cum poți susține accesul la educație?
 
-Misiunea noastră este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica direct.
+Misiunea mea este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica.
 
-Căutăm parteneri care să ne ajute să oferim cursul gratuit elevilor și studenților din medii defavorizate. Sprijinul tău poate face o diferență reală. 
+Caut parteneri care să mă ajute să ofer cursul gratuit elevilor și studenților din medii defavorizate. Sprijinul tău poate face o diferență reală. 
 
-Ne adresăm în special:
+Mă adresez în special:
 
 - **ONG-urilor** cu programe educaționale și de incluziune socială.
 - **Companiilor** care doresc să investească în educația viitoarei generații prin programe de responsabilitate socială (CSR).
 - **Fundațiilor și filantropilor** pasionați de tehnologie și educație.
 
-Dacă dorești să devii un susținător al acestui proiect, contactează-ne la **[adresă de e-mail pentru susținători]** pentru a discuta împreună cum putem colabora. 
+Dacă dorești să devii un susținător al acestui proiect, te rog să îmi scrii la **[adresă de e-mail pentru susținători]**. 

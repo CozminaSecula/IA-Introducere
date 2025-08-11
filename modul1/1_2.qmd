@@ -11,30 +11,30 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
-- Când a fost inventat termenul „Inteligență Artificială”?
+- Când a fost inventat termenul „inteligență artificială”?
 - Care sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?
 :::
 
 ::: objectives-col
 ## Obiective
 
--   Înțelegi originile termenului "Inteligență Artificială".
+-   Înțelegi originile termenului "inteligență artificială".
 -   Explici progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.
 :::
 :::::
 :::::::
 
-# Originile Inteligenței Artificiale
+# Originile inteligenței artificiale
 
-Termenul "IA" are mai puțin de un secol.
+Termenul "inteligență artificială" are mai puțin de un secol.
 
-A fost inventat în 1956 și îi este atribuit lui John McCarthy, care a folosit termenul pentru *Proiectul de cercetare de vară de la Dartmouth privind inteligența artificială*. Aceasta a fost o conferință de 8 săptămâni în care matematicieni, informaticieni, psihologi cognitivi și-au combinat forțele pentru a elabora ideea de inteligență artificială. Unii dintre acești oameni de știință au supraestimat foarte mult dezvoltarea IA și în special cronologia. De exemplu, Marvin Minsky, co-fondatorul Laboratorului de IA de la MIT, a spus, în 1970, "în 3 – 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite". Dar încă se lucrează la asta.
+A fost inventat în 1956 și îi este atribuit lui John McCarthy, care a folosit termenul pentru *Proiectul de cercetare de vară de la Dartmouth privind inteligența artificială*. Aceasta a fost o conferință de 8 săptămâni în care matematicieni, informaticieni, psihologi cognitivi și-au combinat forțele pentru a elabora ideea de inteligență artificială. Unii dintre acești oameni de știință au supraestimat foarte mult dezvoltarea IA și în special cronologia. De exemplu, Marvin Minsky, co-fondatorul Laboratorului de IA de la MIT, a spus, în 1970, "în 3 – 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite". Dar astăzi încă se lucrează la asta.
 
 Cum de au fost atât de departe de realitate?
 
 Au subestimat cât de multe date și putere de calcul sunt necesare. Deoarece aceste elemente nu erau disponibile, a existat o "Iarnă a IA" până prin 2010.
 
-![Istoria IA.](/modul1/diagrams/2_diagram.svg){fig-align="center" width="80%"}
+![Istoria IA.](/modul1/diagrams/2_diagram.svg){fig-align="center" width="100%"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
 Sursa: [Licențe | Istoria IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)

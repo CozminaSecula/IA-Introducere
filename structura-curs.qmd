@@ -29,11 +29,11 @@ Acest modul introduce participanții în lumea inteligenței artificiale. Vor ex
 <h3 class="card-title"style="color: #000000;">Modulul 2: IA Generativă</h3>
 <p class="card-text">
 <br>
-În acest modul participanții utilizează instrumente IA generative pentru a crea imagini și text în timp ce lucrează în proiecte de grup. Participanții vor evalua critic caracteristicile IA utilizate de platformele digitale populare și vor înțelege scopurile și intențiile acestora folosind Matricea etică a factorilor implicați.
+În acest modul participanții utilizează instrumente IA generative pentru a crea imagini și text în timp ce lucrează în proiecte de grup. Participanții vor evalua critic caracteristicile IA utilizate de platformele digitale populare și vor înțelege scopurile și intențiile acestora folosind matricea etică a factorilor implicați.
 </p>
 <br>
 <div class="mt-3">
-[chatbot]{.badge .bg-light .text-dark} [IA generativă]{.badge .bg-light .text-dark} [generare de imagini]{.badge .bg-light .text-dark} [drepturi de autor și proprietate intelectuală]{.badge .bg-light .text-dark} [securitate și confidențialitate]{.badge .bg-light .text-dark} [conținut generat de IA]{.badge .bg-light .text-dark} [Matricea etică a factorilor implicați]{.badge .bg-light .text-dark}
+[chatbot]{.badge .bg-light .text-dark} [IA generativă]{.badge .bg-light .text-dark} [generare de imagini]{.badge .bg-light .text-dark} [drepturi de autor și proprietate intelectuală]{.badge .bg-light .text-dark} [securitate și confidențialitate]{.badge .bg-light .text-dark} [conținut generat de IA]{.badge .bg-light .text-dark} [matricea etică a factorilor implicați]{.badge .bg-light .text-dark}
 </div>
 :::
 ::: {.card-footer .bg-light}

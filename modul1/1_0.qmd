@@ -20,13 +20,13 @@ Bun venit la primul capitol!
 
 Aici vom explora fundamentele inteligenței artificiale. 
 
-Vom începe prin a defini ce este (și ce nu este) IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum am ajuns aici. Vom descoperi mecanismele de bază prin care sistemele IA "învață" din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.
+Vom începe prin a defini ce este (și ce nu este) IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum s-a ajuns unde suntem astăzi. Vom descoperi mecanismele de bază prin care sistemele IA "învață" din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.
 
 ## Rezultatele învățării
 
 La finalul acestui capitol, vei putea să:
 
--   Definești ce este Inteligența Artificială (IA) și să identifici exemple de utilizare a acesteia în viața de zi cu zi.
+-   Definești ce este inteligența artificială (IA) și să identifici exemple de utilizare a IA în viața de zi cu zi.
 -   Descrii pe scurt istoria IA și să explici factorii cheie care au dus la dezvoltarea sa rapidă.
 -   Explici conceptul de învățare supervizată și rolul datelor etichetate în antrenarea unui sistem IA.
 -   Recunoști importanța rolului tău în interacțiunea cu sistemele de inteligență artificială.
