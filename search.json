@@ -4,9 +4,21 @@
     "href": "structura-curs.html",
     "title": "Structura Curs",
     "section": "",
-    "text": "Modulul 1: Fundamentele IA\n\n\nAcest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\ndate algoritm rezultat inteligent controlul uman supraveghere umană principii etice și părtinire scenarii din viața reală discuții lucru în grup prezentări feedback constructiv\n\n\n\nVezi modulul →\n\n\n\n\n\n\n\nModulul 2: IA Generativă\n\n\n În acest modul participanții utilizează instrumente IA generative pentru a crea imagini și text în timp ce lucrează în proiecte de grup. Participanții vor evalua critic caracteristicile IA utilizate de platformele digitale populare și vor înțelege scopurile și intențiile acestora folosind Matricea etică a factorilor implicați.\n\n\n\nchatbot IA generativă generare de imagini drepturi de autor și proprietate intelectuală securitate și confidențialitate conținut generat de IA Matricea etică a factorilor implicați\n\n\n\nÎn curând…\n\n\n\n\n\n\n\nModulul 3: Etica IA\n\n\n În cadrul celui de-al treilea modul, participanții își vor continua învățarea aplicând etica în analiza unei platforme populare de cumpărături. Vor explora fenomenul Deep Fakes, vor revizui și elabora politici publice pentru IA, dar și un robot pentru îngrijirea copiilor.\n\n\n\nDeep Fakes proiectarea sistemelor IA cetățenia IA politici publice implicații asupra mediului proiectarea unui robot pentru îngrijirea copiilor etica în design\n\n\n\nÎn curând…\n\n\n\n\n\n\n\nModulul 4: Proiectul final\n\n\n Modulul 4 încheie cursul cu o serie de sesiuni în care participanții lucrează la proiectul lor de grup, construind o experiență de învățare despre IA pentru comunitatea lor.\n\n\n\nbrainstorming lucru în echipă planificare design feedback prezentare\n\n\n\nDoar în format fizic",
+    "text": "Modulul 1: Fundamentele IA\n\n\nAcest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\ndate algoritm rezultat inteligent controlul uman supraveghere umană principii etice și părtinire scenarii din viața reală discuții lucru în grup prezentări feedback constructiv\n\n\n\nVezi modulul →\n\n\n\n\n\n\n\nModulul 2: IA Generativă\n\n\n În acest modul participanții utilizează instrumente IA generative pentru a crea imagini și text în timp ce lucrează în proiecte de grup. Participanții vor evalua critic caracteristicile IA utilizate de platformele digitale populare și vor înțelege scopurile și intențiile acestora folosind matricea etică a factorilor implicați.\n\n\n\nchatbot IA generativă generare de imagini drepturi de autor și proprietate intelectuală securitate și confidențialitate conținut generat de IA matricea etică a factorilor implicați\n\n\n\nÎn curând…\n\n\n\n\n\n\n\nModulul 3: Etica IA\n\n\n În cadrul celui de-al treilea modul, participanții își vor continua învățarea aplicând etica în analiza unei platforme populare de cumpărături. Vor explora fenomenul Deep Fakes, vor revizui și elabora politici publice pentru IA, dar și un robot pentru îngrijirea copiilor.\n\n\n\nDeep Fakes proiectarea sistemelor IA cetățenia IA politici publice implicații asupra mediului proiectarea unui robot pentru îngrijirea copiilor etica în design\n\n\n\nÎn curând…\n\n\n\n\n\n\n\nModulul 4: Proiectul final\n\n\n Modulul 4 încheie cursul cu o serie de sesiuni în care participanții lucrează la proiectul lor de grup, construind o experiență de învățare despre IA pentru comunitatea lor.\n\n\n\nbrainstorming lucru în echipă planificare design feedback prezentare\n\n\n\nDoar în format fizic",
     "crumbs": [
       "Structură curs"
+    ]
+  },
+  {
+    "objectID": "modul1/index.html",
+    "href": "modul1/index.html",
+    "title": "Fundamentele IA",
+    "section": "",
+    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCum definim IA?\n\n\n\nEste sau nu IA?\n\n\n\nActivități: discuții, lucru în grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "Structură modul 1"
     ]
   },
   {
@@ -40,7 +52,7 @@
     "href": "modul1/1_1.html#termeni-de-reținut",
     "title": "Ce este IA?",
     "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nIA generală și IA restrânsă\nEste posibil să întâlnești termenii IA “generală” și IA “restrânsă”.\nIA generală se referă la o mașină care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. Cercetătorii din domeniul inteligenței artificiale nu au înregistrat progrese prea mari în ceea ce privește IA generală.\nÎn schimb, în domeniul IA restrânse sunt înregistrate progrese.\nIA restrânsă se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).",
+    "text": "Termeni de reținut\nIA generală și IA restrânsă\nEste posibil să întâlnești în alte materiale termenii IA “generală” și IA “restrânsă”.\nIA generală se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. Cercetătorii din domeniul inteligenței artificiale nu au înregistrat progrese prea mari în ceea ce privește IA generală.\nÎn schimb, în domeniul IA restrânse sunt înregistrate progrese.\nIA restrânsă se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -62,11 +74,24 @@
     ]
   },
   {
+    "objectID": "modul1/1_4.html#în-fiecare-zi-iei-decizii-care-influențează-viitorul-ia.",
+    "href": "modul1/1_4.html#în-fiecare-zi-iei-decizii-care-influențează-viitorul-ia.",
+    "title": "Rolul tău",
+    "section": "În fiecare zi, iei decizii care influențează viitorul IA.",
+    "text": "În fiecare zi, iei decizii care influențează viitorul IA.\nPe parcursul acestui curs, vei învăța cum să faci alegeri informate, care să îți aducă beneficii atât ție, cât și comunității tale, prin folosirea responsabilă a inteligenței artificiale.\nAi un rol activ în interacțiunile tale cu ceilalți, cu tehnologia și, implicit, cu IA.\nVei descoperi cum poți deveni mai conștient de acest rol și cum să îți folosești influența în mod constructiv atunci când interacționezi cu instrumentele IA.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "1: Orientare către dezvoltarea competențelor IA",
+      "Rolul tău"
+    ]
+  },
+  {
     "objectID": "modul1/1_3.html",
     "href": "modul1/1_3.html",
     "title": "Cum “învață” IA?",
     "section": "",
-    "text": "Inteligența Artificială nu “învață” în același mod ca un om. Deși ambele pot colecta date din mediul înconjurător, metodele lor sunt diferite.\nOamenii se bazează pe cele cinci simțuri: văz, auz, miros, gust și pipăit. În schimb, computerele folosesc senzori pentru a colecta date. De exemplu, un senzor poate măsura umiditatea solului într-un câmp agricol sau viteza unei mașini.\nAceste date de intrare (input) sunt apoi procesate pentru a genera o acțiune de ieșire (output). De exemplu, pe baza datelor despre umiditatea solului, sistemul IA poate decide dacă să pornească sau nu sistemul de irigații. Rezultatul este o decizie simplă: “da, solul are nevoie de apă” sau “nu, solul nu are nevoie de apă”.\nPentru a lua astfel de decizii, multe sisteme IA au nevoie de cantități mari de date etichetate în prealabil de către oameni. Acest proces se numește învățare supervizată.\nTabelul de mai jos ilustrează cum ar putea fi etichetate diverse elemente pentru a învăța un sistem IA ce este comestibil.\nImaginează-ți efortul de a eticheta manual mii de astfel de exemple pentru a antrena un robot ce să mănânce. Din fericire, nu toate sistemele IA funcționează astfel. Unele pot învăța prin identificarea de tipare în date neetichetate sau prin descoperirea unor relații statistice.\nVom explora aceste metode pe parcursul cursului.",
+    "text": "Inteligența artificială nu “învață” în același mod ca un om. Deși atât sistemele de IA cât și oamenii pot colecta date din mediul înconjurător, metodele lor sunt diferite.\nOamenii se bazează pe cele cinci simțuri: văz, auz, miros, gust și pipăit. În schimb, computerele folosesc senzori pentru a colecta date. De exemplu, un senzor poate măsura umiditatea solului într-un câmp agricol sau viteza unei mașini.\nAceste date de intrare (input) sunt apoi procesate pentru a genera o acțiune de ieșire (output). De exemplu, pe baza datelor despre umiditatea solului, sistemul IA poate decide dacă să pornească sau nu sistemul de irigații. Rezultatul este o decizie simplă: “da, solul are nevoie de apă” sau “nu, solul nu are nevoie de apă”.\nPentru a lua astfel de decizii, multe sisteme IA au nevoie de cantități mari de date etichetate în prealabil de către oameni. Acest proces se numește învățare supervizată.\nTabelul de mai jos ilustrează cum ar putea fi etichetate diverse elemente pentru a învăța un sistem IA ce este comestibil.\nImaginează-ți efortul de a eticheta manual mii de astfel de exemple pentru a antrena un robot ce să mănânce. Din fericire, nu toate sistemele IA funcționează astfel. Unele pot învăța prin identificarea de tipare în date neetichetate sau prin descoperirea unor relații statistice.\nVom explora aceste metode pe parcursul cursului.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -92,7 +117,7 @@
     "href": "modul1/1_3.html#obiective",
     "title": "Cum “învață” IA?",
     "section": "Obiective",
-    "text": "Obiective\n\nDiferențiezi între modul în care oamenii și IA colectează date.\nDescrii conceptul de bază al învățării supervizate.\nExplici rolul datelor etichetate în antrenarea unui sistem IA.",
+    "text": "Obiective\n\nDiferențiezi între modul în care oamenii și sistemele IA colectează date.\nDescrii conceptul de bază al învățării supervizate.\nExplici rolul datelor etichetate în antrenarea unui sistem IA.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -118,7 +143,7 @@
     "href": "modul1/1_3.html#puncte-cheie",
     "title": "Cum “învață” IA?",
     "section": "Puncte cheie",
-    "text": "Puncte cheie\n\nIA utilizează senzori pentru a colecta date (input), pe care le procesează pentru a genera o acțiune (output).\nÎnvățarea supervizată este o metodă de antrenare a IA care necesită cantități mari de date etichetate de oameni.\nSpre deosebire de oameni, care folosesc simțurile, IA se bazează pe date structurate și senzori pentru a “înțelege” lumea.",
+    "text": "Puncte cheie\n\nIA utilizează senzori pentru a colecta date (input), pe care le procesează pentru a genera o acțiune (output).\nÎnvățarea supervizată este o metodă de antrenare a IA care necesită cantități mari de date etichetate de oameni.\nSpre deosebire de oameni, care folosesc simțurile, sistemele IA se bazează pe date structurate și senzori pentru a “înțelege” lumea.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -127,11 +152,35 @@
     ]
   },
   {
+    "objectID": "modul1/1_0.html#obiectivul-capitolului",
+    "href": "modul1/1_0.html#obiectivul-capitolului",
+    "title": "Introducere",
+    "section": "Obiectivul capitolului",
+    "text": "Obiectivul capitolului\nBun venit la primul capitol!\nAici vom explora fundamentele inteligenței artificiale.\nVom începe prin a defini ce este (și ce nu este) IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum s-a ajuns unde suntem astăzi. Vom descoperi mecanismele de bază prin care sistemele IA “învață” din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "1: Orientare către dezvoltarea competențelor IA"
+    ]
+  },
+  {
+    "objectID": "modul1/1_0.html#rezultatele-învățării",
+    "href": "modul1/1_0.html#rezultatele-învățării",
+    "title": "Introducere",
+    "section": "Rezultatele învățării",
+    "text": "Rezultatele învățării\nLa finalul acestui capitol, vei putea să:\n\nDefinești ce este inteligența artificială (IA) și să identifici exemple de utilizare a IA în viața de zi cu zi.\nDescrii pe scurt istoria IA și să explici factorii cheie care au dus la dezvoltarea sa rapidă.\nExplici conceptul de învățare supervizată și rolul datelor etichetate în antrenarea unui sistem IA.\nRecunoști importanța rolului tău în interacțiunea cu sistemele de inteligență artificială.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "1: Orientare către dezvoltarea competențelor IA"
+    ]
+  },
+  {
     "objectID": "modul1/1_2.html#întrebări",
     "href": "modul1/1_2.html#întrebări",
     "title": "Istoria IA",
     "section": "Întrebări",
-    "text": "Întrebări\n\nCând a fost inventat termenul „Inteligență Artificială”?\nCare sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?",
+    "text": "Întrebări\n\nCând a fost inventat termenul „inteligență artificială”?\nCare sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -144,7 +193,7 @@
     "href": "modul1/1_2.html#obiective",
     "title": "Istoria IA",
     "section": "Obiective",
-    "text": "Obiective\n\nÎnțelegi originile termenului “Inteligență Artificială”.\nExplici progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.",
+    "text": "Obiective\n\nÎnțelegi originile termenului “inteligență artificială”.\nExplici progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -163,6 +212,86 @@
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "1: Orientare către dezvoltarea competențelor IA",
       "Istoria IA"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "",
+    "text": "Cursul Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nPrin intermediul unor serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața. Vom discuta despre inteligența artificială generativă, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda aspectele etice pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#ce-este-acest-curs",
+    "href": "index.html#ce-este-acest-curs",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "",
+    "text": "Cursul Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nPrin intermediul unor serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața. Vom discuta despre inteligența artificială generativă, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda aspectele etice pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#cum-se-desfășoară",
+    "href": "index.html#cum-se-desfășoară",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Cum se desfășoară?",
+    "text": "Cum se desfășoară?\nAcest website este suportul teoretic al cursului și completează întâlnirile față în față, care sunt concepute să fie interactive și colaborative.\n\n\nVersiunea online (acest website)\nMaterialele sunt structurate în 3 module și pot fi accesate pe orice dispozitiv. Vei găsi explicații, exemple și resurse utile.\n\n\n\n  \n\n\n\n\n\nCursul în format fizic\nCursul față în față are 4 module. Pe lângă partea teoretică, accentul este pe activități interactive. Participanții își dezvoltă: - comunicarea și colaborarea - gândirea critică și argumentarea - planificarea și prezentarea - creativitatea și rezolvarea de probleme - utilizarea responsabilă a instrumentelor IA\nActivități: - Lucru în echipă: dezbateri și proiecte de grup. - Activități practice: brainstorming, discuții, prezentări, folosirea directă a instrumentelor IA. - Proiect final (Modulul 4): crearea unei experiențe de învățare despre IA pentru comunitate.\n\n\n\n  \n\n\n\n\n\n\nStructura completă a cursului: Module ().",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#cui-se-adresează",
+    "href": "index.html#cui-se-adresează",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Cui se adresează?",
+    "text": "Cui se adresează?\nAcest curs este destinat elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#obiective-de-învățare",
+    "href": "index.html#obiective-de-învățare",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Obiective de învățare",
+    "text": "Obiective de învățare\nLa finalul acestui curs, participanții vor putea:\n\nSă explice rolul esențial al oamenilor în dezvoltarea și controlul sistemelor IA.\nSă analizeze critic algoritmii folosiți de platforme cunoscute, precum cele de social media sau streaming.\nSă evalueze un produs IA pe baza principiilor etice fundamentale.\nSă identifice scopul și publicul țintă pentru diferite aplicații IA.\nSă colaboreze în echipă pentru a crea proiecte simple folosind instrumente IA.\nSă dezbată impactul social, cultural și de mediu al tehnologiilor IA.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#cine-facilitează-acest-curs",
+    "href": "index.html#cine-facilitează-acest-curs",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Cine facilitează acest curs?",
+    "text": "Cine facilitează acest curs?\n\n\n\n\n\nFotografie [Nume Prenume]\n\n\n\nNumele meu este [Nume Prenume] și voi facilita acest curs de descoperire a inteligenței artificiale.\nCu o pasiune pentru educație și tehnologie, am dezvoltat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.\nPuteți afla mai multe despre mine pe LinkedIn.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#vrei-să-aduci-acest-curs-în-comunitatea-ta",
+    "href": "index.html#vrei-să-aduci-acest-curs-în-comunitatea-ta",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Vrei să aduci acest curs în comunitatea ta?",
+    "text": "Vrei să aduci acest curs în comunitatea ta?\nDacă reprezinți o instituție de învățământ, o companie sau o organizație și dorești să oferi acest curs elevilor, studenților sau membrilor comunității tale, sunt deschisă la colaborare.\nCursul poate fi adaptat și livrat pentru:\n\nȘcoli, licee și universități care doresc să-și completeze oferta educațională cu un curs de literație IA, care poate fi integrat opțional sau în cadrul altor activități.\nCompanii care vor să ofere programe de dezvoltare pentru angajați sau ca beneficiu pentru copiii acestora.\nBiblioteci, hub-uri de tineret sau centre comunitare care vor să organizeze ateliere de literație digitală.\n\nPentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, te rog să îmi scrii la [adresă de e-mail pentru parteneriate].",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#cum-poți-susține-accesul-la-educație",
+    "href": "index.html#cum-poți-susține-accesul-la-educație",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Cum poți susține accesul la educație?",
+    "text": "Cum poți susține accesul la educație?\nMisiunea mea este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica.\nCaut parteneri care să mă ajute să ofer cursul gratuit elevilor și studenților din medii defavorizate. Sprijinul tău poate face o diferență reală.\nMă adresez în special:\n\nONG-urilor cu programe educaționale și de incluziune socială.\nCompaniilor care doresc să investească în educația viitoarei generații prin programe de responsabilitate socială (CSR).\nFundațiilor și filantropilor pasionați de tehnologie și educație.\n\nDacă dorești să devii un susținător al acestui proiect, te rog să îmi scrii la [adresă de e-mail pentru susținători].",
+    "crumbs": [
+      "Prezentare curs"
     ]
   },
   {
@@ -207,135 +336,6 @@
     "crumbs": [
       "Altele",
       "Licențe"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "",
-    "text": "Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nPrin intermediul unor serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața. Vom discuta despre inteligența artificială generativă, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda aspectele etice pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#ce-este-acest-curs",
-    "href": "index.html#ce-este-acest-curs",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "",
-    "text": "Cursul de Introducere în Inteligența Artificială construiește fundamentele pentru literația în domeniul inteligenței artificiale.\nPrin intermediul unor serii de ateliere, vom explora împreună conceptele de bază: ce este IA, ce sunt algoritmii și cum funcționează tehnologiile care ne influențează deja viața. Vom discuta despre inteligența artificială generativă, vom învăța să identificăm conținutul sintetic, precum deepfake-urile, și vom dezbate impactul acestora asupra industriilor creative și a societății. În final, vom aborda aspectele etice pentru a descoperi cum poate fi folosită IA în mod responsabil, în beneficiul tuturor.",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#cum-se-desfășoară",
-    "href": "index.html#cum-se-desfășoară",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "Cum se desfășoară?",
-    "text": "Cum se desfășoară?\nAcest website reprezintă suportul teoretic pentru acest curs. A fost realizat pentru a completa întâlnirile fizice, care sunt concepute să fie interactive și bazate pe colaborare.\n\n\nVersiunea online (acest website)\nConține materialele teoretice, structurate în 3 module și optimizate pentru a fi accesate de pe orice dispozitiv.\n\n\n\n  \n\n\n\n\n\nCursul în format fizic\nInclude 4 module și, pe lângă partea teoretică, participarea la cursul fizic oferă oportunitatea de a dezvolta abilitățile cognitive și socio-emoționale cu privire la: comunicare, colaborare, negociere, planificare, creativitate, abilități de prezentare, gândire critică, rezolvare de probleme, abilități de argumentare, prin:\n\nLucru în echipă: Dezbateri și proiecte de grup.\nActivități practice: Brainstorming, discuții, prezentări, folosirea directă a instrumentelor IA.\nProiect final (Modulul 4): Crearea unei experiențe de învățare despre IA pentru comunitate.\n\n\n\n\n  \n\n\n\n\n\n\nStructura completă a cursului: Module ().",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#cui-se-adresează",
-    "href": "index.html#cui-se-adresează",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "Cui se adresează?",
-    "text": "Cui se adresează?\nAcest curs este destinat elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#obiective-de-învățare",
-    "href": "index.html#obiective-de-învățare",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "Obiective de învățare",
-    "text": "Obiective de învățare\nLa finalul acestui curs, participanții vor putea:\n\nSă explice rolul esențial al oamenilor în dezvoltarea și controlul sistemelor IA.\nSă analizeze critic algoritmii folosiți de platforme cunoscute, precum cele de social media sau streaming.\nSă evalueze un produs IA pe baza principiilor etice fundamentale.\nSă identifice scopul și publicul țintă pentru diferite aplicații IA.\nSă colaboreze în echipă pentru a crea proiecte simple folosind instrumente IA.\nSă dezbată impactul social, cultural și de mediu al tehnologiilor IA.",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#cine-facilitează-acest-curs",
-    "href": "index.html#cine-facilitează-acest-curs",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "Cine facilitează acest curs?",
-    "text": "Cine facilitează acest curs?\n\n\n\n\n\nFotografie [Nume Prenume]\n\n\n\nNumele meu este [Nume Prenume] și voi fi ghidul vostru în această călătorie de descoperire a Inteligenței Artificiale.\nCu o pasiune pentru educație și tehnologie, am dezvoltate acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.\nPuteți afla mai multe despre mine pe LinkedIn.",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#vrei-să-aduci-acest-curs-în-comunitatea-ta",
-    "href": "index.html#vrei-să-aduci-acest-curs-în-comunitatea-ta",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "Vrei să aduci acest curs în comunitatea ta?",
-    "text": "Vrei să aduci acest curs în comunitatea ta?\nDacă reprezinți o instituție de învățământ, o companie sau o organizație și dorești să oferi acest curs elevilor, studenților sau membrilor comunității tale, suntem deschiși la colaborare.\nCursul poate fi adaptat și livrat pentru:\n\nȘcoli, licee și universități care doresc să-și completeze oferta educațională cu un curs de literație IA, care poate fi integrat opțional sau în cadrul altor activități.\nCompanii care vor să ofere programe de dezvoltare pentru angajați sau ca beneficiu pentru copiii acestora.\nBiblioteci, hub-uri de tineret sau centre comunitare care vor să organizeze ateliere de literație digitală.\n\nPentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, te rugăm să ne scrii la [adresă de e-mail pentru parteneriate].",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "index.html#cum-poți-susține-accesul-la-educație",
-    "href": "index.html#cum-poți-susține-accesul-la-educație",
-    "title": "Introducere în Inteligența Artificială",
-    "section": "Cum poți susține accesul la educație?",
-    "text": "Cum poți susține accesul la educație?\nMisiunea noastră este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica direct.\nCăutăm parteneri care să ne ajute să oferim cursul gratuit elevilor și studenților din medii defavorizate. Sprijinul tău poate face o diferență reală.\nNe adresăm în special:\n\nONG-urilor cu programe educaționale și de incluziune socială.\nCompaniilor care doresc să investească în educația viitoarei generații prin programe de responsabilitate socială (CSR).\nFundațiilor și filantropilor pasionați de tehnologie și educație.\n\nDacă dorești să devii un susținător al acestui proiect, contactează-ne la [adresă de e-mail pentru susținători] pentru a discuta împreună cum putem colabora.",
-    "crumbs": [
-      "Prezentare curs"
-    ]
-  },
-  {
-    "objectID": "modul1/index.html",
-    "href": "modul1/index.html",
-    "title": "Fundamentele IA",
-    "section": "",
-    "text": "Acest modul te introduce în lumea inteligenței artificiale, explorând exemple de tehnologie, învățând despre algoritmi simpli și arbori de decizie și aprofundând principiile etice ale IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCum definim IA?\n\n\n\nEste sau nu IA?\n\n\n\nActivități: discuții, lucru în grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
-    "crumbs": [
-      "Structură curs",
-      "Modul 1: Fundamentele Inteligenței Artificiale",
-      "Structură modul 1"
-    ]
-  },
-  {
-    "objectID": "modul1/1_4.html#în-fiecare-zi-iei-decizii-care-influențează-viitorul-ia.",
-    "href": "modul1/1_4.html#în-fiecare-zi-iei-decizii-care-influențează-viitorul-ia.",
-    "title": "Rolul tău",
-    "section": "În fiecare zi, iei decizii care influențează viitorul IA.",
-    "text": "În fiecare zi, iei decizii care influențează viitorul IA.\nPe parcursul acestui curs, vei învăța cum să faci alegeri informate, care să îți aducă beneficii atât ție, cât și comunității tale, prin folosirea responsabilă a inteligenței artificiale.\nAi un rol activ în interacțiunile tale cu ceilalți, cu tehnologia și, implicit, cu IA.\nVei descoperi cum poți deveni mai conștient de acest rol și cum să îți folosești influența în mod constructiv atunci când interacționezi cu instrumentele IA.",
-    "crumbs": [
-      "Structură curs",
-      "Modul 1: Fundamentele Inteligenței Artificiale",
-      "1: Orientare către dezvoltarea competențelor IA",
-      "Rolul tău"
-    ]
-  },
-  {
-    "objectID": "modul1/1_0.html#obiectivul-capitolului",
-    "href": "modul1/1_0.html#obiectivul-capitolului",
-    "title": "Introducere",
-    "section": "Obiectivul capitolului",
-    "text": "Obiectivul capitolului\nBun venit la primul capitol!\nAici vom explora fundamentele inteligenței artificiale.\nVom începe prin a defini ce este (și ce nu este) IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum am ajuns aici. Vom descoperi mecanismele de bază prin care sistemele IA “învață” din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.",
-    "crumbs": [
-      "Structură curs",
-      "Modul 1: Fundamentele Inteligenței Artificiale",
-      "1: Orientare către dezvoltarea competențelor IA"
-    ]
-  },
-  {
-    "objectID": "modul1/1_0.html#rezultatele-învățării",
-    "href": "modul1/1_0.html#rezultatele-învățării",
-    "title": "Introducere",
-    "section": "Rezultatele învățării",
-    "text": "Rezultatele învățării\nLa finalul acestui capitol, vei putea să:\n\nDefinești ce este Inteligența Artificială (IA) și să identifici exemple de utilizare a acesteia în viața de zi cu zi.\nDescrii pe scurt istoria IA și să explici factorii cheie care au dus la dezvoltarea sa rapidă.\nExplici conceptul de învățare supervizată și rolul datelor etichetate în antrenarea unui sistem IA.\nRecunoști importanța rolului tău în interacțiunea cu sistemele de inteligență artificială.",
-    "crumbs": [
-      "Structură curs",
-      "Modul 1: Fundamentele Inteligenței Artificiale",
-      "1: Orientare către dezvoltarea competențelor IA"
     ]
   }
 ]
