@@ -26,7 +26,7 @@ Pe lângă materialele proprii, am folosit și adaptat ilustrații din sursele d
 |-------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | [Artificial Intelligence V1](https://github.com/alan-turing-institute/turing-commons/blob/1159f36cdd15e035ea1ddd23d352ee29ad8039e3/docs/assets/images/illustrations/artificial-intelligence.png?raw=true) | Jonny Lighthands & Eléonore Guerra | [Turing Commons](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Citizen Engagement](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/citizen-engagement.png?raw=true)     | Jonny Lighthands & Eléonore Guerra | [Turing Commons](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| [Stakeholder Engagement](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) | Jonny Lighthands & Eléonore Guerra | [Turing Commons](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [Participation](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) | Jonny Lighthands & Eléonore Guerra| [Turing Commons](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ## Alte materiale
 

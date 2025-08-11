@@ -2,20 +2,22 @@
 title: "Introducere"
 ---
 
-![O ilustrație care prezintă implicarea părților interesate într-un proiect de dezvoltare a unui sistem IA.](/modul1/capitol2/images/2_0_stakeholder-engagement.jpg){fig-align="left" width="650"}
+![](/modul1/capitol2/images/2_0_dj-participation.jpg){fig-align="left" width="650"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
-Sursa: [Licențe | Ilustrație: *Stakeholder Engagement*](/altele/licenta.qmd#sec-ilustratii)
+Sursa: [Licențe | Ilustrație: *Participation*](/altele/licenta.qmd#sec-ilustratii)
 </div>
 
 <details>
   <summary>Descrierea imaginii</summary>
-  <p>Ilustrația prezintă un proces de implicare a părților interesate (stakeholders) într-un proiect de dezvoltare a unui sistem IA. Părțile interesate și echipa de proiect colaborează pentru a discuta proiectarea, dezvoltarea și implementarea sistemului.</p>
+  <p>
+Ilustrația descrie un proces colaborativ și incluziv, centrat pe un concept abstract care ar putea reprezenta un proiect de inteligență artificială. În partea superioară, diverse panouri simbolizează datele de intrare și obiectivele: accesibilitate (limbajul semnelor), perspectivă globală (Pământul), colaborare în echipă și prezentări de date. În partea inferioară, sunt ilustrați diverși utilizatori care interacționează cu sistemul prin intermediul ecranelor, inclusiv o persoană într-un apel video, un utilizator cu o cască de realitate virtuală (VR) și o femeie cu un copil. Imaginea subliniază importanța participării umane diverse în dezvoltarea și utilizarea tehnologiei.
+  </p>
 </details>
 
 ## Obiectivele capitolului
 
-Acest capitol explorează conceptul de **supraveghere și responsabilitate umană** în contextul sistemelor de inteligență artificială.
+În acest capitol vom explora conceptul de **supraveghere și responsabilitate umană** în contextul sistemelor de inteligență artificială.
 
 Vom începe cu un studiu de caz bazat pe un eveniment real pentru a analiza implicațiile acestui concept. Apoi, vom aprofunda distincția dintre "ce este și ce nu este IA" și vom examina modul în care oamenii sunt implicați în fiecare etapă a ciclului de viață al unui sistem IA.
 
