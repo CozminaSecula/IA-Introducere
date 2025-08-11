@@ -1,0 +1,29 @@
+---
+title: "Introducere"
+---
+
+![O ilustrație care prezintă implicarea părților interesate într-un proiect de dezvoltare a unui sistem IA.](/modul1/capitol2/images/2_0_stakeholder-engagement.jpg){fig-align="left" width="650"}
+
+<div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
+Sursa: [Licențe | Ilustrație: *Stakeholder Engagement*](/altele/licenta.qmd#sec-ilustratii)
+</div>
+
+<details>
+  <summary>Descrierea imaginii</summary>
+  <p>Ilustrația prezintă un proces de implicare a părților interesate (stakeholders) într-un proiect de dezvoltare a unui sistem IA. Părțile interesate și echipa de proiect colaborează pentru a discuta proiectarea, dezvoltarea și implementarea sistemului.</p>
+</details>
+
+## Obiectivele capitolului
+
+Acest capitol explorează conceptul de **supraveghere și responsabilitate umană** în contextul sistemelor de inteligență artificială.
+
+Vom începe cu un studiu de caz bazat pe un eveniment real pentru a analiza implicațiile acestui concept. Apoi, vom aprofunda distincția dintre "ce este și ce nu este IA" și vom examina modul în care oamenii sunt implicați în fiecare etapă a ciclului de viață al unui sistem IA.
+
+
+## Rezultatele învățării
+
+La finalul acestui capitol, vei putea să:
+
+-   Explici ce este și ce nu este un sistem IA.
+-   Recunoști rolul esențial al oamenilor în dezvoltarea sistemelor IA, precum și importanța controlului și a supravegherii umane.
+-   Descrii cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială.

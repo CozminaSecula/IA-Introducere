@@ -15,25 +15,25 @@ Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 
 | Titlu                                           |                                                                                             |
 |:--------------------------------------------------|:---------------------------------------------------------------------------------------------------:|
-| [Introducere](1_0.html) | <a href="1_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a> |
-| [Ce este IA?](1_1.html) | <a href="1_1.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>        |
-| [Istoria IA](1_2.html)  | <a href="1_2.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>        |
-| [Cum "învață" IA?](1_3.html)| <a href="1_3.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>        |
-| [Rolul tău](1_4.html)   | <a href="1_4.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg"  aria-hidden="true"></i></a>        |
+| [Introducere](capitol1/1_0.html)      | <a href="capitol1/1_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a> |
+| [Ce este IA?](capitol1/1_1.html)      | <a href="capitol1/1_1.html" title="Vezi resursa" aria-label="Deschide resursa Ce este IA?"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a> |
+| [Istoria IA](capitol1/1_2.html)       | <a href="capitol1/1_2.html" title="Vezi resursa" aria-label="Deschide resursa Istoria IA"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>  |
+| [Cum "învață" IA?](capitol1/1_3.html) | <a href="capitol1/1_3.html" title="Vezi resursa" aria-label="Deschide resursa Cum 'învață' IA?"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>  |
+| [Rolul tău](capitol1/1_4.html)        | <a href="capitol1/1_4.html" title="Vezi resursa" aria-label="Deschide resursa Rolul tău"><i class="fa-solid fa-book-open-reader fa-lg"  aria-hidden="true"></i></a>  |
 | Activități: brainstorming, discuții, prezentări   | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i></span> |
-                           |
 
 :::
 
 ::: {.g-col-6}
 #### 2: Controlul uman în interacțiunile cu IA
 
-| Titlu                          |                                                                                             |
+| Titlu                            |                                                                                                     |
 |:---------------------------------|:---------------------------------------------------------------------------------------------------:|
-| Introducere capitol              | <a href="2_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Cum definim IA?                  | <a href="2_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Este sau nu IA?                  | <a href="2_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Activități: discuții, lucru în grup | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i>                            |
+| [Introducere](capitol2/2_0.html)             | <a href="capitol2/2_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
+| [Cum definim IA?](capitol2/2_1.html)         | <a href="capitol2/2_1.html" title="Vezi resursa" aria-label="Deschide resursa Cum definim IA?"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
+| [Este sau nu IA?](capitol2/2_2.html)         | <a href="capitol2/2_2.html" title="Vezi resursa" aria-label="Deschide resursa Este sau nu IA?"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
+| [Supravegherea și responsabilitatea umană și IA](capitol2/2_3.html) | <a href="capitol2/2_3.html" title="Vezi resursa" aria-label="Deschide resursa Supravegherea și responsabilitatea umană și IA"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
+| Studiu de caz: braistorming, discuții de grup | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i>|
 
 :::
 
@@ -42,9 +42,9 @@ Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 
 | Titlu                          |                                                                                             |
 |:---------------------------------|:---------------------------------------------------------------------------------------------------:|
-| Introducere capitol              | <a href="3_0.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Ce este un arbore decizional?    | <a href="3_1.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Cum funcționează?                | <a href="3_2.html" title="Vezi resursa"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
+| [Introducere capitol](capitol3/3_0.html)              | <a href="capitol3/3_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere capitol"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
+| [Ce este un arbore decizional?](capitol3/3_1.html)    | <a href="capitol3/3_1.html" title="Vezi resursa" aria-label="Deschide resursa Ce este un arbore decizional?"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
+| [Cum funcționează?](capitol3/3_2.html)                | <a href="capitol3/3_2.html" title="Vezi resursa" aria-label="Deschide resursa Cum funcționează?"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
 | Activități: creare arbore decizional | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i>                            |
 
 :::

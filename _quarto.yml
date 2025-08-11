@@ -23,16 +23,25 @@ website:
                 href: modul1/index.qmd
               - text: "---"
               - section: "1: Orientare către dezvoltarea competențelor IA"
-                href: modul1/1_0.qmd
+                href: modul1/capitol1/1_0.qmd
                 contents:
                   - text: "Ce este IA?"
-                    href: modul1/1_1.qmd
+                    href: modul1/capitol1/1_1.qmd
                   - text: "Istoria IA"
-                    href: modul1/1_2.qmd
+                    href: modul1/capitol1/1_2.qmd
                   - text: 'Cum "învață" IA?'
-                    href: modul1/1_3.qmd
+                    href: modul1/capitol1/1_3.qmd
                   - text: "Rolul tău"
-                    href: modul1/1_4.qmd
+                    href: modul1/capitol1/1_4.qmd
+              - section: "2: Controlul uman în interacțiunile cu IA"
+                href: modul1/capitol2/2_0.qmd
+                contents:
+                  - text: "Cum definim IA"
+                    href: modul1/capitol2/2_1.qmd
+                  - text: "Este sau nu IA"
+                    href: modul1/capitol2/2_2.qmd
+                  - text: "Supraveherea și responsabilitatea umană în interacțiunile cu IA"
+                    href: modul1/capitol2/2_3.qmd
       - text: "---"
       - section: "Altele"
         contents:
