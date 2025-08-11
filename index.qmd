@@ -39,7 +39,10 @@ Materialele sunt structurate în 3 module și pot fi accesate pe orice dispoziti
 
 ### Cursul în format fizic
 
+![](modul1/images/curs-flowchart_ext.svg) 
+
 Cursul față în față are 4 module. Pe lângă partea teoretică, accentul este pe activități interactive. Participanții își dezvoltă:
+
 - comunicarea și colaborarea
 - gândirea critică și argumentarea
 - planificarea și prezentarea
@@ -47,6 +50,7 @@ Cursul față în față are 4 module. Pe lângă partea teoretică, accentul es
 - utilizarea responsabilă a instrumentelor IA
 
 Activități:
+
 - Lucru în echipă: dezbateri și proiecte de grup.
 - Activități practice: brainstorming, discuții, prezentări, folosirea directă a instrumentelor IA.
 - Proiect final (Modulul 4): crearea unei experiențe de învățare despre IA pentru comunitate.
@@ -61,7 +65,6 @@ Activități:
 :::
 :::::
 
-![](modul1/images/curs-flowchart_ext.svg) 
 
 : Structura completă a cursului: [**Module**](/structura-curs.qmd) ({{< iconify fa6-solid:book-open-reader style="color:#1696d2;" >}}). 
 
@@ -88,7 +91,7 @@ La finalul acestui curs, participanții vor putea:
 :::
 
 ::: {.column width="80%"}
-Numele meu este **[Nume Prenume]** și voi facilita acest curs de descoperire a inteligenței artificiale.
+Numele meu este **[Nume Prenume]** și voi facilita acest curs.
 
 Cu o pasiune pentru educație și tehnologie, am dezvoltat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
 
@@ -103,7 +106,7 @@ Dacă reprezinți o instituție de învățământ, o companie sau o organizați
 
 Cursul poate fi adaptat și livrat pentru:
 
-- **Școli, licee și universități** care doresc să-și completeze oferta educațională cu un curs de literație IA, care poate fi integrat opțional sau în cadrul altor activități.
+- **Școli, licee și universități** care doresc să-și completeze oferta educațională cu un curs de literație IA. Poate fi integrat opțional sau în cadrul altor activități.
 - **Companii** care vor să ofere programe de dezvoltare pentru angajați sau ca beneficiu pentru copiii acestora.
 - **Biblioteci, hub-uri de tineret sau centre comunitare** care vor să organizeze ateliere de literație digitală.
 
