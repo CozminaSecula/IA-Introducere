@@ -3,7 +3,7 @@ title: "Introducere"
 ---
 
 
-![O ilustrație despre conceptele cheie ale Inteligenței Artificiale.](/modul1/images/artificial-intelligence.png){fig-align="center" width="650"}
+![O ilustrație despre conceptele cheie ale Inteligenței Artificiale.](/modul1/capitol1/images/artificial-intelligence.png){fig-align="center" width="650"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
 Sursa: [Licențe | Ilustrație: *Artificial Intelligence*](/altele/licenta.qmd#sec-ilustratii)

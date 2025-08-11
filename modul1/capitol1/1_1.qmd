@@ -29,7 +29,7 @@ Inteligența Artificială (IA) este tot mai prezentă în viața noastră, îns�
 
 În realitate, un sistem este considerat inteligență artificială dacă poate îndeplini sarcini specifice prin interpretarea datelor, învățarea din acestea și adaptarea comportamentului pentru a-și atinge obiectivele. Exemple simple includ navigarea pe o rută optimă, clasificarea unei imagini (ca fiind o pisică sau un câine) sau recomandarea unui videoclip pe baza preferințelor tale.
 
-![Ce este IA](/modul1/diagrams/1_diagram.svg){fig-align="center" width="100%"}
+![Ce este IA](/modul1/capitol1/diagrams/1_1_diagram.svg){fig-align="center" width="100%"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
 Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)

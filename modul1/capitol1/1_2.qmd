@@ -34,7 +34,7 @@ Cum de au fost atât de departe de realitate?
 
 Au subestimat cât de multe date și putere de calcul sunt necesare. Deoarece aceste elemente nu erau disponibile, a existat o "Iarnă a IA" până prin 2010.
 
-![Istoria IA.](/modul1/diagrams/2_diagram.svg){fig-align="center" width="100%"}
+![Istoria IA.](/modul1/capitol1/diagrams/1_2_diagram.svg){fig-align="center" width="100%"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
 Sursa: [Licențe | Istoria IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)
