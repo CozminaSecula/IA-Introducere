@@ -39,6 +39,8 @@ Materialele sunt structurate în 3 module și pot fi accesate pe orice dispoziti
 
 ### Cursul în format fizic
 
+<br>
+
 ![](modul1/images/curs-flowchart_ext.svg){fig-align="center" width="100%"}
 
 Cursul față în față are 4 module. Pe lângă partea teoretică, accentul este pe activități interactive.
@@ -93,7 +95,6 @@ La finalul acestui curs, participanții vor putea:
 :::
 
 ::: {.column width="80%"}
-Numele meu este **[Nume Prenume]** și voi facilita acest curs.
 
 Cu o pasiune pentru educație și tehnologie, am dezvoltat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
 
