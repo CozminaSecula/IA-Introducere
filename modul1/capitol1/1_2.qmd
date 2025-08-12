@@ -18,8 +18,10 @@ Rezumat
 ::: objectives-col
 ## Obiective
 
--   Înțelegi originile termenului "inteligență artificială".
--   Explici progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.
+La finalul acestei lecții, vei putea:
+
+-   Înțelege originile termenului "inteligență artificială".
+-   Explica progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.
 :::
 :::::
 :::::::

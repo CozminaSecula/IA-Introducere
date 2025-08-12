@@ -360,56 +360,30 @@ div.callout-header {
   }
 }
 
-
-
-// Carousel
-.carousel {
-  font-size: 1em;
-  padding: 2em 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  overflow: hidden;
-  position: relative;
-  width: 100%;
-  max-width: 1000px;
-  margin: auto;
+/* Custom styles for the "Este sau nu IA" tabset */
+.panel-tabset .columns {
+  align-items: center; /* Vertically align content in columns */
+  min-height: 200px;   /* Give tabs a consistent minimum height */
 }
 
-.carousel .slides {
-  display: flex;
-  transition: transform 0.5s ease-in-out, height 0.5s ease-in-out;
-  width: 100%;
-}
-
-.carousel .slide {
-  flex: 0 0 100%; /* Each slide takes 100% of the carousel width */
-  text-align: left;
-  padding: 1em;
-  box-sizing: border-box;
-}
-
-.carousel .controls {
+/* This now targets any column with the .image-col class */
+.panel-tabset .image-col {
   display: flex;
   justify-content: center;
-  margin-top: 1em;
-}
-
-.carousel .controls button {
   align-items: center;
-  margin: 0 0.5em;
-  padding: 0.25em 1em;
-  border: none;
-  background-color: #cfe8f3; // Updated for better contrast
-  color: black;
-  border-radius: 4px;
-  cursor: pointer;
-  height: 2.5rem;
-  line-height: 1.75;
+  flex-wrap: wrap;
+  gap: 1em;
 }
 
-.carousel .controls button:hover {
-  background-color: #cfe8f3;
+/* Target the first image in an image column */
+.panel-tabset .image-col img:first-child {
+  max-height: 180px;
+  max-width: 80%;
+  height: auto;
 }
 
-
+/* Target the second image (status icon) in an image column */
+.panel-tabset .image-col img:nth-child(2) {
+  max-width: 50px;
+  max-height: 50px;
+}

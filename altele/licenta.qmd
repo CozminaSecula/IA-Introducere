@@ -28,6 +28,15 @@ Pe lângă materialele proprii, am folosit și adaptat ilustrații din sursele d
 | [Citizen Engagement](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/citizen-engagement.png?raw=true)     | Jonny Lighthands & Eléonore Guerra | [Turing Commons](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Participation](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) | Jonny Lighthands & Eléonore Guerra| [Turing Commons](https://alan-turing-institute.github.io/turing-commons/resources/gallery/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
+## Videoclipuri {#sec-video}
+
+Am folosit următoarele videoclipuri publicate sub licențe deschise.
+
+| Nume videoclip       | Autor(i)           | Sursă / Licență                                                                                             |
+|----------------------|--------------------|-------------------------------------------------------------------------------------------------------------|
+| [Human agency and AI](https://www.youtube.com/watch?v=Hyq8j8SEx_Y) | Utrecht University | [YouTube](https://www.youtube.com/watch?v=Hyq8j8SEx_Y) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+
+
 ## Alte materiale
 
 <!-- Acest tabel poate fi completat dacă se folosesc și alte resurse, precum seturi de date, fragmente de cod etc. -->

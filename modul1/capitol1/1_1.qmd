@@ -17,8 +17,10 @@ Rezumat
 ::: objectives-col
 ## Obiective
 
--   Înțelegi ce este IA și ce nu este IA.
--   Identifici exemple de IA în viața de zi cu zi.
+La finalul acestei lecții, vei putea:
+
+-   Înțelege ce este IA și ce nu este IA.
+-   Identifica exemple de IA în viața de zi cu zi.
 :::
 :::::
 :::::::

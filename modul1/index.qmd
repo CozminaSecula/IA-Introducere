@@ -31,7 +31,7 @@ Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 |:---------------------------------|:---------------------------------------------------------------------------------------------------:|
 | [Introducere](capitol2/2_0.html)             | <a href="capitol2/2_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
 | [Ce este IA și ce nu este IA?](capitol2/2_1.html)         | <a href="capitol2/2_1.html" title="Vezi resursa" aria-label="Deschide resursa Cum definim IA?"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
-| [Supravegherea și responsabilitatea umană și IA](capitol2/2_2.html) | <a href="capitol2/2_2.html" title="Vezi resursa" aria-label="Deschide resursa Supravegherea și responsabilitatea umană și IA"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
+| [Factorul uman și IA](capitol2/2_2.html) | <a href="capitol2/2_2.html" title="Vezi resursa" aria-label="Deschide resursa Supravegherea și responsabilitatea umană și IA"><i class="fa-solid fa-book-open-reader fa-lg" aria-hidden="true"></i></a>|
 | Studiu de caz: braistorming, discuții de grup | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i>|
 
 :::

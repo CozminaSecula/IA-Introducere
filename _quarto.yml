@@ -39,7 +39,7 @@ website:
                     href: modul1/capitol2/2_1.qmd
                   - text: "Este sau nu IA"
                     href: modul1/capitol2/2_2.qmd
-                  - text: "Supraveherea și responsabilitatea umană în interacțiunile cu IA"
+                  - text: "Factorul uman și IA"
                     href: modul1/capitol2/2_3.qmd
       - section: "Altele"
         contents:

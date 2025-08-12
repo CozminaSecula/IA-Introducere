@@ -1,0 +1,136 @@
+---
+title: "Factorul uman și IA"
+---
+
+
+::::::: overview-box
+::: header
+Rezumat
+:::
+
+::::: content
+::: questions-col
+## Întrebări
+
+-   Odată ce un sistem IA este creat, mai este nevoie de intervenție umană?
+-   Cum pot alegerile făcute de oameni să introducă viziuni părtinitoare (bias) într-un sistem IA?
+
+:::
+
+::: objectives-col
+## Obiectiv
+
+La finalul acestei lecții, vei putea:
+
+-   Identifica cele patru faze ale ciclului de viață al unui sistem IA: proiectare, dezvoltare, implementare și utilizare.
+-   Explica modul în care deciziile umane influențează fiecare fază.
+-   Recunoaște că sistemele IA nu sunt neutre și reflectă alegerile și valorile creatorilor lor (oamenii).
+
+
+:::
+:::::
+:::::::
+
+## Factorul uman și IA
+
+
+<div style="margin-top: 10px;">
+  <span style="font-size: 1.5em; color:#1696d2;">{{< fa brands youtube >}}</span><span style="margin-left: 10px;">**Urmărește** video de mai jos (3:40) pentru a afla răspunsul la întrebarea: cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială?</span>
+</div>
+<div class="video-responsive">
+{{< video https://www.youtube.com/watch?v=Hyq8j8SEx_Y?cc_load_policy=1&cc_lang_pref=ro >}}
+</div>
+<div class="text-left" style="font-size: 0.9em; margin-top: 0.5em;">
+Sursa: [Human agency and AI](https://www.youtube.com/watch?v=Hyq8j8SEx_Y) de la Utrecht University, licențiat sub [CC BY-SA 4.0](/altele/licenta.qmd#sec-video).
+</div>
+
+::: {.callout-note icon="false" appearence="simple" collapse="true"}
+### Videoclipurile includ subtitrări. <br> Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:
+
+
+1.  Apasă pe pictograma **roată dințată** (Setări) din playerul video.
+2.  Selectează **Subtitles/CC**.
+3.  Alege **Auto-translate** și apoi selectează **Romanian**.
+
+:::
+
+<details>
+  <summary>Transcriere video: Factorul Uman și Inteligența Artificială</summary>
+  <p>
+
+
+Deși sistemele IA par a fi instrumente complet automate, ele sunt puternic influențate de factorul uman. În acest videoclip, vei învăța să răspunzi la întrebarea: cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială?
+
+Acest ciclu de viață poate fi împărțit în patru faze: **proiectare, dezvoltare, implementare și utilizare**.
+
+**Faza 1: Proiectarea**
+
+Să luăm un studiu de caz. Un funcționar guvernamental are sarcina de a răspunde la întrebarea: cum poate fi prevenită criminalitatea într-un cartier?
+
+Există mai multe răspunsuri posibile la această întrebare. De exemplu:
+
+- investirea în campanii de informare privind prevenirea spargerilor,
+- extinderea patrulelor de poliție,
+- sau utilizarea unui sistem IA pentru a prezice incidente.
+
+În acest exemplu, funcționarul guvernamental alege să folosească un sistem IA pentru a prezice incidentele. Legile reglementează ce au voie oamenii să facă cu instrumentele IA. De exemplu, pentru predicția infracțiunilor, Legea privind IA (AI Act) interzice sistemele care prezic comportamentul pe baza caracteristicilor personale.
+
+După ce se ia această decizie, specialiștii în date (data scientists) colectează datele necesare pentru funcționarea sistemului IA. Totuși, datele colectate oferă doar o reprezentare limitată a realității. De exemplu, un specialist ar putea folosi date despre spargeri pentru a prezice infracțiunile. Alte tipuri de infracțiuni, precum frauda, s-ar putea să nu fie incluse în setul de date. Acest lucru duce la o viziune părtinitoare (bias) în rezultat, sistemul prezicând spargerile, dar nu și fraudele.
+
+Oamenii sunt cei care decid ce date sunt folosite la antrenarea sistemului IA.
+
+**Faza 2: Dezvoltarea**
+
+Programatorii dezvoltă și ajustează sistemul IA pentru a obține rezultatul dorit. Adesea, ei decid ce elemente din date sunt mai importante decât altele în calcularea rezultatelor.
+
+De exemplu, care sunt cele mai importante elemente în prezicerea unei infracțiuni? Sunt datele despre nivelul veniturilor, nivelul de educație sau despre gen? În acest sens, alegerile programatorilor influențează rezultatul sistemului IA.
+
+**Faza 3: Implementarea**
+
+Odată implementat, utilizatorii finali încep să folosească sistemul IA. Pentru unele sisteme, acest lucru înseamnă că sunt adăugate date noi, ceea ce influențează rezultatul.
+
+De exemplu, dacă șoferul unei mașini albastre comite spargeri în mod repetat, sistemul IA va primi multe date în care o mașină albastră a fost implicată într-o spargere. Acest lucru ar putea face ca sistemul IA să prezică faptul că și alte mașini albastre ar putea fi implicate în spargeri. Astfel, se creează rezultate nedrepte și părtinitoare (bias).
+
+Prin urmare, programatorii trebuie să evalueze constant dacă sistemul IA produce rezultate relevante. Dacă nu, programatorii trebuie să ajusteze din nou sistemul.
+
+**Faza 4: Utilizarea**
+
+Utilizatorii finali interpretează și folosesc rezultatele unui sistem IA în moduri diferite.
+
+De exemplu, un funcționar guvernamental poate concluziona că în cartier au loc doar spargeri, deoarece sistemul IA nu prezice alte tipuri de infracțiuni. Funcționarul ar putea crea o politică guvernamentală bazată pe această presupunere falsă. Deoarece utilizatorii finali interpretează diferit rezultatele sistemelor IA, rolul pe care aceste sisteme îl au în societate diferă enorm.
+
+**Concluzie**
+
+În fiecare dintre cele patru faze ale ciclului de viață al unui sistem IA, oamenii fac alegeri care influențează sistemul, cum ar fi:
+
+- Ar trebui folosit un sistem IA pentru a răspunde la o întrebare?
+- Ce date ar trebui colectate?
+- Când funcționează sistemul IA suficient de bine?
+- Cum ar trebui interpretat rezultatul sistemului?
+
+După cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazele. **Rezultatul nu este niciodată neutru**. Atunci când folosim sau dezvoltăm un sistem IA, este esențial să evaluăm în mod critic impactul uman.
+
+  </p>
+</details>
+
+## Ciclul de viață al unui sistem IA
+
+După cum a arătat videoclipul, implicarea umană este esențială în fiecare etapă a unui sistem de inteligență artificială. Mai jos este un rezumat al celor patru faze și al modului în care deciziile umane le modelează:
+
+1.  **Proiectare:** Oamenii decid **dacă** și **cum** să folosească un sistem IA. Ei definesc problema, stabilesc obiectivele și aleg datele inițiale. *Aici pot apărea primele viziuni părtinitoare (bias), prin excluderea anumitor tipuri de date.*
+
+2.  **Dezvoltare:** Programatorii și specialiștii în date scriu algoritmii și antrenează modelul. Ei decid ce caracteristici din date sunt considerate importante, influențând direct modul în care sistemul "gândește".
+
+3.  **Implementare:** Sistemul este lansat și începe să interacționeze cu lumea reală și cu utilizatorii. Modul în care este folosit generează date noi, care pot consolida sau modifica comportamentul sistemului. *Este necesară o monitorizare constantă pentru a corecta erorile și comportamentele nedorite.*
+
+4.  **Utilizare:** Utilizatorii finali interpretează rezultatele oferite de IA. Această interpretare este subiectivă și poate duce la decizii greșite dacă limitările sistemului nu sunt înțelese.
+
+Fiecare dintre aceste etape demonstrează că IA este un instrument modelat de intențiile, alegerile și, uneori, de prejudecățile umane.
+
+::: callout-keypoints
+## Puncte cheie
+
+-   Un sistem IA trece prin patru faze distincte: **proiectare, dezvoltare, implementare și utilizare**.
+-   Oamenii sunt esențiali în fiecare fază, luând decizii care influențează direct comportamentul și rezultatele sistemului.
+-   Deoarece sunt create de oameni, sistemele IA **nu sunt niciodată complet neutre**. Ele pot moșteni și chiar amplifica viziunile părtinitoare (bias) umane.
+:::

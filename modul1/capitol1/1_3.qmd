@@ -20,9 +20,11 @@ Rezumat
 ::: objectives-col
 ## Obiective
 
--   Diferențiezi între modul în care oamenii și sistemele IA colectează date.
--   Descrii conceptul de bază al învățării supervizate.
--   Explici rolul datelor etichetate în antrenarea unui sistem IA.
+La finalul acestei lecții, vei putea:
+
+-   Diferenția între modul în care oamenii și sistemele IA colectează date.
+-   Descrie conceptul de bază al învățării supervizate.
+-   Explica rolul datelor etichetate în antrenarea unui sistem IA.
 :::
 :::::
 :::::::

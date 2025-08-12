@@ -9,16 +9,20 @@ Rezumat
 
 ::::: content
 ::: questions-col
-## Întrebare
+## Întrebări
 
--   Cum putem distinge între un sistem care folosește IA și unul care este doar un program informatic complex?
+-   Care este "formula" simplă pentru a identifica un sistem IA în viața de zi cu zi?
+-   Ce anume face ca un aspirator-robot să fie considerat IA, dar un aspirator obișnuit nu?
 
 :::
 
 ::: objectives-col
-## Obiectiv
+## Obiective
 
--   Explici ce este și ce nu este IA.
+La finalul acestei lecții, vei putea:
+
+-   Defini inteligența artificială folosind cele trei componente de bază: date, algoritmi și rezultat inteligent.
+-   Aplica această definiție pentru a distinge corect între tehnologii care folosesc IA și cele care nu o folosesc.
 
 :::
 :::::
@@ -30,8 +34,9 @@ Rezumat
 <div style="margin-top: 10px;">
   <span style="font-size: 1.5em; color:#1696d2;">{{< fa brands youtube >}}</span><span style="margin-left: 10px;">**Urmărește** video de mai jos (5:09) care introduce inteligența artificială.</span>
 </div>
-{{< video https://www.youtube.com/watch?v=zxMtaPN1U0A&list=PL0g5FWk3FEqio6qq3Io656i068zHAL6zi&index=2?cc_load_policy=1&cc_lang_pref=ro width="640" height="385" >}}
-
+<div class="video-responsive">
+{{< video https://www.youtube.com/watch?v=zxMtaPN1U0A&list=PL0g5FWk3FEqio6qq3Io656i068zHAL6zi&index=2?cc_load_policy=1&cc_lang_pref=ro >}}
+</div>
 
 ::: {.callout-note icon="false" appearence="simple" collapse="true"}
 ### Videoclipurile includ subtitrări. <br> Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:
@@ -97,10 +102,14 @@ De aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne
 ::: callout-definition
 ## Termeni de reținut
 
-Deși există multe tipuri de IA și câteva definiții diferite, vom defini IA ca:
+Deși există multe definiții complexe, pentru acest curs vom simplifica IA la următoarea formulă de bază:
 
--  **aplicarea de algoritmi la datele din lumea reală pentru a ajuta oamenii să rezolve probleme, să ia decizii și să facă sarcini mai rapid și mai bine decât am putea singuri***.
+**Date** + **Algoritmi** = **Rezultat Inteligent**
 
+Unde:
+-   **Datele** sunt informații din lumea reală (de exemplu, imagini, text, cifre).
+-   **Algoritmii** sunt setul de reguli pe care sistemul le urmează pentru a procesa datele.
+-   **Rezultatul Inteligent** este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.
 :::
 
 

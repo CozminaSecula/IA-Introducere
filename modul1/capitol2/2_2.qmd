@@ -8,7 +8,7 @@ title: "Este sau nu IA"
 ### Aspirator
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/aspirator.svg) ![](images/fail.svg)
 :::
 ::: {.column width="50%"}
@@ -21,7 +21,7 @@ Nu, pentru că urmează doar comenzile de bază, fără date sau algoritm.
 ### Aspirator-robot
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/aspirator-robot.svg) ![](images/succes.svg)
 :::
 ::: {.column width="50%"}
@@ -34,7 +34,7 @@ Da, pentru că folosește algoritmi și date din mediu pentru a planifica traseu
 ### Mașină de jucărie
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/masina-jucarie.svg) ![](images/fail.svg)
 :::
 ::: {.column width="50%"}
@@ -47,7 +47,7 @@ Nu, pentru că doar urmează comenzile prin telecomandă, fără date sau algori
 ### Filtre Social Media
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/filtre-social-media.svg) ![](images/succes.svg)
 :::
 ::: {.column width="50%"}
@@ -60,7 +60,7 @@ Da, pentru că folosesc algoritmi pentru a analiza datele de pe camera ta și pe
 ### Motoare de căutare
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/motor-cautare.svg) ![](images/succes.svg)
 :::
 ::: {.column width="50%"}
@@ -73,7 +73,7 @@ Da, deoarece analizează căutarea ta și sortează toate paginile web de pe int
 ### Imprimantă 3D
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/imprimanta-3d.svg) ![](images/fail.svg)
 :::
 ::: {.column width="50%"}
@@ -86,12 +86,13 @@ Nu, pentru că imprimă doar ceea ce îi spuneți să imprime pe o cale pre-prog
 ### Aparat foto
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="30%" .image-col}
 ![](images/camera-foto.svg) ![](images/fail.svg)
-sau
+:::
+::: {.column width="30%" .image-col}
 ![](images/camera-foto-telefon.svg) ![](images/succes.svg)
 :::
-::: {.column width="50%"}
+::: {.column width="40%"}
 **Aparat foto**
 
 Da și Nu - Aparatele foto tradiționale nu sunt IA (doar fac un proces mecanic pentru a face o fotografie atunci când apăsați un buton), dar noile camere pentru smartphone-uri folosesc de obicei AI pentru a ajuta la reglarea culorilor sau a luminozității.
@@ -101,7 +102,7 @@ Da și Nu - Aparatele foto tradiționale nu sunt IA (doar fac un proces mecanic 
 ### Recomandări Youtube
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/youtube.svg) ![](images/succes.svg)
 :::
 ::: {.column width="50%"}
@@ -114,7 +115,7 @@ Da, deoarece se bazează pe datele din istoricul de vizionare și din istoricul 
 ### Alarmă de incendiu
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/alarma-incendiu.svg) ![](images/fail.svg)
 :::
 ::: {.column width="50%"}
@@ -127,7 +128,7 @@ Nu, deoarece folosește un senzor care detectează fumul și declanșează o ala
 ### Google Translate
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="50%" .image-col}
 ![](images/google-translate.svg) ![](images/succes.svg)
 :::
 ::: {.column width="50%"}
@@ -139,12 +140,12 @@ Da - În timp ce dicționarele online nu sunt IA, deoarece doar potrivesc cuvint
 
 :::
 
-<!-- Keypoints -->
+<br>
 
 ::: callout-keypoints
 ## Puncte cheie
 
-- La baza oricărui sistem IA stau două componente esențiale: **datele** pe care le analizează și **algoritmii** (un set de reguli sau instrucțiuni) pe care îi urmează.
-- Scopul combinării datelor cu algoritmii este de a produce un **rezultat inteligent**, o acțiune, o predicție sau o decizie care altfel ar necesita inteligență umană.
+- Pentru a decide dacă un sistem este IA, amintiți-vă să căutați cele două componente esențiale: **datele** pe care le folosește și **algoritmii** pe care îi urmează.
+- Dacă un sistem combină aceste elemente pentru a produce un **rezultat inteligent** (o predicție, o acțiune sau o decizie), atunci este considerat IA.
 
 :::
