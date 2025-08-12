@@ -1,221 +1,141 @@
 ---
 title: "Este sau nu IA"
 ---
-
-
+<br>
 <br>
 
-::::::::: carousel
-::::::: slides
-::: slide
+::: {.panel-tabset}
 
-::: {.slide-layout}
-::: {.image-col}
+### Aspirator
 
+::: {.columns}
+::: {.column width="50%"}
 ![](images/aspirator.svg) ![](images/fail.svg)
 :::
-::: {.text-col}
+::: {.column width="50%"}
 **Aspirator**
 
 Nu, pentru că urmează doar comenzile de bază, fără date sau algoritm.
 :::
 :::
 
-:::
+### Aspirator-robot
 
-
-::: slide
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/aspirator-robot.svg) ![](images/succes.svg)
 :::
-::: {.text-col}
+::: {.column width="50%"}
 **Aspirator-robot**
 
 Da, pentru că folosește algoritmi și date din mediu pentru a planifica traseul și pentru a aspira.
-
 :::
 :::
 
-:::
+### Mașină de jucărie
 
-::: slide
-
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/masina-jucarie.svg) ![](images/fail.svg)
 :::
-::: {.text-col}
-**Mașină de jucărie cu telecomandă**
+::: {.column width="50%"}
+**Mașină de jucărie**
 
 Nu, pentru că doar urmează comenzile prin telecomandă, fără date sau algoritmi.
-
 :::
 :::
 
-:::
+### Filtre Social Media
 
-::: slide
-
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/filtre-social-media.svg) ![](images/succes.svg)
 :::
-::: {.text-col}
-**Filtrele de pe rețelele de socializare**
+::: {.column width="50%"}
+**Filtre Social Media**
 
 Da, pentru că folosesc algoritmi pentru a analiza datele de pe camera ta și pentru a modifica imagini/videoclipuri în timp real cu efecte speciale.
-
-
 :::
 :::
 
-:::
+### Motoare de căutare
 
-::: slide
-
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/motor-cautare.svg) ![](images/succes.svg)
 :::
-::: {.text-col}
-**Motoarele de căutare**
+::: {.column width="50%"}
+**Motoare de căutare**
 
 Da, deoarece analizează căutarea ta și sortează toate paginile web de pe internet în funcție de popularitate pentru a îți oferi cele mai relevante informații.
-
 :::
 :::
 
-:::
+### Imprimantă 3D
 
-::: slide
-
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/imprimanta-3d.svg) ![](images/fail.svg)
 :::
-::: {.text-col}
+::: {.column width="50%"}
 **Imprimantă 3D**
 
 Nu, pentru că imprimă doar ceea ce îi spuneți să imprime pe o cale pre-programată.
-
 :::
 :::
 
-:::
+### Aparat foto
 
-::: slide
-
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/camera-foto.svg) ![](images/fail.svg)
-
 sau
-
 ![](images/camera-foto-telefon.svg) ![](images/succes.svg)
-
 :::
-::: {.text-col}
+::: {.column width="50%"}
 **Aparat foto**
 
 Da și Nu - Aparatele foto tradiționale nu sunt IA (doar fac un proces mecanic pentru a face o fotografie atunci când apăsați un buton), dar noile camere pentru smartphone-uri folosesc de obicei AI pentru a ajuta la reglarea culorilor sau a luminozității.
-
-
 :::
 :::
 
-:::
+### Recomandări Youtube
 
-::: slide
-
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/youtube.svg) ![](images/succes.svg)
 :::
-::: {.text-col}
-**Recomandările de pe Youtube**
+::: {.column width="50%"}
+**Recomandări Youtube**
 
 Da, deoarece se bazează pe datele din istoricul de vizionare și din istoricul de vizionare al altor persoane, prezice videoclipurile care vă vor plăcea în continuare.
-
 :::
 :::
 
-:::
-::: slide
+### Alarmă de incendiu
 
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/alarma-incendiu.svg) ![](images/fail.svg)
 :::
-::: {.text-col}
-**Alarma de incendiu**
+::: {.column width="50%"}
+**Alarmă de incendiu**
 
 Nu, deoarece folosește un senzor care detectează fumul și declanșează o alarmă, nu există un algoritm complex.
-
-
 :::
 :::
 
-:::
-::: slide
+### Google Translate
 
-::: {.slide-layout}
-::: {.image-col}
-
+::: {.columns}
+::: {.column width="50%"}
 ![](images/google-translate.svg) ![](images/succes.svg)
 :::
-::: {.text-col}
+::: {.column width="50%"}
 **Google Translate**
 
 Da - În timp ce dicționarele online nu sunt IA, deoarece doar potrivesc cuvintele cu definițiile, software-ul de traducere folosește algoritmi pentru a analiza structura și semnificația propozițiilor pentru a traduce propoziții întregi.
-
 :::
 :::
 
 :::
-:::::::
-
-::: controls
-<button onclick="changeSlide(-1)">
-
-Înapoi
-
-</button>
-
-<button onclick="changeSlide(1)">
-
-Înainte
-
-</button>
-:::
-:::::::::
-
-```{=html}
-
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  let currentIndex = 0;
-  const slides = document.querySelectorAll('.carousel .slide');
-  const slidesContainer = document.querySelector('.carousel .slides');
-
-  function changeSlide(direction) {
-    const totalSlides = slides.length;
-    currentIndex = (currentIndex + direction + totalSlides) % totalSlides;
-    slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
-  }
-
-  // Expose the function to the global scope
-  window.changeSlide = changeSlide;
-});
-
-
-</script>
-```

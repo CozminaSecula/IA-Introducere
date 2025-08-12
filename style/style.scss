@@ -378,7 +378,7 @@ div.callout-header {
 
 .carousel .slides {
   display: flex;
-  transition: transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out, height 0.5s ease-in-out;
   width: 100%;
 }
 
@@ -410,35 +410,6 @@ div.callout-header {
 
 .carousel .controls button:hover {
   background-color: #cfe8f3;
-}
-
-// Cards
-.center-text {
-  text-align: center;
-}
-
-.carousel.horizontal .slides {
-  flex-direction: row; // Horizontal layout
-}
-
-.carousel.vertical .slides {
-  flex-direction: column; // Vertical layout
-}
-
-.carousel.vertical {
-  .slides {
-    flex-direction: column; // Stack slides vertically
-    transition: transform 0.5s ease-in-out;
-    height: 100%; // Adjust height for vertical layout
-  }
-
-  .slide {
-    flex: 0 0 100%; // Each slide takes 100% of the carousel height
-    width: 100%; // Ensure full width
-    text-align: left;
-    padding: 1em;
-    box-sizing: border-box;
-  }
 }
 
 
