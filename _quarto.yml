@@ -37,7 +37,7 @@ website:
                 contents:
                   - text: "Cum definim IA"
                     href: modul1/capitol2/2_1.qmd
-                  - text: "Este sau nu IA"
+                  - text: "Este sau nu IA?"
                     href: modul1/capitol2/2_2.qmd
                   - text: "Factorul uman și IA"
                     href: modul1/capitol2/2_3.qmd

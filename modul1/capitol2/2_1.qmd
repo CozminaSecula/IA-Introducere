@@ -107,6 +107,7 @@ Deși există multe definiții complexe, pentru acest curs vom simplifica IA la 
 **Date** + **Algoritmi** = **Rezultat Inteligent**
 
 Unde:
+
 -   **Datele** sunt informații din lumea reală (de exemplu, imagini, text, cifre).
 -   **Algoritmii** sunt setul de reguli pe care sistemul le urmează pentru a procesa datele.
 -   **Rezultatul Inteligent** este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.
