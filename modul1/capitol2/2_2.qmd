@@ -2,7 +2,6 @@
 title: "Este sau nu IA"
 ---
 <br>
-<br>
 
 ::: {.panel-tabset}
 
@@ -137,5 +136,15 @@ Nu, deoarece folosește un senzor care detectează fumul și declanșează o ala
 Da - În timp ce dicționarele online nu sunt IA, deoarece doar potrivesc cuvintele cu definițiile, software-ul de traducere folosește algoritmi pentru a analiza structura și semnificația propozițiilor pentru a traduce propoziții întregi.
 :::
 :::
+
+:::
+
+<!-- Keypoints -->
+
+::: callout-keypoints
+## Puncte cheie
+
+- La baza oricărui sistem IA stau două componente esențiale: **datele** pe care le analizează și **algoritmii** (un set de reguli sau instrucțiuni) pe care îi urmează.
+- Scopul combinării datelor cu algoritmii este de a produce un **rezultat inteligent**, o acțiune, o predicție sau o decizie care altfel ar necesita inteligență umană.
 
 :::
