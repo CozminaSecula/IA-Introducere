@@ -10,15 +10,80 @@
     ]
   },
   {
+    "objectID": "modul1/capitol2/2_2.html",
+    "href": "modul1/capitol2/2_2.html",
+    "title": "Este sau nu IA",
+    "section": "",
+    "text": "Aspirator\nNu, pentru că urmează doar comenzile de bază, fără date sau algoritm.\n\n\n\n\n\n\n \n\n\nAspirator-robot\nDa, pentru că folosește algoritmi și date din mediu pentru a planifica traseul și pentru a aspira.\n\n\n\n\n\n\n \n\n\nMașină de jucărie cu telecomandă\nNu, pentru că doar urmează comenzile prin telecomandă, fără date sau algoritmi.\n\n\n\n\n\n\n \n\n\nFiltrele de pe rețelele de socializare\nDa, pentru că folosesc algoritmi pentru a analiza datele de pe camera ta și pentru a modifica imagini/videoclipuri în timp real cu efecte speciale.\n\n\n\n\n\n\n \n\n\nMotoarele de căutare\nDa, deoarece analizează căutarea ta și sortează toate paginile web de pe internet în funcție de popularitate pentru a îți oferi cele mai relevante informații.\n\n\n\n\n\n\n \n\n\nImprimantă 3D\nNu, pentru că imprimă doar ceea ce îi spuneți să imprime pe o cale pre-programată.\n\n\n\n\n\n\n \nsau\n \n\n\nAparat foto\nDa și Nu - Aparatele foto tradiționale nu sunt IA (doar fac un proces mecanic pentru a face o fotografie atunci când apăsați un buton), dar noile camere pentru smartphone-uri folosesc de obicei AI pentru a ajuta la reglarea culorilor sau a luminozității.\n\n\n\n\n\n\n \n\n\nRecomandările de pe Youtube\nDa, deoarece se bazează pe datele din istoricul de vizionare și din istoricul de vizionare al altor persoane, prezice videoclipurile care vă vor plăcea în continuare.\n\n\n\n\n\n\n \n\n\nAlarma de incendiu\nNu, deoarece folosește un senzor care detectează fumul și declanșează o alarmă, nu există un algoritm complex.\n\n\n\n\n\n\n \n\n\nGoogle Translate\nDa - În timp ce dicționarele online nu sunt IA, deoarece doar potrivesc cuvintele cu definițiile, software-ul de traducere folosește algoritmi pentru a analiza structura și semnificația propozițiilor pentru a traduce propoziții întregi.\n\n\n\n\n\n\nÎnapoi\n\n\nÎnainte",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Este sau nu IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_1.html#întrebare",
+    "href": "modul1/capitol2/2_1.html#întrebare",
+    "title": "Ce este IA și ce nu este IA?",
+    "section": "Întrebare",
+    "text": "Întrebare\n\nCum putem distinge între un sistem care folosește IA și unul care este doar un program informatic complex?",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Cum definim IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_1.html#obiectiv",
+    "href": "modul1/capitol2/2_1.html#obiectiv",
+    "title": "Ce este IA și ce nu este IA?",
+    "section": "Obiectiv",
+    "text": "Obiectiv\n\nExplici ce este și ce nu este IA.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Cum definim IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_1.html#cum-putem-defini-inteligența-artificială",
+    "href": "modul1/capitol2/2_1.html#cum-putem-defini-inteligența-artificială",
+    "title": "Ce este IA și ce nu este IA?",
+    "section": "Cum putem defini inteligența artificială?",
+    "text": "Cum putem defini inteligența artificială?\n\nUrmărește video de mai jos (5:09) care introduce inteligența artificială.\n\n\n\n\n\n\n\n\nVideoclipurile includ subtitrări.  Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:\n\n\n\n\n\n\nApasă pe pictograma roată dințată (Setări) din playerul video.\nSelectează Subtitles/CC.\nAlege Auto-translate și apoi selectează Romanian.\n\n\n\n\n\n\nTranscriere video: Ce este Inteligența Artificială?\n\n\nO introducere în IA\nInteligența artificială (IA) a devenit un termen la modă, pe care probabil l-ai auzit recent în social media, în conversații sau la televizor. Cu toate acestea, conceptul nu este nou. De fapt, folosești IA de ani de zile, poate fără să-ți dai seama.\nUneori, IA este prezentată ca o forță capabilă să schimbe modul în care trăim, muncim și interacționăm. Dar, dincolo de entuziasmul exagerat, IA este un instrument – unul care a evoluat de-a lungul deceniilor, modelat de contribuțiile a nenumărați oameni din diverse domenii. Și nu este destinat doar celor care lucrează în tehnologie, este pentru noi toți.\nCe este, de fapt, Inteligența Artificială?\nPe scurt, IA este capacitatea unui sistem informatic de a învăța din date și erori anterioare, permițându-i să facă predicții din ce în ce mai precise pentru comportamente viitoare. Aceasta include o gamă largă de activități, cum ar fi:\n\nRezolvarea problemelor\nRecunoașterea vorbirii\nÎnvățarea\nLuarea deciziilor\n\nCe face ca un sistem IA să fie “inteligent”?\nLa bază, IA este inteligența demonstrată de software sau mașini în îndeplinirea unor sarcini care, în mod normal, necesită inteligență umană.\nDe exemplu, când interacționezi cu Siri pe telefon, acesta nu manifestă inteligență în același mod ca un om. Mai degrabă, oamenii l-au programat să răspundă la anumite comenzi și să execute funcții, cum ar fi să-ți ofere prognoza meteo sau ultimele știri.\nLa fel, un robot care joacă șah cu un om face mișcări strategice, dar nu este inteligent în sens uman. Robotul doar urmează algoritmi și strategii cu care a fost programat. El învață din jocurile anterioare prin învățare automată (machine learning), ceea ce îi permite să-și îmbunătățească performanța în timp.\nTestul Turing: O întrebare veche de zeci de ani\nÎntrebarea dacă acțiunile unui robot echivalează cu inteligența nu este nouă. În 1950, Alan Turing, un renumit matematician și informatician, a pus întrebarea: “Cum putem determina dacă o mașină este inteligentă?”\nPentru a răspunde, el a creat faimosul Test Turing. În acest test, un evaluator uman interacționează (fără să vadă) fie cu un alt om, fie cu un computer, și trebuie să determine care dintre interlocutori este mașina. Scopul nu era ca mașina să dea răspunsul corect la o întrebare precum “2+2”, ci să evalueze dacă răspunsul său este la fel cu cel al unui om, cu toate nuanțele sale.\nIA în viața de zi cu zi\nAstăzi, IA este tot mai prezentă în viața noastră. De exemplu:\n\nSocial Media: Aplicații precum Instagram folosesc învățarea automată pentru a decide ce conținut să-ți afișeze, pe baza activității tale recente.\nServicii de streaming: Un proces similar funcționează atunci când termini un serial, iar platforma îți recomandă ce să urmărești în continuare.\n\nMituri și realitate\nReprezentarea IA în filmele de la Hollywood este adesea inexactă. Unele filme prezintă IA ca având sentimente sau fiind superioară oamenilor. Aceste narațiuni sunt interpretări artistice menite să provoace gândirea, nu să reflecte cu acuratețe capacitățile reale ale IA.\nDeși IA poate imita anumite aspecte ale inteligenței umane, este important să reținem că funcționează foarte diferit. IA nu are conștiință, emoții sau capacitatea de a înțelege contextul în același mod ca oamenii. Este un instrument creat și controlat de oameni, iar capacitățile sale sunt limitate la ceea ce a fost programată să facă.\nDe aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne permite să distingem faptele de ficțiune.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Cum definim IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_1.html#termeni-de-reținut",
+    "href": "modul1/capitol2/2_1.html#termeni-de-reținut",
+    "title": "Ce este IA și ce nu este IA?",
+    "section": "Termeni de reținut",
+    "text": "Termeni de reținut\nDeși există multe tipuri de IA și câteva definiții diferite, vom defini IA ca:\n\naplicarea de algoritmi la datele din lumea reală pentru a ajuta oamenii să rezolve probleme, să ia decizii și să facă sarcini mai rapid și mai bine decât am putea singuri*.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Cum definim IA"
+    ]
+  },
+  {
     "objectID": "modul1/index.html",
     "href": "modul1/index.html",
     "title": "Fundamentele IA",
     "section": "",
-    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCum definim IA?\n\n\n\nEste sau nu IA?\n\n\n\nSupravegherea și responsabilitatea umană și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
+    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA și ce nu este IA?\n\n\n\nSupravegherea și responsabilitatea umană și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "Structură modul 1"
+      "Conținut modul 1"
     ]
   },
   {
