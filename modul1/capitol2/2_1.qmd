@@ -1,0 +1,108 @@
+---
+title: "Ce este IA și ce nu este IA?"
+---
+
+::::::: overview-box
+::: header
+Rezumat
+:::
+
+::::: content
+::: questions-col
+## Întrebare
+
+-   Cum putem distinge între un sistem care folosește IA și unul care este doar un program informatic complex?
+
+:::
+
+::: objectives-col
+## Obiectiv
+
+-   Explici ce este și ce nu este IA.
+
+:::
+:::::
+:::::::
+
+## Cum putem defini inteligența artificială?
+
+
+<div style="margin-top: 10px;">
+  <span style="font-size: 1.5em; color:#1696d2;">{{< fa brands youtube >}}</span><span style="margin-left: 10px;">**Urmărește** video de mai jos (5:09) care introduce inteligența artificială.</span>
+</div>
+{{< video https://www.youtube.com/watch?v=zxMtaPN1U0A&list=PL0g5FWk3FEqio6qq3Io656i068zHAL6zi&index=2?cc_load_policy=1&cc_lang_pref=ro width="640" height="385" >}}
+
+
+::: {.callout-note icon="false" appearence="simple" collapse="true"}
+### Videoclipurile includ subtitrări. <br> Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:
+
+
+1.  Apasă pe pictograma **roată dințată** (Setări) din playerul video.
+2.  Selectează **Subtitles/CC**.
+3.  Alege **Auto-translate** și apoi selectează **Romanian**.
+
+:::
+
+<details>
+  <summary>Transcriere video: Ce este Inteligența Artificială?</summary>
+  <p>
+
+**O introducere în IA**
+
+Inteligența artificială (IA) a devenit un termen la modă, pe care probabil l-ai auzit recent în social media, în conversații sau la televizor. Cu toate acestea, conceptul nu este nou. De fapt, folosești IA de ani de zile, poate fără să-ți dai seama.
+
+Uneori, IA este prezentată ca o forță capabilă să schimbe modul în care trăim, muncim și interacționăm. Dar, dincolo de entuziasmul exagerat, IA este un instrument – unul care a evoluat de-a lungul deceniilor, modelat de contribuțiile a nenumărați oameni din diverse domenii. Și nu este destinat doar celor care lucrează în tehnologie, este pentru noi toți.
+
+**Ce este, de fapt, Inteligența Artificială?**
+
+Pe scurt, IA este capacitatea unui sistem informatic de a învăța din date și erori anterioare, permițându-i să facă predicții din ce în ce mai precise pentru comportamente viitoare. Aceasta include o gamă largă de activități, cum ar fi:
+
+- Rezolvarea problemelor
+- Recunoașterea vorbirii
+- Învățarea
+- Luarea deciziilor
+
+**Ce face ca un sistem IA să fie "inteligent"?**
+
+La bază, IA este inteligența demonstrată de software sau mașini în îndeplinirea unor sarcini care, în mod normal, necesită inteligență umană.
+
+De exemplu, când interacționezi cu Siri pe telefon, acesta nu manifestă inteligență în același mod ca un om. Mai degrabă, oamenii l-au programat să răspundă la anumite comenzi și să execute funcții, cum ar fi să-ți ofere prognoza meteo sau ultimele știri.
+
+La fel, un robot care joacă șah cu un om face mișcări strategice, dar nu este inteligent în sens uman. Robotul doar urmează algoritmi și strategii cu care a fost programat. El învață din jocurile anterioare prin **învățare automată (machine learning)**, ceea ce îi permite să-și îmbunătățească performanța în timp.
+
+**Testul Turing: O întrebare veche de zeci de ani**
+
+Întrebarea dacă acțiunile unui robot echivalează cu inteligența nu este nouă. În 1950, Alan Turing, un renumit matematician și informatician, a pus întrebarea: "Cum putem determina dacă o mașină este inteligentă?"
+
+Pentru a răspunde, el a creat faimosul **Test Turing**. În acest test, un evaluator uman interacționează (fără să vadă) fie cu un alt om, fie cu un computer, și trebuie să determine care dintre interlocutori este mașina. Scopul nu era ca mașina să dea răspunsul corect la o întrebare precum "2+2", ci să evalueze dacă răspunsul său este la fel cu cel al unui om, cu toate nuanțele sale.
+
+**IA în viața de zi cu zi**
+
+Astăzi, IA este tot mai prezentă în viața noastră. De exemplu:
+
+- **Social Media**: Aplicații precum Instagram folosesc învățarea automată pentru a decide ce conținut să-ți afișeze, pe baza activității tale recente.
+- **Servicii de streaming**: Un proces similar funcționează atunci când termini un serial, iar platforma îți recomandă ce să urmărești în continuare.
+
+**Mituri și realitate**
+
+Reprezentarea IA în filmele de la Hollywood este adesea inexactă. Unele filme prezintă IA ca având sentimente sau fiind superioară oamenilor. Aceste narațiuni sunt interpretări artistice menite să provoace gândirea, nu să reflecte cu acuratețe capacitățile reale ale IA.
+
+Deși IA poate imita anumite aspecte ale inteligenței umane, este important să reținem că funcționează foarte diferit. IA nu are conștiință, emoții sau capacitatea de a înțelege contextul în același mod ca oamenii. Este un instrument creat și controlat de oameni, iar capacitățile sale sunt limitate la ceea ce a fost programată să facă.
+
+De aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne permite să distingem faptele de ficțiune.
+  </p>
+</details>
+
+
+::: callout-definition
+## Termeni de reținut
+
+Deși există multe tipuri de IA și câteva definiții diferite, vom defini IA ca:
+
+-  **aplicarea de algoritmi la datele din lumea reală pentru a ajuta oamenii să rezolve probleme, să ia decizii și să facă sarcini mai rapid și mai bine decât am putea singuri***.
+
+:::
+
+
+
+

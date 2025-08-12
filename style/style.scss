@@ -279,3 +279,166 @@
 }
 
 
+// Make callout text and icon bigger
+.callout.callout-style-default {
+  > div.callout-header,
+  > .callout-body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.6875;
+    color: black;
+    background: white;
+    padding-bottom: 0.5em;
+  }
+}
+
+.callout.callout-style-default .callout-body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.6875;
+  color: black;
+}
+
+div.callout-note {
+  border-left-color:black !important;
+  background: white !important;
+  border-radius: 0em;
+}
+
+
+div.callout-header {
+  background: #ececec !important;
+}
+
+// Footer stuff
+.nav-footer-left {
+  text-align: left;
+}
+
+.nav-footer-right {
+  text-align: right;
+}
+
+
+
+.sidebar-navigation a {
+  color: inherit;
+  text-decoration: none;
+}
+
+// Increase font size in sidebar
+.sidebar-navigation .sidebar-section .sidebar-item,
+.sidebar-navigation .sidebar-item {
+  line-height: 1.2;
+  padding-bottom: 0.4rem;
+}
+
+.sidebar-item .sidebar-item-toggle .bi {
+  // The dongle for opening and closing sections
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+// Increase font size in TOC
+#TOC {
+  padding-bottom: 0.1em;
+}
+
+#toc-title {
+  font-weight: 700;
+}
+
+.sidebar nav[role="doc-toc"] > ul li a {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+
+  &.active {
+    border-left: 1px solid #1696d2;
+    color: #1696d2 !important;
+  }
+}
+
+
+
+// Carousel
+.carousel {
+  font-size: 1em;
+  padding: 2em 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.carousel .slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: 100%;
+}
+
+.carousel .slide {
+  flex: 0 0 100%; /* Each slide takes 100% of the carousel width */
+  text-align: left;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+.carousel .controls {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+.carousel .controls button {
+  align-items: center;
+  margin: 0 0.5em;
+  padding: 0.25em 1em;
+  border: none;
+  background-color: #cfe8f3; // Updated for better contrast
+  color: black;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 2.5rem;
+  line-height: 1.75;
+}
+
+.carousel .controls button:hover {
+  background-color: #cfe8f3;
+}
+
+// Cards
+.center-text {
+  text-align: center;
+}
+
+.carousel.horizontal .slides {
+  flex-direction: row; // Horizontal layout
+}
+
+.carousel.vertical .slides {
+  flex-direction: column; // Vertical layout
+}
+
+.carousel.vertical {
+  .slides {
+    flex-direction: column; // Stack slides vertically
+    transition: transform 0.5s ease-in-out;
+    height: 100%; // Adjust height for vertical layout
+  }
+
+  .slide {
+    flex: 0 0 100%; // Each slide takes 100% of the carousel height
+    width: 100%; // Ensure full width
+    text-align: left;
+    padding: 1em;
+    box-sizing: border-box;
+  }
+}
+
+
