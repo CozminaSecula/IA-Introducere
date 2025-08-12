@@ -12,14 +12,14 @@
   {
     "objectID": "modul1/capitol2/2_2.html#puncte-cheie",
     "href": "modul1/capitol2/2_2.html#puncte-cheie",
-    "title": "Este sau nu IA",
+    "title": "Este sau nu IA?",
     "section": "Puncte cheie",
     "text": "Puncte cheie\n\nPentru a decide dacă un sistem este IA, amintiți-vă să căutați cele două componente esențiale: datele pe care le folosește și algoritmii pe care îi urmează.\nDacă un sistem combină aceste elemente pentru a produce un rezultat inteligent (o predicție, o acțiune sau o decizie), atunci este considerat IA.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "2: Controlul uman în interacțiunile cu IA",
-      "Este sau nu IA"
+      "Este sau nu IA?"
     ]
   },
   {
@@ -66,7 +66,7 @@
     "href": "modul1/capitol2/2_1.html#termeni-de-reținut",
     "title": "Ce este IA și ce nu este IA?",
     "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nDeși există multe definiții complexe, pentru acest curs vom simplifica IA la următoarea formulă de bază:\nDate + Algoritmi = Rezultat Inteligent\nUnde: - Datele sunt informații din lumea reală (de exemplu, imagini, text, cifre). - Algoritmii sunt setul de reguli pe care sistemul le urmează pentru a procesa datele. - Rezultatul Inteligent este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.",
+    "text": "Termeni de reținut\nDeși există multe definiții complexe, pentru acest curs vom simplifica IA la următoarea formulă de bază:\nDate + Algoritmi = Rezultat Inteligent\nUnde:\n\nDatele sunt informații din lumea reală (de exemplu, imagini, text, cifre).\nAlgoritmii sunt setul de reguli pe care sistemul le urmează pentru a procesa datele.\nRezultatul Inteligent este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -284,7 +284,7 @@
     "href": "modul1/capitol2/2_0.html#obiectivele-capitolului",
     "title": "Introducere",
     "section": "Obiectivele capitolului",
-    "text": "Obiectivele capitolului\nÎn acest capitol vom explora conceptul de supraveghere și responsabilitate umană în contextul sistemelor de inteligență artificială.\nVom începe cu un studiu de caz bazat pe un eveniment real pentru a analiza implicațiile acestui concept. Apoi, vom aprofunda distincția dintre “ce este și ce nu este IA” și vom examina modul în care oamenii sunt implicați în fiecare etapă a ciclului de viață al unui sistem IA.",
+    "text": "Obiectivele capitolului\nÎn acest capitol, vom trece de la teorie la practică. Vom începe prin a stabili o definiție simplă și clară a inteligenței artificiale. Apoi, vom aplica această definiție într-un exercițiu interactiv pentru a distinge tehnologiile IA de cele care nu sunt IA. La final, vom analiza rolul esențial pe care îl au oamenii în crearea și funcționarea sistemelor IA, explorând cum deciziile umane pot introduce viziuni părtinitoare (bias).",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -296,7 +296,7 @@
     "href": "modul1/capitol2/2_0.html#rezultatele-învățării",
     "title": "Introducere",
     "section": "Rezultatele învățării",
-    "text": "Rezultatele învățării\nLa finalul acestui capitol, vei putea să:\n\nExplici ce este și ce nu este un sistem IA.\nRecunoști rolul esențial al oamenilor în dezvoltarea sistemelor IA, precum și importanța controlului și a supravegherii umane.\nDescrii cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială.",
+    "text": "Rezultatele învățării\nLa finalul acestui capitol, vei putea să:\n\nDefinești un sistem IA folosind formula: Date + Algoritmi = Rezultat Inteligent.\nDistingi corect între exemple de tehnologii care folosesc IA și cele care nu o folosesc.\nExplici cele patru faze ale ciclului de viață al unui sistem IA și cum deciziile umane influențează fiecare etapă.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -335,6 +335,19 @@
     "title": "Factorul uman și IA",
     "section": "Factorul uman și IA",
     "text": "Factorul uman și IA\n\nUrmărește video de mai jos (3:40) pentru a afla răspunsul la întrebarea: cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială?\n\n\n\n\n\nSursa: Human agency and AI de la Utrecht University, licențiat sub CC BY-SA 4.0.\n\n\n\n\n\n\n\nVideoclipurile includ subtitrări.  Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:\n\n\n\n\n\n\nApasă pe pictograma roată dințată (Setări) din playerul video.\nSelectează Subtitles/CC.\nAlege Auto-translate și apoi selectează Romanian.\n\n\n\n\n\n\nTranscriere video: Factorul Uman și Inteligența Artificială\n\n\nDeși sistemele IA par a fi instrumente complet automate, ele sunt puternic influențate de factorul uman. În acest videoclip, vei învăța să răspunzi la întrebarea: cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială?\nAcest ciclu de viață poate fi împărțit în patru faze: proiectare, dezvoltare, implementare și utilizare.\nFaza 1: Proiectarea\nSă luăm un studiu de caz. Un funcționar guvernamental are sarcina de a răspunde la întrebarea: cum poate fi prevenită criminalitatea într-un cartier?\nExistă mai multe răspunsuri posibile la această întrebare. De exemplu:\n\ninvestirea în campanii de informare privind prevenirea spargerilor,\nextinderea patrulelor de poliție,\nsau utilizarea unui sistem IA pentru a prezice incidente.\n\nÎn acest exemplu, funcționarul guvernamental alege să folosească un sistem IA pentru a prezice incidentele. Legile reglementează ce au voie oamenii să facă cu instrumentele IA. De exemplu, pentru predicția infracțiunilor, Legea privind IA (AI Act) interzice sistemele care prezic comportamentul pe baza caracteristicilor personale.\nDupă ce se ia această decizie, specialiștii în date (data scientists) colectează datele necesare pentru funcționarea sistemului IA. Totuși, datele colectate oferă doar o reprezentare limitată a realității. De exemplu, un specialist ar putea folosi date despre spargeri pentru a prezice infracțiunile. Alte tipuri de infracțiuni, precum frauda, s-ar putea să nu fie incluse în setul de date. Acest lucru duce la o viziune părtinitoare (bias) în rezultat, sistemul prezicând spargerile, dar nu și fraudele.\nOamenii sunt cei care decid ce date sunt folosite la antrenarea sistemului IA.\nFaza 2: Dezvoltarea\nProgramatorii dezvoltă și ajustează sistemul IA pentru a obține rezultatul dorit. Adesea, ei decid ce elemente din date sunt mai importante decât altele în calcularea rezultatelor.\nDe exemplu, care sunt cele mai importante elemente în prezicerea unei infracțiuni? Sunt datele despre nivelul veniturilor, nivelul de educație sau despre gen? În acest sens, alegerile programatorilor influențează rezultatul sistemului IA.\nFaza 3: Implementarea\nOdată implementat, utilizatorii finali încep să folosească sistemul IA. Pentru unele sisteme, acest lucru înseamnă că sunt adăugate date noi, ceea ce influențează rezultatul.\nDe exemplu, dacă șoferul unei mașini albastre comite spargeri în mod repetat, sistemul IA va primi multe date în care o mașină albastră a fost implicată într-o spargere. Acest lucru ar putea face ca sistemul IA să prezică faptul că și alte mașini albastre ar putea fi implicate în spargeri. Astfel, se creează rezultate nedrepte și părtinitoare (bias).\nPrin urmare, programatorii trebuie să evalueze constant dacă sistemul IA produce rezultate relevante. Dacă nu, programatorii trebuie să ajusteze din nou sistemul.\nFaza 4: Utilizarea\nUtilizatorii finali interpretează și folosesc rezultatele unui sistem IA în moduri diferite.\nDe exemplu, un funcționar guvernamental poate concluziona că în cartier au loc doar spargeri, deoarece sistemul IA nu prezice alte tipuri de infracțiuni. Funcționarul ar putea crea o politică guvernamentală bazată pe această presupunere falsă. Deoarece utilizatorii finali interpretează diferit rezultatele sistemelor IA, rolul pe care aceste sisteme îl au în societate diferă enorm.\nConcluzie\nÎn fiecare dintre cele patru faze ale ciclului de viață al unui sistem IA, oamenii fac alegeri care influențează sistemul, cum ar fi:\n\nAr trebui folosit un sistem IA pentru a răspunde la o întrebare?\nCe date ar trebui colectate?\nCând funcționează sistemul IA suficient de bine?\nCum ar trebui interpretat rezultatul sistemului?\n\nDupă cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazele. Rezultatul nu este niciodată neutru. Atunci când folosim sau dezvoltăm un sistem IA, este esențial să evaluăm în mod critic impactul uman.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Factorul uman și IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_3.html#termeni-de-reținut",
+    "href": "modul1/capitol2/2_3.html#termeni-de-reținut",
+    "title": "Factorul uman și IA",
+    "section": "Termeni de reținut",
+    "text": "Termeni de reținut\nViziunea părtinitoare (bias) se referă la o tendință sau o înclinație sistematică ce duce la rezultate nedrepte sau incorecte. În contextul IA, aceasta apare atunci când un sistem favorizează anumite grupuri, caracteristici sau rezultate în detrimentul altora.\nBias-ul nu apare în mod magic; el este introdus de oameni prin:\n\nDatele alese: Dacă datele de antrenament nu reprezintă corect realitatea (de exemplu, conțin mai multe imagini cu un anumit grup de persoane), sistemul va învăța acele dezechilibre.\nDeciziile de proiectare: Alegerile făcute de programatori cu privire la ce anume să prioritizeze pot crea un bias.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
