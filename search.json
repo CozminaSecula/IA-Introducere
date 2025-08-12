@@ -14,7 +14,7 @@
     "href": "modul1/capitol2/2_2.html#puncte-cheie",
     "title": "Este sau nu IA",
     "section": "Puncte cheie",
-    "text": "Puncte cheie\n\nLa baza oricărui sistem IA stau două componente esențiale: datele pe care le analizează și algoritmii (un set de reguli sau instrucțiuni) pe care îi urmează.\nScopul combinării datelor cu algoritmii este de a produce un rezultat inteligent, o acțiune, o predicție sau o decizie care altfel ar necesita inteligență umană.",
+    "text": "Puncte cheie\n\nPentru a decide dacă un sistem este IA, amintiți-vă să căutați cele două componente esențiale: datele pe care le folosește și algoritmii pe care îi urmează.\nDacă un sistem combină aceste elemente pentru a produce un rezultat inteligent (o predicție, o acțiune sau o decizie), atunci este considerat IA.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -23,11 +23,11 @@
     ]
   },
   {
-    "objectID": "modul1/capitol2/2_1.html#întrebare",
-    "href": "modul1/capitol2/2_1.html#întrebare",
+    "objectID": "modul1/capitol2/2_1.html#întrebări",
+    "href": "modul1/capitol2/2_1.html#întrebări",
     "title": "Ce este IA și ce nu este IA?",
-    "section": "Întrebare",
-    "text": "Întrebare\n\nCum putem distinge între un sistem care folosește IA și unul care este doar un program informatic complex?",
+    "section": "Întrebări",
+    "text": "Întrebări\n\nCare este “formula” simplă pentru a identifica un sistem IA în viața de zi cu zi?\nCe anume face ca un aspirator-robot să fie considerat IA, dar un aspirator obișnuit nu?",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "objectID": "modul1/capitol2/2_1.html#obiectiv",
-    "href": "modul1/capitol2/2_1.html#obiectiv",
+    "objectID": "modul1/capitol2/2_1.html#obiective",
+    "href": "modul1/capitol2/2_1.html#obiective",
     "title": "Ce este IA și ce nu este IA?",
-    "section": "Obiectiv",
-    "text": "Obiectiv\n\nExplici ce este și ce nu este IA.",
+    "section": "Obiective",
+    "text": "Obiective\nLa finalul acestei lecții, vei putea:\n\nDefini inteligența artificială folosind cele trei componente de bază: date, algoritmi și rezultat inteligent.\nAplica această definiție pentru a distinge corect între tehnologii care folosesc IA și cele care nu o folosesc.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -53,7 +53,7 @@
     "href": "modul1/capitol2/2_1.html#cum-putem-defini-inteligența-artificială",
     "title": "Ce este IA și ce nu este IA?",
     "section": "Cum putem defini inteligența artificială?",
-    "text": "Cum putem defini inteligența artificială?\n\nUrmărește video de mai jos (5:09) care introduce inteligența artificială.\n\n\n\n\n\n\n\n\nVideoclipurile includ subtitrări.  Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:\n\n\n\n\n\n\nApasă pe pictograma roată dințată (Setări) din playerul video.\nSelectează Subtitles/CC.\nAlege Auto-translate și apoi selectează Romanian.\n\n\n\n\n\n\nTranscriere video: Ce este Inteligența Artificială?\n\n\nO introducere în IA\nInteligența artificială (IA) a devenit un termen la modă, pe care probabil l-ai auzit recent în social media, în conversații sau la televizor. Cu toate acestea, conceptul nu este nou. De fapt, folosești IA de ani de zile, poate fără să-ți dai seama.\nUneori, IA este prezentată ca o forță capabilă să schimbe modul în care trăim, muncim și interacționăm. Dar, dincolo de entuziasmul exagerat, IA este un instrument – unul care a evoluat de-a lungul deceniilor, modelat de contribuțiile a nenumărați oameni din diverse domenii. Și nu este destinat doar celor care lucrează în tehnologie, este pentru noi toți.\nCe este, de fapt, Inteligența Artificială?\nPe scurt, IA este capacitatea unui sistem informatic de a învăța din date și erori anterioare, permițându-i să facă predicții din ce în ce mai precise pentru comportamente viitoare. Aceasta include o gamă largă de activități, cum ar fi:\n\nRezolvarea problemelor\nRecunoașterea vorbirii\nÎnvățarea\nLuarea deciziilor\n\nCe face ca un sistem IA să fie “inteligent”?\nLa bază, IA este inteligența demonstrată de software sau mașini în îndeplinirea unor sarcini care, în mod normal, necesită inteligență umană.\nDe exemplu, când interacționezi cu Siri pe telefon, acesta nu manifestă inteligență în același mod ca un om. Mai degrabă, oamenii l-au programat să răspundă la anumite comenzi și să execute funcții, cum ar fi să-ți ofere prognoza meteo sau ultimele știri.\nLa fel, un robot care joacă șah cu un om face mișcări strategice, dar nu este inteligent în sens uman. Robotul doar urmează algoritmi și strategii cu care a fost programat. El învață din jocurile anterioare prin învățare automată (machine learning), ceea ce îi permite să-și îmbunătățească performanța în timp.\nTestul Turing: O întrebare veche de zeci de ani\nÎntrebarea dacă acțiunile unui robot echivalează cu inteligența nu este nouă. În 1950, Alan Turing, un renumit matematician și informatician, a pus întrebarea: “Cum putem determina dacă o mașină este inteligentă?”\nPentru a răspunde, el a creat faimosul Test Turing. În acest test, un evaluator uman interacționează (fără să vadă) fie cu un alt om, fie cu un computer, și trebuie să determine care dintre interlocutori este mașina. Scopul nu era ca mașina să dea răspunsul corect la o întrebare precum “2+2”, ci să evalueze dacă răspunsul său este la fel cu cel al unui om, cu toate nuanțele sale.\nIA în viața de zi cu zi\nAstăzi, IA este tot mai prezentă în viața noastră. De exemplu:\n\nSocial Media: Aplicații precum Instagram folosesc învățarea automată pentru a decide ce conținut să-ți afișeze, pe baza activității tale recente.\nServicii de streaming: Un proces similar funcționează atunci când termini un serial, iar platforma îți recomandă ce să urmărești în continuare.\n\nMituri și realitate\nReprezentarea IA în filmele de la Hollywood este adesea inexactă. Unele filme prezintă IA ca având sentimente sau fiind superioară oamenilor. Aceste narațiuni sunt interpretări artistice menite să provoace gândirea, nu să reflecte cu acuratețe capacitățile reale ale IA.\nDeși IA poate imita anumite aspecte ale inteligenței umane, este important să reținem că funcționează foarte diferit. IA nu are conștiință, emoții sau capacitatea de a înțelege contextul în același mod ca oamenii. Este un instrument creat și controlat de oameni, iar capacitățile sale sunt limitate la ceea ce a fost programată să facă.\nDe aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne permite să distingem faptele de ficțiune.",
+    "text": "Cum putem defini inteligența artificială?\n\nUrmărește video de mai jos (5:09) care introduce inteligența artificială.\n\n\n\n\n\n\n\n\n\n\nVideoclipurile includ subtitrări.  Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:\n\n\n\n\n\n\nApasă pe pictograma roată dințată (Setări) din playerul video.\nSelectează Subtitles/CC.\nAlege Auto-translate și apoi selectează Romanian.\n\n\n\n\n\n\nTranscriere video: Ce este Inteligența Artificială?\n\n\nO introducere în IA\nInteligența artificială (IA) a devenit un termen la modă, pe care probabil l-ai auzit recent în social media, în conversații sau la televizor. Cu toate acestea, conceptul nu este nou. De fapt, folosești IA de ani de zile, poate fără să-ți dai seama.\nUneori, IA este prezentată ca o forță capabilă să schimbe modul în care trăim, muncim și interacționăm. Dar, dincolo de entuziasmul exagerat, IA este un instrument – unul care a evoluat de-a lungul deceniilor, modelat de contribuțiile a nenumărați oameni din diverse domenii. Și nu este destinat doar celor care lucrează în tehnologie, este pentru noi toți.\nCe este, de fapt, Inteligența Artificială?\nPe scurt, IA este capacitatea unui sistem informatic de a învăța din date și erori anterioare, permițându-i să facă predicții din ce în ce mai precise pentru comportamente viitoare. Aceasta include o gamă largă de activități, cum ar fi:\n\nRezolvarea problemelor\nRecunoașterea vorbirii\nÎnvățarea\nLuarea deciziilor\n\nCe face ca un sistem IA să fie “inteligent”?\nLa bază, IA este inteligența demonstrată de software sau mașini în îndeplinirea unor sarcini care, în mod normal, necesită inteligență umană.\nDe exemplu, când interacționezi cu Siri pe telefon, acesta nu manifestă inteligență în același mod ca un om. Mai degrabă, oamenii l-au programat să răspundă la anumite comenzi și să execute funcții, cum ar fi să-ți ofere prognoza meteo sau ultimele știri.\nLa fel, un robot care joacă șah cu un om face mișcări strategice, dar nu este inteligent în sens uman. Robotul doar urmează algoritmi și strategii cu care a fost programat. El învață din jocurile anterioare prin învățare automată (machine learning), ceea ce îi permite să-și îmbunătățească performanța în timp.\nTestul Turing: O întrebare veche de zeci de ani\nÎntrebarea dacă acțiunile unui robot echivalează cu inteligența nu este nouă. În 1950, Alan Turing, un renumit matematician și informatician, a pus întrebarea: “Cum putem determina dacă o mașină este inteligentă?”\nPentru a răspunde, el a creat faimosul Test Turing. În acest test, un evaluator uman interacționează (fără să vadă) fie cu un alt om, fie cu un computer, și trebuie să determine care dintre interlocutori este mașina. Scopul nu era ca mașina să dea răspunsul corect la o întrebare precum “2+2”, ci să evalueze dacă răspunsul său este la fel cu cel al unui om, cu toate nuanțele sale.\nIA în viața de zi cu zi\nAstăzi, IA este tot mai prezentă în viața noastră. De exemplu:\n\nSocial Media: Aplicații precum Instagram folosesc învățarea automată pentru a decide ce conținut să-ți afișeze, pe baza activității tale recente.\nServicii de streaming: Un proces similar funcționează atunci când termini un serial, iar platforma îți recomandă ce să urmărești în continuare.\n\nMituri și realitate\nReprezentarea IA în filmele de la Hollywood este adesea inexactă. Unele filme prezintă IA ca având sentimente sau fiind superioară oamenilor. Aceste narațiuni sunt interpretări artistice menite să provoace gândirea, nu să reflecte cu acuratețe capacitățile reale ale IA.\nDeși IA poate imita anumite aspecte ale inteligenței umane, este important să reținem că funcționează foarte diferit. IA nu are conștiință, emoții sau capacitatea de a înțelege contextul în același mod ca oamenii. Este un instrument creat și controlat de oameni, iar capacitățile sale sunt limitate la ceea ce a fost programată să facă.\nDe aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne permite să distingem faptele de ficțiune.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -66,7 +66,7 @@
     "href": "modul1/capitol2/2_1.html#termeni-de-reținut",
     "title": "Ce este IA și ce nu este IA?",
     "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nDeși există multe tipuri de IA și câteva definiții diferite, vom defini IA ca:\n\naplicarea de algoritmi la datele din lumea reală pentru a ajuta oamenii să rezolve probleme, să ia decizii și să facă sarcini mai rapid și mai bine decât am putea singuri*.",
+    "text": "Termeni de reținut\nDeși există multe definiții complexe, pentru acest curs vom simplifica IA la următoarea formulă de bază:\nDate + Algoritmi = Rezultat Inteligent\nUnde: - Datele sunt informații din lumea reală (de exemplu, imagini, text, cifre). - Algoritmii sunt setul de reguli pe care sistemul le urmează pentru a procesa datele. - Rezultatul Inteligent este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -79,7 +79,7 @@
     "href": "modul1/index.html",
     "title": "Fundamentele IA",
     "section": "",
-    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA și ce nu este IA?\n\n\n\nSupravegherea și responsabilitatea umană și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
+    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA și ce nu este IA?\n\n\n\nFactorul uman și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -104,7 +104,7 @@
     "href": "modul1/capitol1/1_1.html#obiective",
     "title": "Ce este IA?",
     "section": "Obiective",
-    "text": "Obiective\n\nÎnțelegi ce este IA și ce nu este IA.\nIdentifici exemple de IA în viața de zi cu zi.",
+    "text": "Obiective\nLa finalul acestei lecții, vei putea:\n\nÎnțelege ce este IA și ce nu este IA.\nIdentifica exemple de IA în viața de zi cu zi.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -182,7 +182,7 @@
     "href": "modul1/capitol1/1_3.html#obiective",
     "title": "Cum “învață” IA?",
     "section": "Obiective",
-    "text": "Obiective\n\nDiferențiezi între modul în care oamenii și sistemele IA colectează date.\nDescrii conceptul de bază al învățării supervizate.\nExplici rolul datelor etichetate în antrenarea unui sistem IA.",
+    "text": "Obiective\nLa finalul acestei lecții, vei putea:\n\nDiferenția între modul în care oamenii și sistemele IA colectează date.\nDescrie conceptul de bază al învățării supervizate.\nExplica rolul datelor etichetate în antrenarea unui sistem IA.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -258,7 +258,7 @@
     "href": "modul1/capitol1/1_2.html#obiective",
     "title": "Istoria IA",
     "section": "Obiective",
-    "text": "Obiective\n\nÎnțelegi originile termenului “inteligență artificială”.\nExplici progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.",
+    "text": "Obiective\nLa finalul acestei lecții, vei putea:\n\nÎnțelege originile termenului “inteligență artificială”.\nExplica progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -301,6 +301,71 @@
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "2: Controlul uman în interacțiunile cu IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_3.html#întrebări",
+    "href": "modul1/capitol2/2_3.html#întrebări",
+    "title": "Factorul uman și IA",
+    "section": "Întrebări",
+    "text": "Întrebări\n\nOdată ce un sistem IA este creat, mai este nevoie de intervenție umană?\nCum pot alegerile făcute de oameni să introducă viziuni părtinitoare (bias) într-un sistem IA?",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Factorul uman și IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_3.html#obiectiv",
+    "href": "modul1/capitol2/2_3.html#obiectiv",
+    "title": "Factorul uman și IA",
+    "section": "Obiectiv",
+    "text": "Obiectiv\nLa finalul acestei lecții, vei putea:\n\nIdentifica cele patru faze ale ciclului de viață al unui sistem IA: proiectare, dezvoltare, implementare și utilizare.\nExplica modul în care deciziile umane influențează fiecare fază.\nRecunoaște că sistemele IA nu sunt neutre și reflectă alegerile și valorile creatorilor lor (oamenii).",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Factorul uman și IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_3.html#factorul-uman-și-ia",
+    "href": "modul1/capitol2/2_3.html#factorul-uman-și-ia",
+    "title": "Factorul uman și IA",
+    "section": "Factorul uman și IA",
+    "text": "Factorul uman și IA\n\nUrmărește video de mai jos (3:40) pentru a afla răspunsul la întrebarea: cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială?\n\n\n\n\n\nSursa: Human agency and AI de la Utrecht University, licențiat sub CC BY-SA 4.0.\n\n\n\n\n\n\n\nVideoclipurile includ subtitrări.  Dacă subtitrarea în limba română nu apare automat, urmează pașii de mai jos:\n\n\n\n\n\n\nApasă pe pictograma roată dințată (Setări) din playerul video.\nSelectează Subtitles/CC.\nAlege Auto-translate și apoi selectează Romanian.\n\n\n\n\n\n\nTranscriere video: Factorul Uman și Inteligența Artificială\n\n\nDeși sistemele IA par a fi instrumente complet automate, ele sunt puternic influențate de factorul uman. În acest videoclip, vei învăța să răspunzi la întrebarea: cum sunt implicați oamenii în fiecare fază a ciclului de viață al unui sistem de inteligență artificială?\nAcest ciclu de viață poate fi împărțit în patru faze: proiectare, dezvoltare, implementare și utilizare.\nFaza 1: Proiectarea\nSă luăm un studiu de caz. Un funcționar guvernamental are sarcina de a răspunde la întrebarea: cum poate fi prevenită criminalitatea într-un cartier?\nExistă mai multe răspunsuri posibile la această întrebare. De exemplu:\n\ninvestirea în campanii de informare privind prevenirea spargerilor,\nextinderea patrulelor de poliție,\nsau utilizarea unui sistem IA pentru a prezice incidente.\n\nÎn acest exemplu, funcționarul guvernamental alege să folosească un sistem IA pentru a prezice incidentele. Legile reglementează ce au voie oamenii să facă cu instrumentele IA. De exemplu, pentru predicția infracțiunilor, Legea privind IA (AI Act) interzice sistemele care prezic comportamentul pe baza caracteristicilor personale.\nDupă ce se ia această decizie, specialiștii în date (data scientists) colectează datele necesare pentru funcționarea sistemului IA. Totuși, datele colectate oferă doar o reprezentare limitată a realității. De exemplu, un specialist ar putea folosi date despre spargeri pentru a prezice infracțiunile. Alte tipuri de infracțiuni, precum frauda, s-ar putea să nu fie incluse în setul de date. Acest lucru duce la o viziune părtinitoare (bias) în rezultat, sistemul prezicând spargerile, dar nu și fraudele.\nOamenii sunt cei care decid ce date sunt folosite la antrenarea sistemului IA.\nFaza 2: Dezvoltarea\nProgramatorii dezvoltă și ajustează sistemul IA pentru a obține rezultatul dorit. Adesea, ei decid ce elemente din date sunt mai importante decât altele în calcularea rezultatelor.\nDe exemplu, care sunt cele mai importante elemente în prezicerea unei infracțiuni? Sunt datele despre nivelul veniturilor, nivelul de educație sau despre gen? În acest sens, alegerile programatorilor influențează rezultatul sistemului IA.\nFaza 3: Implementarea\nOdată implementat, utilizatorii finali încep să folosească sistemul IA. Pentru unele sisteme, acest lucru înseamnă că sunt adăugate date noi, ceea ce influențează rezultatul.\nDe exemplu, dacă șoferul unei mașini albastre comite spargeri în mod repetat, sistemul IA va primi multe date în care o mașină albastră a fost implicată într-o spargere. Acest lucru ar putea face ca sistemul IA să prezică faptul că și alte mașini albastre ar putea fi implicate în spargeri. Astfel, se creează rezultate nedrepte și părtinitoare (bias).\nPrin urmare, programatorii trebuie să evalueze constant dacă sistemul IA produce rezultate relevante. Dacă nu, programatorii trebuie să ajusteze din nou sistemul.\nFaza 4: Utilizarea\nUtilizatorii finali interpretează și folosesc rezultatele unui sistem IA în moduri diferite.\nDe exemplu, un funcționar guvernamental poate concluziona că în cartier au loc doar spargeri, deoarece sistemul IA nu prezice alte tipuri de infracțiuni. Funcționarul ar putea crea o politică guvernamentală bazată pe această presupunere falsă. Deoarece utilizatorii finali interpretează diferit rezultatele sistemelor IA, rolul pe care aceste sisteme îl au în societate diferă enorm.\nConcluzie\nÎn fiecare dintre cele patru faze ale ciclului de viață al unui sistem IA, oamenii fac alegeri care influențează sistemul, cum ar fi:\n\nAr trebui folosit un sistem IA pentru a răspunde la o întrebare?\nCe date ar trebui colectate?\nCând funcționează sistemul IA suficient de bine?\nCum ar trebui interpretat rezultatul sistemului?\n\nDupă cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazele. Rezultatul nu este niciodată neutru. Atunci când folosim sau dezvoltăm un sistem IA, este esențial să evaluăm în mod critic impactul uman.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Factorul uman și IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_3.html#ciclul-de-viață-al-unui-sistem-ia",
+    "href": "modul1/capitol2/2_3.html#ciclul-de-viață-al-unui-sistem-ia",
+    "title": "Factorul uman și IA",
+    "section": "Ciclul de viață al unui sistem IA",
+    "text": "Ciclul de viață al unui sistem IA\nDupă cum a arătat videoclipul, implicarea umană este esențială în fiecare etapă a unui sistem de inteligență artificială. Mai jos este un rezumat al celor patru faze și al modului în care deciziile umane le modelează:\n\nProiectare: Oamenii decid dacă și cum să folosească un sistem IA. Ei definesc problema, stabilesc obiectivele și aleg datele inițiale. Aici pot apărea primele viziuni părtinitoare (bias), prin excluderea anumitor tipuri de date.\nDezvoltare: Programatorii și specialiștii în date scriu algoritmii și antrenează modelul. Ei decid ce caracteristici din date sunt considerate importante, influențând direct modul în care sistemul “gândește”.\nImplementare: Sistemul este lansat și începe să interacționeze cu lumea reală și cu utilizatorii. Modul în care este folosit generează date noi, care pot consolida sau modifica comportamentul sistemului. Este necesară o monitorizare constantă pentru a corecta erorile și comportamentele nedorite.\nUtilizare: Utilizatorii finali interpretează rezultatele oferite de IA. Această interpretare este subiectivă și poate duce la decizii greșite dacă limitările sistemului nu sunt înțelese.\n\nFiecare dintre aceste etape demonstrează că IA este un instrument modelat de intențiile, alegerile și, uneori, de prejudecățile umane.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Factorul uman și IA"
+    ]
+  },
+  {
+    "objectID": "modul1/capitol2/2_3.html#puncte-cheie",
+    "href": "modul1/capitol2/2_3.html#puncte-cheie",
+    "title": "Factorul uman și IA",
+    "section": "Puncte cheie",
+    "text": "Puncte cheie\n\nUn sistem IA trece prin patru faze distincte: proiectare, dezvoltare, implementare și utilizare.\nOamenii sunt esențiali în fiecare fază, luând decizii care influențează direct comportamentul și rezultatele sistemului.\nDeoarece sunt create de oameni, sistemele IA nu sunt niciodată complet neutre. Ele pot moșteni și chiar amplifica viziunile părtinitoare (bias) umane.",
+    "crumbs": [
+      "Structură curs",
+      "Modul 1: Fundamentele Inteligenței Artificiale",
+      "2: Controlul uman în interacțiunile cu IA",
+      "Factorul uman și IA"
     ]
   },
   {
@@ -411,6 +476,17 @@
     "title": "Licența Cursului",
     "section": "Ilustrații",
     "text": "Ilustrații\nPe lângă materialele proprii, am folosit și adaptat ilustrații din sursele de mai jos. Versiunile modificate sunt, de asemenea, disponibile sub licența CC BY-SA 4.0.\n\n\n\nNume ilustrație\nAutor(i)\nSursă / Licență\n\n\n\n\nArtificial Intelligence V1\nJonny Lighthands & Eléonore Guerra\nTuring Commons / CC BY-SA 4.0\n\n\nCitizen Engagement\nJonny Lighthands & Eléonore Guerra\nTuring Commons / CC BY-SA 4.0\n\n\nParticipation\nJonny Lighthands & Eléonore Guerra\nTuring Commons / CC BY-SA 4.0",
+    "crumbs": [
+      "Altele",
+      "Licențe"
+    ]
+  },
+  {
+    "objectID": "altele/licenta.html#sec-video",
+    "href": "altele/licenta.html#sec-video",
+    "title": "Licența Cursului",
+    "section": "Videoclipuri",
+    "text": "Videoclipuri\nAm folosit următoarele videoclipuri publicate sub licențe deschise.\n\n\n\nNume videoclip\nAutor(i)\nSursă / Licență\n\n\n\n\nHuman agency and AI\nUtrecht University\nYouTube / CC BY-SA 4.0",
     "crumbs": [
       "Altele",
       "Licențe"
