@@ -18,7 +18,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Este sau nu IA?"
     ]
   },
@@ -31,7 +31,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Cum definim IA"
     ]
   },
@@ -44,7 +44,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Cum definim IA"
     ]
   },
@@ -57,7 +57,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Cum definim IA"
     ]
   },
@@ -70,7 +70,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Cum definim IA"
     ]
   },
@@ -79,7 +79,7 @@
     "href": "modul1/index.html",
     "title": "Fundamentele IA",
     "section": "",
-    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Controlul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA și ce nu este IA?\n\n\n\nFactorul uman și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
+    "text": "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Factorul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA și ce nu este IA?\n\n\n\nFactorul uman și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup\n \n\n\n\n\n\n3: Introducerea arborilor decizionali\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere capitol\n\n\n\nCe este un arbore decizional?\n\n\n\nCum funcționează?\n\n\n\nActivități: creare arbore decizional",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -117,7 +117,7 @@
     "href": "modul1/capitol1/1_1.html#termeni-de-reținut",
     "title": "Ce este IA?",
     "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nIA generală și IA restrânsă\nEste posibil să întâlnești în alte materiale termenii IA “generală” și IA “restrânsă”.\nIA generală se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. Cercetătorii din domeniul inteligenței artificiale nu au înregistrat progrese prea mari în ceea ce privește IA generală.\nÎn schimb, în domeniul IA restrânse sunt înregistrate progrese.\nIA restrânsă se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).",
+    "text": "Termeni de reținut\nIA generală și IA restrânsă\nEste posibil să întâlnești în alte materiale termenii IA “generală” și IA “restrânsă”.\nIA generală se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist.\nIA restrânsă se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -288,7 +288,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA"
+      "2: Factorul uman în interacțiunile cu IA"
     ]
   },
   {
@@ -300,7 +300,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA"
+      "2: Factorul uman în interacțiunile cu IA"
     ]
   },
   {
@@ -312,7 +312,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Factorul uman și IA"
     ]
   },
@@ -325,7 +325,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Factorul uman și IA"
     ]
   },
@@ -338,7 +338,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Factorul uman și IA"
     ]
   },
@@ -351,7 +351,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Factorul uman și IA"
     ]
   },
@@ -364,7 +364,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Factorul uman și IA"
     ]
   },
@@ -377,7 +377,7 @@
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
-      "2: Controlul uman în interacțiunile cu IA",
+      "2: Factorul uman în interacțiunile cu IA",
       "Factorul uman și IA"
     ]
   },
