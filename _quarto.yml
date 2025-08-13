@@ -32,7 +32,7 @@ website:
                     href: modul1/capitol1/1_3.qmd
                   - text: "Rolul tău"
                     href: modul1/capitol1/1_4.qmd
-              - section: "2: Controlul uman în interacțiunile cu IA"
+              - section: "2: Factorul uman în interacțiunile cu IA"
                 href: modul1/capitol2/2_0.qmd
                 contents:
                   - text: "Cum definim IA"

@@ -44,9 +44,7 @@ Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/altele/licenta.qm
 
 Este posibil să întâlnești în alte materiale termenii IA "generală" și IA "restrânsă". 
 
-**IA generală** se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. Cercetătorii din domeniul inteligenței artificiale nu au înregistrat progrese prea mari în ceea ce privește IA generală. 
-
-În schimb, în domeniul IA restrânse sunt înregistrate progrese. 
+**IA generală** se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. 
 
 **IA restrânsă** se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).
 :::

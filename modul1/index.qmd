@@ -25,7 +25,7 @@ Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 :::
 
 ::: {.g-col-6}
-#### 2: Controlul uman în interacțiunile cu IA
+#### 2: Factorul uman în interacțiunile cu IA
 
 | Titlu                            |                                                                                                     |
 |:---------------------------------|:---------------------------------------------------------------------------------------------------:|
