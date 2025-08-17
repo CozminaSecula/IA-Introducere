@@ -16,11 +16,11 @@ Acest curs a fost dezvoltat prin adaptarea și utilizarea resurselor din următo
 
 ## Curriculum de Bază {#sec-curriculum}
 
-Conținutul principal al acestui curs este o adaptare a curriculumului **[AI Generation](https://aigeneration.uipathfoundation.com/ro/)**, un proiect educațional creat de UiPath Foundation în parteneriat cu App Inventor Foundation și Global Science of Learning Education Network. Materialele originale sunt licențiate sub [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Conținutul principal al acestui curs este o adaptare a curriculumului **[AI Generation](https://aigeneration.uipathfoundation.com/ro/)**, un proiect educațional creat de [UiPath Foundation](https://uipathfoundation.com/) în parteneriat cu [App Inventor Foundation](https://www.appinventorfoundation.org/) și [Global Science of Learning Education Network](https://gsolen.ucsd.edu/). Materialele originale sunt licențiate sub [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Ilustrații {#sec-ilustratii}
 
-Pe lângă materialele proprii, am folosit și adaptat ilustrații din sursele de mai jos. Versiunile modificate sunt, de asemenea, disponibile sub licența **CC BY-SA 4.0**.
+Pe lângă materialele proprii, am folosit și adaptat ilustrații din sursele de mai jos. Versiunile modificate sunt, de asemenea, disponibile sub licența [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 | Nume ilustrație         | Autor(i)                           | Sursă / Licență                                                                                             |
 |-------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------|
