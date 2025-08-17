@@ -31,19 +31,6 @@ Da, pentru că folosește algoritmi și date din mediu pentru a planifica traseu
 :::
 :::
 
-### Mașină de jucărie
-
-::: {.columns}
-::: {.column width="50%" .image-col}
-![](images/masina-jucarie.svg) ![](images/fail.svg)
-:::
-::: {.column width="50%"}
-**Mașină de jucărie**
-
-Nu, pentru că doar urmează comenzile prin telecomandă, fără date sau algoritmi.
-:::
-:::
-
 ### Filtre Social Media
 
 ::: {.columns}

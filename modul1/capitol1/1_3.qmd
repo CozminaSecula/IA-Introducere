@@ -70,7 +70,7 @@ Tabelul de mai jos ilustrează cum ar putea fi etichetate diverse elemente pentr
 Sursa: [Licențe | AI Generation](/licente.qmd#sec-curriculum)
 </div>
 
-Imaginează-ți efortul de a eticheta manual mii de astfel de exemple pentru a antrena un robot ce să mănânce. Din fericire, nu toate sistemele IA funcționează astfel. Unele pot învăța prin identificarea de tipare în date neetichetate sau prin descoperirea unor relații statistice.
+Imaginează-ți efortul de a eticheta manual mii de astfel de exemple pentru a antrena un sistem IA. Din fericire, nu toate sistemele IA funcționează astfel. Unele pot învăța prin identificarea de tipare în date neetichetate sau prin descoperirea unor relații statistice.
 
 Vom explora aceste metode pe parcursul cursului.
 

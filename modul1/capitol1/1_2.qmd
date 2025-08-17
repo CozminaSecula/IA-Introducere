@@ -11,7 +11,7 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
-- Când a fost inventat termenul *inteligență artificială*?
+- Când a fost folosit prima dată termenul *inteligență artificială*?
 - Care sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?
 :::
 
@@ -28,9 +28,9 @@ La finalul acestei lecții, vei putea:
 
 # Originile inteligenței artificiale
 
-Termenul *inteligență artificială* are mai puțin de un secol.
+Termenul **"inteligență artificială" (IA)** a apărut acum mai puțin de un secol. El a fost inventat de John McCarthy în 1956 pentru a denumi **Proiectul de cercetare de vară de la Dartmouth**. Această conferință a reunit timp de opt săptămâni matematicieni, informaticieni și psihologi cognitivi, care au lucrat împreună pentru a dezvolta conceptul de inteligență artificială.
 
-A fost inventat în 1956 și îi este atribuit lui John McCarthy, care a folosit termenul pentru *Proiectul de cercetare de vară de la Dartmouth privind inteligența artificială*. Aceasta a fost o conferință de 8 săptămâni în care matematicieni, informaticieni, psihologi cognitivi și-au combinat forțele pentru a elabora ideea de inteligență artificială. Unii dintre acești oameni de știință au supraestimat foarte mult dezvoltarea IA și în special cronologia. De exemplu, Marvin Minsky, co-fondatorul Laboratorului de IA de la MIT, a spus, în 1970, *în 3 – 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite*. Dar astăzi încă se lucrează la asta.
+Participanții la conferință au supraestimat ritmul de evoluție al AI. De exemplu, în 1970, Marvin Minsky, cofondatorul Laboratorului de AI de la MIT, a prezis că "*în 3 până la 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite”*. Cu toate acestea, atingerea acestui obiectiv este încă în curs de cercetare și dezvoltare.
 
 Cum de au fost atât de departe de realitate?
 
@@ -50,11 +50,11 @@ Revoluția IA de astăzi a fost posibilă datorită următoarelor două progrese
 
 1. **Creșterea puterii de calcul**
 
-- În 1956, computerele executau 200 000 de operații pe secundă.
+- În 1956, computerele executau 200.000 de operații pe secundă.
 - În 2007, iPhone-ul făcea 400 de milioane de operații pe secundă.
 - Astăzi, computerele pot face peste 30 de cvadrilioane operații pe secțiune. 
 
-Deci, ceea ce fac calculatoarele azi într-o secundă, în 1956 le-ar fi luat 4753 ani. Ca termen de referință, ce făcea un calculator din 1976 într-o secundă, unui om i-ar fi luat peste 55 de ani.
+Ceea ce fac calculatoarele azi într-o secundă, în 1956 le-ar fi luat 4753 ani. Ca termen de referință, ce făcea un calculator din 1976 într-o secundă, unui om i-ar fi luat peste 55 de ani.
 
 2. **Accesul la date prin intermediul internetului și a rețelelor de socializare**.  
 
