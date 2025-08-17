@@ -6,7 +6,7 @@ subtitle: "Un ghid pentru a înțelege IA și algoritmii, pentru a recunoaște c
 
 ## Ce este acest curs?
 
-![](/logo/curs-box.svg){style="float: right; margin-top: 10px;" fig-alt="Logo curs \"Atelierele IA\"Introducere în Inteligența Artificială\"" fig-align="right" width="200"}
+![](/logo/curs-box.svg){.preview-image style="float: right; margin-top: 10px;" fig-alt="Logo curs \"Atelierele IA\"Introducere în Inteligența Artificială\"" fig-align="right" width="200"}
 
 Cursul **Introducere în Inteligența Artificială** construiește fundamentele pentru literația în domeniul inteligenței artificiale.
 
