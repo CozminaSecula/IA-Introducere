@@ -6,7 +6,7 @@ title: "Introducere"
 ![O ilustrație despre conceptele cheie ale Inteligenței Artificiale.](/modul1/capitol1/images/artificial-intelligence.png){fig-align="left" width="650"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
-Sursa: [Licențe | Ilustrație: *Artificial Intelligence V1*](/altele/licenta.qmd#sec-ilustratii)
+Sursa: [Licențe | Ilustrație: *Artificial Intelligence V1*](/licente.qmd#sec-ilustratii)
 </div>
 
 <details>
@@ -18,7 +18,7 @@ Sursa: [Licențe | Ilustrație: *Artificial Intelligence V1*](/altele/licenta.qm
 
 În primul capitol vom explora fundamentele inteligenței artificiale. 
 
-Vom începe prin a defini ce este (și ce nu este) IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum s-a ajuns unde suntem astăzi. Vom descoperi mecanismele de bază prin care sistemele IA "învață" din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.
+Vom începe prin a defini ce este și ce nu este IA și vom vedea exemple concrete din viața de zi cu zi. Apoi, vom face o scurtă călătorie în istoria IA pentru a înțelege cum s-a ajuns unde suntem astăzi. Vom descoperi mecanismele de bază prin care sistemele IA "învață" din date și, în final, vom reflecta asupra rolului important pe care fiecare dintre noi îl are în modelarea viitorului acestei tehnologii.
 
 ## Rezultatele învățării
 

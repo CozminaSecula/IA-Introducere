@@ -4,6 +4,17 @@ project:
 website:
   title: "IA-Introducere"
   page-navigation: true
+
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Important** - Website-ul și conținutul său sunt în curs de dezvoltare, iar anumite resurse pot suferi modificări."
+    position: below-navbar
+    type: primary
+    
+   
+
+
   description: 'Curs de introducere în Inteligența artificială pentru elevi de liceu și studenți'
   search: false
   sidebar:
@@ -41,12 +52,9 @@ website:
                     href: modul1/capitol2/2_2.qmd
                   - text: "Factorul uman și IA"
                     href: modul1/capitol2/2_3.qmd
-      - section: "Altele"
-        contents:
-          - href: altele/licenta.qmd
-            text: Licențe
-          - href: altele/contact.qmd
-            text: Contact
+      - text: "Licențe"
+        href: licente.qmd
+
 
   page-footer:
     left: " Conținut {{< fa brands creative-commons >}} 2025 Cozmina Secula<br> Resursă sub licența [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)."

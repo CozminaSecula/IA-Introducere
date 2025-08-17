@@ -12,7 +12,7 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
--   Odată ce un sistem IA este creat, mai este nevoie de intervenție umană?
+-   Odată ce un sistem IA este creat, mai este nevoie de intervenția umană?
 -   Cum pot alegerile făcute de oameni să introducă viziuni părtinitoare (bias) într-un sistem IA?
 
 :::
@@ -41,7 +41,7 @@ La finalul acestei lecții, vei putea:
 {{< video https://www.youtube.com/watch?v=Hyq8j8SEx_Y?cc_load_policy=1&cc_lang_pref=ro >}}
 </div>
 <div class="text-left" style="font-size: 0.9em; margin-top: 0.5em;">
-Sursa: [Human agency and AI](https://www.youtube.com/watch?v=Hyq8j8SEx_Y) de la Utrecht University, licențiat sub [CC BY-SA 4.0](/altele/licenta.qmd#sec-video).
+Sursa: [Human agency and AI](https://www.youtube.com/watch?v=Hyq8j8SEx_Y) de la Utrecht University, licențiat sub [CC BY-SA 4.0](/licente.qmd#sec-video).
 </div>
 
 ::: {.callout-note icon="false" appearence="simple" collapse="true"}
@@ -108,7 +108,7 @@ De exemplu, un funcționar guvernamental poate concluziona că în cartier au lo
 - Când funcționează sistemul IA suficient de bine?
 - Cum ar trebui interpretat rezultatul sistemului?
 
-După cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazele. **Rezultatul nu este niciodată neutru**. Atunci când folosim sau dezvoltăm un sistem IA, este esențial să evaluăm în mod critic impactul uman.
+După cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazele. **Rezultatul nu este niciodată neutru**. Atunci când folosim sau dezvoltăm un sistem IA, este important să evaluăm în mod critic impactul uman.
 
   </p>
 </details>
@@ -117,7 +117,7 @@ După cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazel
 ::: callout-definition
 ## Termeni de reținut
 
-**Viziunea părtinitoare (bias)** se referă la o tendință sau o înclinație sistematică ce duce la rezultate nedrepte sau incorecte. În contextul IA, aceasta apare atunci când un sistem favorizează anumite grupuri, caracteristici sau rezultate în detrimentul altora.
+**Viziunea părtinitoare (bias)** se referă la presupuneri și prejudecăți despre lumea din jurul nostru care ne influențează deciziile, acțiunile sau modul în care percem lucrurile. Este un fenomen care apare atât la oameni, cât și în contextul inteligenței artificiale. În contextul IA, părtinirea (bias-ul) apare atunci când un sistem IA, dezvoltă o *inclinație sistematică*, favorizează anumite grupuri, caracteristici sau rezultate în detrimentul altora.
 
 Bias-ul nu apare în mod magic; el este introdus de oameni prin:
 

@@ -277,6 +277,93 @@
     }
   }
 }
+/* Responsive icon cards */
+
+/* Desktop (implicit): rămân pe un singur rând, dimensiuni mari */
+.icon-cards {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.icon-card {
+  width: 140px;
+  height: 140px;
+  border: 1px solid #e0e0e0;
+  border-radius: 14px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+.icon-card i.bi {
+  font-size: 3rem;
+  color: #1696d2;
+  line-height: 1;
+}
+
+/* Large -> Medium (<= 1200px): permite wrap dacă spațiul nu ajunge */
+@media (max-width: 1200px) {
+  .icon-cards {
+    flex-wrap: wrap;
+    gap: 1.25rem;
+  }
+}
+
+/* Tablet landscape / mediu (<= 992px) */
+@media (max-width: 992px) {
+  .icon-card {
+    width: 120px;
+    height: 120px;
+  }
+  .icon-card i.bi {
+    font-size: 2.6rem;
+  }
+}
+
+/* Tablet portrait / small (<= 768px) – 3 pe rând dacă sunt multe */
+@media (max-width: 768px) {
+  .icon-cards {
+    justify-content: center;
+  }
+  .icon-card {
+    width: 110px;
+    height: 110px;
+  }
+  .icon-card i.bi {
+    font-size: 2.3rem;
+  }
+}
+
+/* Mobile mic (<= 576px) – 2 pe rând pentru lizibilitate */
+@media (max-width: 576px) {
+  .icon-cards {
+    gap: 1rem;
+  }
+  .icon-card {
+    width: 100px;
+    height: 100px;
+  }
+  .icon-card i.bi {
+    font-size: 2rem;
+  }
+}
+
+/* Extra mic (<= 400px) – ocupă aproape jumătate, spațiu optim */
+@media (max-width: 400px) {
+  .icon-card {
+    width: 90px;
+    height: 90px;
+  }
+  .icon-card i.bi {
+    font-size: 1.8rem;
+  }
+}
+
 
 
 // Make callout text and icon bigger

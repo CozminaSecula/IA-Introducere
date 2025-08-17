@@ -5,7 +5,7 @@ title: "Introducere"
 ![](/modul1/capitol2/images/2_0_dj-participation.jpg){fig-align="left" width="650"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
-Sursa: [Licențe | Ilustrație: *Participation*](/altele/licenta.qmd#sec-ilustratii)
+Sursa: [Licențe | Ilustrație: *Participation*](/licente.qmd#sec-ilustratii)
 </div>
 
 <details>

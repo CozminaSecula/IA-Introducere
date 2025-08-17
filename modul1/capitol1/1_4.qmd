@@ -6,7 +6,7 @@ title: "Rolul tău"
 ![O ilustrație despre rolul cetățenilor în modelarea tehnologiei.](/modul1/capitol1/images/citizen-engagement-ro.png){fig-align="left" width="640"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
-Sursa: [Licențe | Ilustrație: *Citizen Engagement*](/altele/licenta.qmd#sec-ilustratii)
+Sursa: [Licențe | Ilustrație: *Citizen Engagement*](/licente.qmd#sec-ilustratii)
 </div>
 
 <details>

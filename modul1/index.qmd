@@ -1,6 +1,6 @@
 ---
 title: "Fundamentele IA"
-subtitle: "Acest modul introduce participanții în lumea inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA."
+subtitle: "Acest modul introduce participanții în domeniul inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA."
 tbl-colwidths: [50,25]
 ---
 

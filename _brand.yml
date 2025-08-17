@@ -48,6 +48,7 @@ color:
     secondary: gray-800
     success: green
     warning: yellow
+    
 
 
 typography:
@@ -70,4 +71,7 @@ typography:
   monospace:
     family: IBM Plex Mono
     size: 1em
+
+
+
 

@@ -32,7 +32,7 @@ La finalul acestei lecții, vei putea:
 
 
 <div style="margin-top: 10px;">
-  <span style="font-size: 1.5em; color:#1696d2;">{{< fa brands youtube >}}</span><span style="margin-left: 10px;">**Urmărește** video de mai jos (5:09) care introduce inteligența artificială.</span>
+  <span style="font-size: 1.5em; color:#1696d2;">{{< fa brands youtube >}}</span><span style="margin-left: 10px;">**Urmărește** video de mai jos (5:09) în care descoperi ce este inteligența artificială.</span>
 </div>
 <div class="video-responsive">
 {{< video https://www.youtube.com/watch?v=zxMtaPN1U0A&list=PL0g5FWk3FEqio6qq3Io656i068zHAL6zi&index=2?cc_load_policy=1&cc_lang_pref=ro >}}
@@ -102,7 +102,7 @@ De aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne
 ::: callout-definition
 ## Termeni de reținut
 
-Deși există multe definiții complexe, pentru acest curs vom simplifica IA la următoarea formulă de bază:
+Deși există multe definiții complexe, pentru acest curs vom simplifica definirea inteligenței artificiale la următoarea formulă de bază:
 
 **Date** + **Algoritmi** = **Rezultat Inteligent**
 

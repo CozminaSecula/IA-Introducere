@@ -11,7 +11,8 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
--   Ce este IA și când o folosim?
+-   Ce este inteligența artificială (IA)?
+-   Când folosim IA?
 :::
 
 ::: objectives-col
@@ -25,16 +26,16 @@ La finalul acestei lecții, vei putea:
 :::::
 :::::::
 
-# Ce este IA și când o folosim?
+# Ce este IA?
 
 Inteligența Artificială (IA) este tot mai prezentă în viața noastră, însă percepția asupra ei variază. Adesea, în cultura populară și science-fiction (SF), IA este imaginată ca **IA generală**, un sistem capabil să gândească asemenea unui om, să răspundă la orice întrebare și să execute orice sarcină umană. Această viziune este, în prezent, nerealistă.
 
-În realitate, un sistem este considerat inteligență artificială dacă poate îndeplini sarcini specifice prin interpretarea datelor, învățarea din acestea și adaptarea comportamentului pentru a-și atinge obiectivele. Exemple simple includ navigarea pe o rută optimă, clasificarea unei imagini (ca fiind o pisică sau un câine) sau recomandarea unui videoclip pe baza preferințelor tale.
+În realitate, un sistem este considerat inteligență artificială dacă poate îndeplini sarcini specifice prin interpretarea datelor, învățarea din acestea și adaptarea comportamentului pentru a-și atinge obiectivele. Exemple simple includ clasificarea unei imagini (ca fiind o pisică sau un câine) sau recomandarea unui videoclip pe baza preferințelor tale.
 
 ![Ce este IA](/modul1/capitol1/diagrams/1_1_diagram.svg){fig-align="center" width="100%"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
-Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)
+Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/licente.qmd#sec-curriculum)
 </div>
 
 ::: callout-definition
@@ -42,16 +43,16 @@ Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/altele/licenta.qm
 
 **IA generală și IA restrânsă**
 
-Este posibil să întâlnești în alte materiale termenii IA "generală" și IA "restrânsă". 
+Este posibil să întâlnești în diferite contexte termenii IA "generală" și IA "restrânsă". 
 
 **IA generală** se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. 
 
 **IA restrânsă** se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).
 :::
 
-# Exemple de aplicații ale IA
+# Când folosim IA?
 
-Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
+Există numeroase aplicații ale inteligenței artificiale în diferite domenii. În continuare sunt prezentate câteva exemple de aplicații ale IA:
 
 ::::: ai-example-section
 ::: text-content
@@ -62,9 +63,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-bank" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-clipboard-data" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-bank"></i></div>
+  <div class="icon-card"><i class="bi bi-clipboard-data"></i></div>
 </div>
 :::
 :::::
@@ -78,9 +79,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-heart-pulse" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-file-medical" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-heart-pulse"></i></div>
+  <div class="icon-card"><i class="bi bi-file-medical"></i></div>
 </div>
 :::
 :::::
@@ -94,9 +95,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-phone" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-keyboard" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-phone"></i></div>
+  <div class="icon-card"><i class="bi bi-keyboard"></i></div>
 </div>
 :::
 :::::
@@ -111,9 +112,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-house" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-robot" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-house"></i></div>
+  <div class="icon-card"><i class="bi bi-robot"></i></div>
 </div>
 :::
 :::::
@@ -127,9 +128,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-tools" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-tree" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-tools"></i></div>
+  <div class="icon-card"><i class="bi bi-tree"></i></div>
 </div>
 :::
 :::::
@@ -144,9 +145,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-buildings" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-cart" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-file-earmark-person"></i></div>
+  <div class="icon-card"><i class="bi bi-car-front"></i></div>
 </div>
 :::
 :::::
@@ -161,9 +162,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-book" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-mortarboard" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-book"></i></div>
+  <div class="icon-card"><i class="bi bi-mortarboard"></i></div>
 </div>
 :::
 :::::
@@ -178,9 +179,9 @@ Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-image-alt" style="font-size: 4rem; margin: 0 0.5rem;"></i>
-<i class="bi bi-music-note-beamed" style="font-size: 4rem; margin: 0 0.5rem;"></i>
+<div class="icon-cards">
+  <div class="icon-card"><i class="bi bi-image-alt"></i></div>
+  <div class="icon-card"><i class="bi bi-music-note-beamed"></i></div>
 </div>
 :::
 :::::
@@ -189,7 +190,7 @@ Dezvoltarea inteligenței artificiale generează atât entuziasm, cât și prude
 
 Pe de o parte, există un optimism considerabil privind potențialul IA de a aduce beneficii majore, cum ar fi prevenirea accidentelor rutiere cu ajutorul mașinilor autonome sau asistarea copiilor și a persoanelor în vârstă prin roboți de companie.
 
-Pe de altă parte, există îngrijorări legate de impactul automatizării asupra locurilor de muncă, riscul utilizării supravegherii în mod abuziv pentru a viza anumite grupuri sociale și, desigur, temeri inspirate din science-fiction despre roboți care ar putea prelua controlul.
+Pe de altă parte, există îngrijorări legate de impactul automatizării asupra locurilor de muncă, riscul utilizării supravegherii în mod abuziv pentru a viza anumite grupuri sociale, precum și temeri inspirate din science-fiction despre roboți care ar putea prelua controlul.
 
 Totuși, în stadiul actual, astfel de scenarii extreme sunt încă departe de realitate.
 

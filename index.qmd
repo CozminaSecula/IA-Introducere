@@ -59,10 +59,9 @@ Activități:
 :::
 
 ::: image-content
-<div class="text-center">
-<i class="bi bi-people-fill" style="font-size: 4rem;"></i>
-<i class="bi bi-people" style="font-size: 4rem;"></i>
-<i class="fa-solid fa-people-group fa-lg" style="font-size: 4rem;"></i>
+<br>
+<div class="icon-cards">
+  <div class="icon-card"><i class="fa-solid fa-people-group" style="font-size: 4rem; margin: 0 0.5rem;"></i></div>
 </div>
 :::
 :::::

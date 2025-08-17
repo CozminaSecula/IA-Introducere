@@ -11,7 +11,7 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
-- Când a fost inventat termenul „inteligență artificială”?
+- Când a fost inventat termenul *inteligență artificială*?
 - Care sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?
 :::
 
@@ -20,7 +20,7 @@ Rezumat
 
 La finalul acestei lecții, vei putea:
 
--   Înțelege originile termenului "inteligență artificială".
+-   Înțelege originile termenului inteligență artificială.
 -   Explica progresele majore care au stimulat dezvoltarea rapidă a IA în prezent.
 :::
 :::::
@@ -28,9 +28,9 @@ La finalul acestei lecții, vei putea:
 
 # Originile inteligenței artificiale
 
-Termenul "inteligență artificială" are mai puțin de un secol.
+Termenul *inteligență artificială* are mai puțin de un secol.
 
-A fost inventat în 1956 și îi este atribuit lui John McCarthy, care a folosit termenul pentru *Proiectul de cercetare de vară de la Dartmouth privind inteligența artificială*. Aceasta a fost o conferință de 8 săptămâni în care matematicieni, informaticieni, psihologi cognitivi și-au combinat forțele pentru a elabora ideea de inteligență artificială. Unii dintre acești oameni de știință au supraestimat foarte mult dezvoltarea IA și în special cronologia. De exemplu, Marvin Minsky, co-fondatorul Laboratorului de IA de la MIT, a spus, în 1970, "în 3 – 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite". Dar astăzi încă se lucrează la asta.
+A fost inventat în 1956 și îi este atribuit lui John McCarthy, care a folosit termenul pentru *Proiectul de cercetare de vară de la Dartmouth privind inteligența artificială*. Aceasta a fost o conferință de 8 săptămâni în care matematicieni, informaticieni, psihologi cognitivi și-au combinat forțele pentru a elabora ideea de inteligență artificială. Unii dintre acești oameni de știință au supraestimat foarte mult dezvoltarea IA și în special cronologia. De exemplu, Marvin Minsky, co-fondatorul Laboratorului de IA de la MIT, a spus, în 1970, *în 3 – 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite*. Dar astăzi încă se lucrează la asta.
 
 Cum de au fost atât de departe de realitate?
 
@@ -39,7 +39,7 @@ Au subestimat cât de multe date și putere de calcul sunt necesare. Deoarece ac
 ![Istoria IA.](/modul1/capitol1/diagrams/1_2_diagram.svg){fig-align="center" width="100%"}
 
 <div class="text-left" style="font-size: 0.9em; margin-top: -1em;">
-Sursa: [Licențe | Istoria IA, adaptată după AI Generation](/altele/licenta.qmd#sec-curriculum)
+Sursa: [Licențe | Istoria IA, adaptată după AI Generation](/licente.qmd#sec-curriculum)
 </div>
 
 
