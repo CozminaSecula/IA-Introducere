@@ -8,7 +8,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Important** - Website-ul și conținutul său sunt în curs de dezvoltare, iar anumite resurse pot suferi modificări."
+    content: "**Important** - Website-ul și conținutul sunt în curs de dezvoltare. Anumite resurse pot suferi modificări."
     position: below-navbar
     type: primary
     

@@ -84,22 +84,6 @@ La finalul acestui curs, participanții vor putea:
 - Să colaboreze în echipă pentru a crea proiecte simple folosind instrumente IA.
 - Să dezbată impactul social, cultural și de mediu al tehnologiilor IA.
 
-## Cine facilitează acest curs?
-
-::: {.columns .align-items-center}
-::: {.column width="20%"}
-![Fotografie [Nume Prenume]](/images/profil.jpg){fig-alt="Fotografie [Nume Prenume]" width="150" style="border-radius: 50%;"}
-:::
-
-::: {.column width="80%"}
-
-Cu o pasiune pentru educație și tehnologie, am dezvoltat acest curs din dorința de a face conceptele complexe ale IA accesibile și relevante pentru tineri. Cred că înțelegerea acestei tehnologii este o necesitate pentru a naviga lumea de mâine. Abordarea mea este una deschisă și interactivă, axată pe dialog și gândire critică.
-
-Puteți afla mai multe despre mine pe [LinkedIn]().
-:::
-:::
-
-
 ## Vrei să aduci acest curs în comunitatea ta?
 
 Dacă reprezinți o instituție de învățământ, o companie sau o organizație și dorești să oferi acest curs elevilor, studenților sau membrilor comunității tale, sunt deschisă la colaborare.
@@ -110,18 +94,17 @@ Cursul poate fi adaptat și livrat pentru:
 - **Companii** care vor să ofere programe de dezvoltare pentru angajați sau ca beneficiu pentru copiii acestora.
 - **Biblioteci, hub-uri de tineret sau centre comunitare** care vor să organizeze ateliere de literație digitală.
 
-Pentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, te rog să îmi scrii la **[adresă de e-mail pentru parteneriate]**.
+Pentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, **[te rog să îmi scrii](mailto:cozmina.secula@gmail.com)**.
 
 ## Cum poți susține accesul la educație?
 
-Misiunea mea este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica.
+Scopul meu este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica.
 
 Caut parteneri care să mă ajute să ofer cursul gratuit elevilor și studenților din medii defavorizate. Sprijinul tău poate face o diferență reală. 
 
 Mă adresez în special:
 
-- **ONG-urilor** cu programe educaționale și de incluziune socială.
+- **ONG-urilor șu Fundațiilor** cu programe educaționale și de incluziune socială.
 - **Companiilor** care doresc să investească în educația viitoarei generații prin programe de responsabilitate socială (CSR).
-- **Fundațiilor și filantropilor** pasionați de tehnologie și educație.
 
-Dacă dorești să devii un susținător al acestui proiect, te rog să îmi scrii la **[adresă de e-mail pentru susținători]**. 
+Dacă dorești să devii un susținător al acestui proiect, **[te rog să îmi scrii](mailto:cozmina.secula@gmail.com)**. 
