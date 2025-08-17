@@ -16,6 +16,7 @@ website:
 
 
   description: 'Curs de introducere în Inteligența artificială pentru elevi de liceu și studenți'
+  site-url: "https://cozminasecula.github.io/IA-Introducere/"
   search: false
   sidebar:
     style: "docked"
