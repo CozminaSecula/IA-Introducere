@@ -264,11 +264,11 @@
     ]
   },
   {
-    "objectID": "modul1/capitol1/1_3.html#termeni-de-reținut",
-    "href": "modul1/capitol1/1_3.html#termeni-de-reținut",
+    "objectID": "modul1/capitol1/1_3.html#termeni-cheie",
+    "href": "modul1/capitol1/1_3.html#termeni-cheie",
     "title": "Cum “învață” IA?",
-    "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nInput (Intrare) / Output (Ieșire)\nInput: se referă la datele pe care un sistem IA le primește pentru a le procesa (de exemplu, o imagine, un text, date de la un senzor).\nOutput: se referă la rezultatul sau decizia generată de sistemul IA după procesarea datelor de intrare (de exemplu, clasificarea unei imagini).\nDate etichetate se referă la date care au fost marcate de oameni cu una sau mai multe etichete ce identifică anumite proprietăți, servind drept “răspunsuri corecte” pe care modelul IA le folosește pentru a învăța.\nÎnvățare supervizată se referă la o metodă de antrenare a modelului IA în care sistemul învață dintr-un set de date etichetate. Modelul compară estimările sale cu etichetele corecte și se ajustează pentru a minimiza eroarea.",
+    "section": "Termeni cheie",
+    "text": "Termeni cheie\nInput (Intrare) / Output (Ieșire)\nInput: se referă la datele pe care un sistem IA le primește pentru a le procesa (de exemplu, o imagine, un text, date de la un senzor).\nOutput: se referă la rezultatul sau decizia generată de sistemul IA după procesarea datelor de intrare (de exemplu, clasificarea unei imagini).\nDate etichetate se referă la date care au fost marcate de oameni cu una sau mai multe etichete ce identifică anumite proprietăți, servind drept “răspunsuri corecte” pe care modelul IA le folosește pentru a învăța.\nÎnvățare supervizată se referă la o metodă de antrenare a modelului IA în care sistemul învață dintr-un set de date etichetate. Modelul compară estimările sale cu etichetele corecte și se ajustează pentru a minimiza eroarea.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -329,11 +329,11 @@
     ]
   },
   {
-    "objectID": "modul1/capitol1/1_1.html#termeni-de-reținut",
-    "href": "modul1/capitol1/1_1.html#termeni-de-reținut",
+    "objectID": "modul1/capitol1/1_1.html#termeni-cheie",
+    "href": "modul1/capitol1/1_1.html#termeni-cheie",
     "title": "Ce este IA?",
-    "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nIA generală și IA restrânsă\nEste posibil să întâlnești în diferite contexte termenii IA “generală” și IA “restrânsă”.\nIA generală se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist.\nIA restrânsă se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).",
+    "section": "Termeni cheie",
+    "text": "Termeni cheie\nIA generală și IA restrânsă\nEste posibil să întâlnești în diferite contexte termenii IA “generală” și IA “restrânsă”.\nIA generală. Daca ai văzut filme sau seriale TV cu roboți asemănători oamenilor, ai văzut ceea ce este numit de obicei IA generală. IA generală se referă la o inteligență supranaturală care poate îndeplini o gamă largă de sarcini care necesită de obicei inteligență umană. Astăzi, acest lucru este nerealist.\nIA restrânsă se referă la sisteme capabile să gestioneze o singură sarcină, specifică sau o problemă, de exemplu recomandările de produse sau recunoașterea facială. În prezent, IA restrânsă este un domeniu care se dezvoltă într-un ritm foarte rapid.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -406,11 +406,11 @@
     ]
   },
   {
-    "objectID": "modul1/capitol2/2_1.html#termeni-de-reținut",
-    "href": "modul1/capitol2/2_1.html#termeni-de-reținut",
+    "objectID": "modul1/capitol2/2_1.html#termeni-cheie",
+    "href": "modul1/capitol2/2_1.html#termeni-cheie",
     "title": "Ce este IA și ce nu este IA?",
-    "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nDeși există multe definiții complexe, pentru acest curs vom simplifica definirea inteligenței artificiale la următoarea formulă de bază:\nDate + Algoritmi = Rezultat Inteligent\nUnde:\n\nDatele sunt informații din lumea reală (de exemplu, imagini, text, cifre).\nAlgoritmii sunt setul de reguli pe care sistemul le urmează pentru a procesa datele.\nRezultatul Inteligent este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.",
+    "section": "Termeni cheie",
+    "text": "Termeni cheie\nDeși există multe definiții complexe, pentru acest curs vom simplifica definirea inteligenței artificiale la următoarea formulă de bază:\nIA -&gt; Date + Algoritmi + Rezultat Inteligent\nUnde:\n\nDatele sunt informații din lumea reală (de exemplu, imagini, text, cifre).\nAlgoritmii sunt setul de reguli pe care sistemul le urmează pentru a procesa datele.\nRezultatul Inteligent este acțiunea sau decizia care ajută oamenii să rezolve probleme mai rapid și mai eficient.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
