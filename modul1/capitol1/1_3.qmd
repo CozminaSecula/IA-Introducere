@@ -38,7 +38,7 @@ Aceste date de intrare (input) sunt apoi procesate pentru a genera o acțiune de
 Pentru a lua astfel de decizii, multe sisteme IA au nevoie de cantități mari de date etichetate în prealabil de către oameni. Acest proces se numește **învățare supervizată**.
 
 ::: callout-definition
-## Termeni de reținut
+## Termeni cheie
 
 **Input (Intrare) / Output (Ieșire)**
 

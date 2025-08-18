@@ -39,15 +39,15 @@ Sursa: [Licențe | Ce este IA, adaptată după AI Generation](/licente.qmd#sec-c
 </div>
 
 ::: callout-definition
-## Termeni de reținut
+## Termeni cheie
 
 **IA generală și IA restrânsă**
 
 Este posibil să întâlnești în diferite contexte termenii IA "generală" și IA "restrânsă". 
 
-**IA generală** se referă la un sistem care poate îndeplini orice sarcină intelectuală. Astăzi, acest lucru este nerealist. 
+**IA generală**. Daca ai văzut filme sau seriale TV cu roboți asemănători oamenilor, ai văzut ceea ce este numit de obicei IA generală. **IA generală** se referă la o inteligență supranaturală care poate îndeplini o gamă largă de sarcini care necesită de obicei inteligență umană. Astăzi, acest lucru este nerealist. 
 
-**IA restrânsă** se referă la un sistem capabil să gestioneze o singură sarcină, specifică (de exemplu recomandările de produse sau recunoașterea facială).
+**IA restrânsă** se referă la sisteme capabile să gestioneze o singură sarcină, specifică sau o problemă, de exemplu recomandările de produse sau recunoașterea facială. În prezent, IA restrânsă este un domeniu care se dezvoltă într-un ritm foarte rapid.
 :::
 
 # Când folosim IA?

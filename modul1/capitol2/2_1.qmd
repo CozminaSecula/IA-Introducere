@@ -100,11 +100,11 @@ De aceea, este esențial să înțelegem ce este cu adevărat IA. Acest lucru ne
 
 
 ::: callout-definition
-## Termeni de reținut
+## Termeni cheie
 
 Deși există multe definiții complexe, pentru acest curs vom simplifica definirea inteligenței artificiale la următoarea formulă de bază:
 
-**Date** + **Algoritmi** = **Rezultat Inteligent**
+**IA** -> **Date** + **Algoritmi** + **Rezultat Inteligent**
 
 Unde:
 
