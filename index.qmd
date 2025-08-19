@@ -49,23 +49,12 @@ Materialele sunt structurate în 3 module și pot fi accesate pe orice dispoziti
 
 
 
-::::: ai-example-section
-::: text-content
 ### Cursul în format fizic
 
 ![](/logo/curs-flowchart_ext_v2.svg){fig-align="center" width="100%"}
 
-:::
 
-::: image-content
-<br>
-<div class="icon-cards">
-  <div class="icon-card"><i class="fa-solid fa-people-group" style="font-size: 3.5rem; margin: 0 0.3rem;"></i></div>
-</div>
-:::
-:::::
-
-Cursul față în față are 4 module. Pe lângă partea teoretică, accentul este pe activități interactive.
+Cursul în format fizic are 4 module. Pe lângă partea teoretică, accentul este pe activități interactive.
 
 Participanții își dezvoltă:
 
