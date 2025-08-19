@@ -37,17 +37,6 @@ Structura atelierelor incluse în **Modulul 1: Fundamentele IA**.
 
 :::
 
-::: {.g-col-6}
-#### 3: Introducerea arborilor decizionali
-
-| Titlu                          |                                                                                             |
-|:---------------------------------|:---------------------------------------------------------------------------------------------------:|
-| [Introducere capitol](capitol3/3_0.html)              | <a href="capitol3/3_0.html" title="Vezi resursa" aria-label="Deschide resursa Introducere capitol"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| [Ce este un arbore decizional?](capitol3/3_1.html)    | <a href="capitol3/3_1.html" title="Vezi resursa" aria-label="Deschide resursa Ce este un arbore decizional?"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| [Cum funcționează?](capitol3/3_2.html)                | <a href="capitol3/3_2.html" title="Vezi resursa" aria-label="Deschide resursa Cum funcționează?"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>        |
-| Activități: creare arbore decizional | <span><i class="fa-solid fa-book-open-reader fa-lg" title="Resursă teoretică"></i> <i class="fa-solid fa-people-group fa-lg" title="Activitate offline"></i>                            |
-
-:::
 
 :::
 
