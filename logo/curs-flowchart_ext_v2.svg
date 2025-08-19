@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="288.5mm"
-   height="50mm"
-   viewBox="0 0 288.5 50"
+   width="373.31195mm"
+   height="54.205006mm"
+   viewBox="0 0 373.31195 54.205006"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,7 +29,8 @@
     </marker>
   </defs>
   <g
-     id="layer1">
+     id="layer1"
+     transform="matrix(1.3491357,0,0,1.3491357,-7.3542726,-6.9964733)">
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#73bfe2;fill-opacity:1;fill-rule:evenodd;stroke:#73bfe2;stroke-width:0.282647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect4"

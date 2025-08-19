@@ -99,11 +99,11 @@
     ]
   },
   {
-    "objectID": "modul1/capitol2/2_3.html#termeni-de-reținut",
-    "href": "modul1/capitol2/2_3.html#termeni-de-reținut",
+    "objectID": "modul1/capitol2/2_3.html#termeni-cheie",
+    "href": "modul1/capitol2/2_3.html#termeni-cheie",
     "title": "Factorul uman și IA",
-    "section": "Termeni de reținut",
-    "text": "Termeni de reținut\nViziunea părtinitoare (bias) se referă la presupuneri și prejudecăți despre lumea din jurul nostru care ne influențează deciziile, acțiunile sau modul în care percem lucrurile. Este un fenomen care apare atât la oameni, cât și în contextul inteligenței artificiale. În contextul IA, părtinirea (bias-ul) apare atunci când un sistem IA, dezvoltă o inclinație sistematică, favorizează anumite grupuri, caracteristici sau rezultate în detrimentul altora.\nBias-ul nu apare în mod magic; el este introdus de oameni prin:\n\nDatele alese: Dacă datele de antrenament nu reprezintă corect realitatea (de exemplu, conțin mai multe imagini cu un anumit grup de persoane), sistemul va învăța acele dezechilibre.\nDeciziile de proiectare: Alegerile făcute de programatori cu privire la ce anume să prioritizeze pot crea un bias.",
+    "section": "Termeni cheie",
+    "text": "Termeni cheie\nViziunea părtinitoare (bias) se referă la presupuneri și prejudecăți despre lumea din jurul nostru care ne influențează deciziile, acțiunile sau modul în care percem lucrurile. Este un fenomen care apare atât la oameni, cât și în contextul inteligenței artificiale. În contextul IA, părtinirea (bias-ul) apare atunci când un sistem IA, dezvoltă o inclinație sistematică, favorizează anumite grupuri, caracteristici sau rezultate în detrimentul altora.\nBias-ul nu apare în mod magic; el este introdus de oameni prin:\n\nDatele selectate: Dacă datele de antrenament nu reprezintă corect realitatea (de exemplu, conțin mai multe imagini cu un anumit grup de persoane), sistemul va învăța acele dezechilibre.\nDeciziile de proiectare: Alegerile făcute de programatori cu privire la ce anume să prioritizeze, pot crea un bias.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -129,7 +129,7 @@
     "href": "modul1/capitol2/2_3.html#puncte-cheie",
     "title": "Factorul uman și IA",
     "section": "Puncte cheie",
-    "text": "Puncte cheie\n\nUn sistem IA trece prin patru faze distincte: proiectare, dezvoltare, implementare și utilizare.\nOamenii sunt esențiali în fiecare fază, luând decizii care influențează direct comportamentul și rezultatele sistemului.\nDeoarece sunt create de oameni, sistemele IA nu sunt niciodată complet neutre. Ele pot moșteni și chiar amplifica viziunile părtinitoare (bias) umane.",
+    "text": "Puncte cheie\n\nUn sistem IA trece prin patru faze distincte: proiectare, dezvoltare, implementare și utilizare.\nOamenii sunt implicați în fiecare fază, luând decizii care influențează direct comportamentul și rezultatele sistemului.\nDeoarece sunt create de oameni, sistemele IA nu sunt niciodată complet neutre. Ele pot moșteni și chiar amplifica viziunile părtinitoare (bias) umane.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -154,7 +154,7 @@
     "href": "modul1/capitol2/2_0.html#rezultatele-învățării",
     "title": "Introducere",
     "section": "Rezultatele învățării",
-    "text": "Rezultatele învățării\nLa finalul acestui capitol, vei putea să:\n\nDefinești un sistem IA folosind formula: Date + Algoritmi = Rezultat Inteligent.\nDistingi corect între exemple de tehnologii care folosesc IA și cele care nu o folosesc.\nExplici cele patru faze ale ciclului de viață al unui sistem IA și cum deciziile umane influențează fiecare etapă.",
+    "text": "Rezultatele învățării\nLa finalul acestui capitol, vei putea să:\n\nDefinești un sistem IA folosind formula: Date + Algoritmi + Rezultat Inteligent.\nDistingi corect între exemple de tehnologii care folosesc IA și cele care nu o folosesc.\nExplici cele patru faze ale ciclului de viață al unui sistem IA și cum deciziile umane influențează fiecare etapă.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -371,7 +371,7 @@
     "href": "modul1/capitol2/2_1.html#întrebări",
     "title": "Ce este IA și ce nu este IA?",
     "section": "Întrebări",
-    "text": "Întrebări\n\nCare este “formula” simplă pentru a identifica un sistem IA în viața de zi cu zi?\nCe anume face ca un aspirator-robot să fie considerat IA, dar un aspirator obișnuit nu?",
+    "text": "Întrebări\n\nCum putem defini inteligența artificială?\nCare este “formula” simplă pentru a identifica un sistem IA în viața de zi cu zi?",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -487,6 +487,26 @@
     "title": "Introducere în Inteligența Artificială (IA)",
     "section": "Obiective de învățare",
     "text": "Obiective de învățare\nLa finalul acestui curs, participanții vor putea:\n\nSă explice ce este inteligența artificială (IA).\nSă explice rolul esențial al oamenilor în dezvoltarea și controlul sistemelor IA.\nSă analizeze critic algoritmii folosiți de platforme cunoscute, precum cele de social media sau streaming.\nSă evalueze un produs IA pe baza principiilor etice fundamentale.\nSă identifice scopul și publicul țintă pentru diferite aplicații IA.\nSă colaboreze în echipă pentru a crea proiecte simple folosind instrumente IA.\nSă dezbată impactul social, cultural și de mediu al tehnologiilor IA.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#vrei-să-aduci-acest-curs-în-comunitatea-ta",
+    "href": "index.html#vrei-să-aduci-acest-curs-în-comunitatea-ta",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Vrei să aduci acest curs în comunitatea ta?",
+    "text": "Vrei să aduci acest curs în comunitatea ta?\nDacă reprezinți o instituție de învățământ, o companie sau o organizație și dorești să oferi acest curs elevilor, studenților sau membrilor comunității tale, sunt deschisă la colaborare.\nCursul poate fi adaptat și livrat pentru:\n\nȘcoli, licee și universități care doresc să-și completeze oferta educațională cu un curs de literație IA. Poate fi integrat opțional sau în cadrul altor activități.\nCompanii care vor să ofere programe de dezvoltare pentru angajați sau ca beneficiu pentru copiii acestora.\nBiblioteci, hub-uri de tineret sau centre comunitare care vor să organizeze ateliere de literație digitală.\n\nPentru a discuta despre un parteneriat sau organizarea unei sesiuni dedicate, te rog să îmi scrii.",
+    "crumbs": [
+      "Prezentare curs"
+    ]
+  },
+  {
+    "objectID": "index.html#cum-poți-susține-accesul-la-educație",
+    "href": "index.html#cum-poți-susține-accesul-la-educație",
+    "title": "Introducere în Inteligența Artificială (IA)",
+    "section": "Cum poți susține accesul la educație?",
+    "text": "Cum poți susține accesul la educație?\nScopul meu este ca acest curs să ajungă la cât mai mulți tineri, indiferent de mediul din care provin. Dacă împărtășești această viziune, te poți implica.\nCaut parteneri care să mă ajute să ofer cursul gratuit elevilor și studenților din medii defavorizate. Sprijinul tău poate face o diferență reală.\nMă adresez în special:\n\nONG-urilor șu Fundațiilor cu programe educaționale și de incluziune socială.\nCompaniilor care doresc să investească în educația viitoarei generații prin programe de responsabilitate socială (CSR).\n\nDacă dorești să devii un susținător al acestui proiect, te rog să îmi scrii.",
     "crumbs": [
       "Prezentare curs"
     ]
