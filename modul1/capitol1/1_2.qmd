@@ -28,7 +28,7 @@ La finalul acestei lecții, vei putea:
 
 # Originile inteligenței artificiale
 
-Termenul **"inteligență artificială" (IA)** a apărut acum mai puțin de un secol. El a fost inventat de John McCarthy în 1956 pentru a denumi **Proiectul de cercetare de vară de la Dartmouth**. Această conferință a reunit timp de opt săptămâni matematicieni, informaticieni și psihologi cognitivi, care au lucrat împreună pentru a dezvolta conceptul de inteligență artificială.
+Termenul inteligență artificială (IA) a apărut acum mai puțin de un secol. El a fost inventat de John McCarthy în 1956 pentru a denumi *Proiectul de cercetare de vară de la Dartmouth*. Această conferință a reunit timp de opt săptămâni matematicieni, informaticieni și psihologi cognitivi, care au lucrat împreună pentru a dezvolta conceptul de inteligență artificială.
 
 Participanții la conferință au supraestimat ritmul de evoluție al AI. De exemplu, în 1970, Marvin Minsky, cofondatorul Laboratorului de AI de la MIT, a prezis că "*în 3 până la 8 ani vom avea o mașină cu inteligența generală a unei ființe umane obișnuite”*. Cu toate acestea, atingerea acestui obiectiv este încă în curs de cercetare și dezvoltare.
 
