@@ -11,7 +11,7 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
-- Când a fost folosit prima dată termenul *inteligență artificială*?
+- Când a fost folosit prima dată termenul inteligență artificială?
 - Care sunt principalele progrese tehnologice care au stimulat dezvoltarea rapidă a IA în prezent?
 :::
 
