@@ -11,8 +11,8 @@ Rezumat
 ::: questions-col
 ## Întrebări
 
+-   Cum putem defini inteligența artificială?
 -   Care este "formula" simplă pentru a identifica un sistem IA în viața de zi cu zi?
--   Ce anume face ca un aspirator-robot să fie considerat IA, dar un aspirator obișnuit nu?
 
 :::
 

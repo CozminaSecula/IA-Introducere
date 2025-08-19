@@ -115,14 +115,14 @@ După cum s-a demonstrat, alegerile umane modelează sistemul IA în toate fazel
 
 
 ::: callout-definition
-## Termeni de reținut
+## Termeni cheie
 
 **Viziunea părtinitoare (bias)** se referă la presupuneri și prejudecăți despre lumea din jurul nostru care ne influențează deciziile, acțiunile sau modul în care percem lucrurile. Este un fenomen care apare atât la oameni, cât și în contextul inteligenței artificiale. În contextul IA, părtinirea (bias-ul) apare atunci când un sistem IA, dezvoltă o *inclinație sistematică*, favorizează anumite grupuri, caracteristici sau rezultate în detrimentul altora.
 
 Bias-ul nu apare în mod magic; el este introdus de oameni prin:
 
--   **Datele alese:** Dacă datele de antrenament nu reprezintă corect realitatea (de exemplu, conțin mai multe imagini cu un anumit grup de persoane), sistemul va învăța acele dezechilibre.
--   **Deciziile de proiectare:** Alegerile făcute de programatori cu privire la ce anume să prioritizeze pot crea un bias.
+-   **Datele selectate:** Dacă datele de antrenament nu reprezintă corect realitatea (de exemplu, conțin mai multe imagini cu un anumit grup de persoane), sistemul va învăța acele dezechilibre.
+-   **Deciziile de proiectare:** Alegerile făcute de programatori cu privire la ce anume să prioritizeze, pot crea un bias.
 :::
 
 ## Ciclul de viață al unui sistem IA
@@ -143,6 +143,6 @@ Fiecare dintre aceste etape demonstrează că IA este un instrument modelat de i
 ## Puncte cheie
 
 -   Un sistem IA trece prin patru faze distincte: **proiectare, dezvoltare, implementare și utilizare**.
--   Oamenii sunt esențiali în fiecare fază, luând decizii care influențează direct comportamentul și rezultatele sistemului.
+-   Oamenii sunt implicați în fiecare fază, luând decizii care influențează direct comportamentul și rezultatele sistemului.
 -   Deoarece sunt create de oameni, sistemele IA **nu sunt niciodată complet neutre**. Ele pot moșteni și chiar amplifica viziunile părtinitoare (bias) umane.
 :::

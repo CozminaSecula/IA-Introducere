@@ -50,9 +50,9 @@ Este posibil să întâlnești în diferite contexte termenii IA "generală" și
 **IA restrânsă** se referă la sisteme capabile să gestioneze o singură sarcină, specifică sau o problemă, de exemplu recomandările de produse sau recunoașterea facială. În prezent, IA restrânsă este un domeniu care se dezvoltă într-un ritm foarte rapid.
 :::
 
-# Când folosim IA?
+# Exemple de aplicații ale IA
 
-Există numeroase aplicații ale inteligenței artificiale în diferite domenii. În continuare sunt prezentate câteva exemple de aplicații ale IA:
+Există numeroase aplicații ale inteligenței artificiale în diferite domenii:
 
 ::::: ai-example-section
 ::: text-content

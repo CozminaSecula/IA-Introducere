@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "IA-Introducere"
+  title: "Introducere în IA"
   page-navigation: true
 
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Important** - Website-ul și conținutul sunt în curs de dezvoltare. Anumite resurse pot suferi modificări."
+    content: "**Important** - Website-ul și conținutul sunt în curs de dezvoltare. Anumite resurse pot fi modificate."
     position: below-navbar
     type: primary
     
@@ -58,7 +58,8 @@ website:
 
   page-footer:
     left: " Conținut {{< fa brands creative-commons >}} 2025 Cozmina Secula<br> Resursă sub licența [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)."
-
+    right: |
+      Website realizat cu {{< quarto >}} [Quarto](https://quarto.org/)<br>
 
 format:
   html:

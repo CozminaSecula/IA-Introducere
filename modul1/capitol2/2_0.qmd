@@ -24,7 +24,7 @@ Ilustrația descrie un proces colaborativ și incluziv, centrat pe un concept ab
 
 La finalul acestui capitol, vei putea să:
 
--   Definești un sistem IA folosind formula: **Date + Algoritmi = Rezultat Inteligent**.
+-   Definești un sistem IA folosind formula: **Date + Algoritmi + Rezultat Inteligent**.
 -   Distingi corect între exemple de tehnologii care folosesc IA și cele care nu o folosesc.
 -   Explici cele patru faze ale ciclului de viață al unui sistem IA și cum deciziile umane influențează fiecare etapă.
 
