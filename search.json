@@ -227,66 +227,66 @@
   {
     "objectID": "modul1/capitol1/1_3.html",
     "href": "modul1/capitol1/1_3.html",
-    "title": "Cum “învață” IA?",
+    "title": "Cum învață sistemele IA?",
     "section": "",
-    "text": "Sistemele de inteligența artificială nu “învață” în același mod ca un om. Deși atât sistemele de IA cât și oamenii pot colecta date din mediul înconjurător, metodele lor de colectare sunt fundamental diferite.\nOamenii se bazează pe cele cinci simțuri: văz, auz, miros, gust și pipăit. În schimb, sistemele (computerele) folosesc senzori pentru a colecta date. De exemplu, un senzor poate măsura umiditatea solului într-un câmp agricol sau viteza unei mașini.\nAceste date de intrare (input) sunt apoi procesate pentru a genera o acțiune de ieșire (output). De exemplu, pe baza datelor despre umiditatea solului, sistemul IA poate decide dacă să pornească sau nu sistemul de irigații. Rezultatul este o decizie simplă: “da, solul are nevoie de apă” sau “nu, solul nu are nevoie de apă”.\nPentru a lua astfel de decizii, multe sisteme IA au nevoie de cantități mari de date etichetate în prealabil de către oameni. Acest proces se numește învățare supervizată.\nTabelul de mai jos ilustrează cum ar putea fi etichetate diverse elemente pentru a învăța un sistem IA ce este comestibil.\nImaginează-ți efortul de a eticheta manual mii de astfel de exemple pentru a antrena un sistem IA. Din fericire, nu toate sistemele IA funcționează astfel. Unele pot învăța prin identificarea de tipare în date neetichetate sau prin descoperirea unor relații statistice.\nVom explora aceste metode pe parcursul cursului.",
+    "text": "Sistemele de inteligența artificială nu învață în același mod ca un om. Deși atât sistemele de IA cât și oamenii pot colecta date din mediul înconjurător, metodele lor de colectare sunt fundamental diferite.\nOamenii se bazează pe cele cinci simțuri: văz, auz, miros, gust și pipăit. În schimb, sistemele (computerele) folosesc senzori pentru a colecta date. De exemplu, un senzor poate măsura umiditatea solului într-un câmp agricol sau viteza unei mașini.\nAceste date de intrare (input) sunt apoi procesate pentru a genera o acțiune de ieșire (output). De exemplu, pe baza datelor despre umiditatea solului, sistemul IA poate decide dacă să pornească sau nu sistemul de irigații. Rezultatul este o decizie simplă: “da, solul are nevoie de apă” sau “nu, solul nu are nevoie de apă”.\nPentru a lua astfel de decizii, multe sisteme IA au nevoie de cantități mari de date etichetate în prealabil de către oameni. Acest proces se numește învățare supervizată.\nTabelul de mai jos ilustrează cum ar putea fi etichetate diverse elemente pentru a învăța un sistem IA ce este comestibil.\nImaginează-ți efortul de a eticheta manual mii de astfel de exemple pentru a antrena un sistem IA. Din fericire, nu toate sistemele IA funcționează astfel. Unele pot învăța prin identificarea de tipare în date neetichetate sau prin descoperirea unor relații statistice.\nVom explora aceste metode pe parcursul cursului.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "1: Orientare către dezvoltarea competențelor IA",
-      "Cum \"învață\" IA?"
+      "Cum învață sistemele IA?"
     ]
   },
   {
     "objectID": "modul1/capitol1/1_3.html#întrebări",
     "href": "modul1/capitol1/1_3.html#întrebări",
-    "title": "Cum “învață” IA?",
+    "title": "Cum învață sistemele IA?",
     "section": "Întrebări",
-    "text": "Întrebări\n\nPrin ce se deosebește colectarea de date realizată de un sistem IA față de cea umană?\nCe înseamnă “învățare supervizată”?\nDe ce sunt necesare datele etichetate pentru a antrena anumite tipuri de IA?",
+    "text": "Întrebări\n\nPrin ce se deosebește colectarea de date realizată de un sistem IA față de cea umană?\nCe înseamnă învățare supervizată?\nDe ce sunt necesare datele etichetate pentru a antrena anumite tipuri de IA?",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "1: Orientare către dezvoltarea competențelor IA",
-      "Cum \"învață\" IA?"
+      "Cum învață sistemele IA?"
     ]
   },
   {
     "objectID": "modul1/capitol1/1_3.html#obiective",
     "href": "modul1/capitol1/1_3.html#obiective",
-    "title": "Cum “învață” IA?",
+    "title": "Cum învață sistemele IA?",
     "section": "Obiective",
     "text": "Obiective\nLa finalul acestei lecții, vei putea:\n\nDiferenția între modul în care oamenii și sistemele IA colectează date.\nDescrie conceptul de bază al învățării supervizate.\nExplica rolul datelor etichetate în antrenarea unui sistem IA.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "1: Orientare către dezvoltarea competențelor IA",
-      "Cum \"învață\" IA?"
+      "Cum învață sistemele IA?"
     ]
   },
   {
     "objectID": "modul1/capitol1/1_3.html#termeni-cheie",
     "href": "modul1/capitol1/1_3.html#termeni-cheie",
-    "title": "Cum “învață” IA?",
+    "title": "Cum învață sistemele IA?",
     "section": "Termeni cheie",
     "text": "Termeni cheie\nInput (Intrare) / Output (Ieșire)\nInput: se referă la datele pe care un sistem IA le primește pentru a le procesa (de exemplu, o imagine, un text, date de la un senzor).\nOutput: se referă la rezultatul sau decizia generată de sistemul IA după procesarea datelor de intrare (de exemplu, clasificarea unei imagini).\nDate etichetate se referă la date care au fost marcate de oameni cu una sau mai multe etichete ce identifică anumite proprietăți, servind drept “răspunsuri corecte” pe care modelul IA le folosește pentru a învăța.\nÎnvățare supervizată se referă la o metodă de antrenare a modelului IA în care sistemul învață dintr-un set de date etichetate. Modelul compară estimările sale cu etichetele corecte și se ajustează pentru a minimiza eroarea.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "1: Orientare către dezvoltarea competențelor IA",
-      "Cum \"învață\" IA?"
+      "Cum învață sistemele IA?"
     ]
   },
   {
     "objectID": "modul1/capitol1/1_3.html#puncte-cheie",
     "href": "modul1/capitol1/1_3.html#puncte-cheie",
-    "title": "Cum “învață” IA?",
+    "title": "Cum învață sistemele IA?",
     "section": "Puncte cheie",
     "text": "Puncte cheie\n\nSistemele IA utilizează senzori pentru a colecta date (input), pe care le procesează pentru a genera o acțiune (output).\nÎnvățarea supervizată este o metodă de antrenare a IA care necesită cantități mari de date etichetate de oameni.\nSpre deosebire de oameni, care folosesc simțurile, sistemele IA se bazează pe date structurate și senzori pentru a “înțelege” lumea.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
       "1: Orientare către dezvoltarea competențelor IA",
-      "Cum \"învață\" IA?"
+      "Cum învață sistemele IA?"
     ]
   },
   {
@@ -333,7 +333,7 @@
     "href": "modul1/capitol1/1_1.html#termeni-cheie",
     "title": "Ce este IA?",
     "section": "Termeni cheie",
-    "text": "Termeni cheie\nIA generală și IA restrânsă\nEste posibil să întâlnești în diferite contexte termenii IA “generală” și IA “restrânsă”.\nIA generală. Daca ai văzut filme sau seriale TV cu roboți asemănători oamenilor, ai văzut ceea ce este numit de obicei IA generală. IA generală se referă la o inteligență supranaturală care poate îndeplini o gamă largă de sarcini care necesită de obicei inteligență umană. Astăzi, acest lucru este nerealist.\nIA restrânsă se referă la sisteme capabile să gestioneze o singură sarcină, specifică sau o problemă, de exemplu recomandările de produse sau recunoașterea facială. În prezent, IA restrânsă este un domeniu care se dezvoltă într-un ritm foarte rapid.",
+    "text": "Termeni cheie\nIA generală și IA restrânsă\nEste posibil să întâlnești în diferite contexte termenii IA “generală” și IA “restrânsă”.\nIA generală este conceptul pe care îl vedem adesea în filme, unde roboți asemănători oamenilor demonstrează o inteligență superioară, capabilă să îndeplinească o gamă largă de sarcini cognitive, la fel ca o persoană. Totuși, IA generală rămâne, deocamdată, un concept teoretic și nerealist.\nIA restrânsă este un tip de inteligență artificială conceput pentru a îndeplini o singură sarcină specifică. Exemple concrete includ sistemele de recomandări de produse pe platformele de comerț online sau tehnologia de recunoaștere facială utilizată în aplicațiile mobile. În prezent, IA restrânsă este un domeniu care se dezvoltă într-un ritm foarte rapid.",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -359,7 +359,7 @@
     "href": "modul1/index.html",
     "title": "Fundamentele IA",
     "section": "",
-    "text": "Acest modul introduce participanții în domeniul inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum “învață” IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Factorul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCum definim IA?\n\n\n\nEste sau nu IA?\n\n\n\nFactorul uman și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup",
+    "text": "Acest modul introduce participanții în domeniul inteligenței artificiale. Vor explora exemple de tehnologie, vor învața despre algoritmi simpli și vor aprofunda principiile etice care stau la baza IA.\n\n\n\n\n\n\nStructura atelierelor incluse în Modulul 1: Fundamentele IA.\n\n\n1: Orientare către dezvoltarea competențelor IA.\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCe este IA?\n\n\n\nIstoria IA\n\n\n\nCum învață sistemele IA?\n\n\n\nRolul tău\n\n\n\nActivități: brainstorming, discuții, prezentări\n \n\n\n\n\n\n2: Factorul uman în interacțiunile cu IA\n\n\n\n\n\n\n\nTitlu\n\n\n\n\n\nIntroducere\n\n\n\nCum definim IA?\n\n\n\nEste sau nu IA?\n\n\n\nFactorul uman și IA\n\n\n\nStudiu de caz: braistorming, discuții de grup",
     "crumbs": [
       "Structură curs",
       "Modul 1: Fundamentele Inteligenței Artificiale",
@@ -476,7 +476,7 @@
     "href": "index.html#cui-se-adresează",
     "title": "Introducere în Inteligența Artificială (IA)",
     "section": "Cui se adresează?",
-    "text": "Cui se adresează?\nAcest curs este destinat elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.",
+    "text": "Cui se adresează?\nCursul este pentru oricine dorește să învețe fundamentele inteligenței artificiale. Acest website este adresat în special elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.",
     "crumbs": [
       "Prezentare curs"
     ]
