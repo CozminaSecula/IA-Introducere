@@ -1,5 +1,5 @@
 ---
-title: 'Cum "învață" IA?'
+title: 'Cum învață sistemele IA?'
 tbl-cap-location: top
 ---
 
@@ -13,7 +13,7 @@ Rezumat
 ## Întrebări
 
 -   Prin ce se deosebește colectarea de date realizată de un sistem IA față de cea umană?
--   Ce înseamnă "învățare supervizată"?
+-   Ce înseamnă învățare supervizată?
 -   De ce sunt necesare datele etichetate pentru a antrena anumite tipuri de IA?
 :::
 
@@ -29,7 +29,7 @@ La finalul acestei lecții, vei putea:
 :::::
 :::::::
 
-Sistemele de inteligența artificială nu "învață" în același mod ca un om. Deși atât sistemele de IA cât și oamenii pot colecta date din mediul înconjurător, metodele lor de colectare sunt fundamental diferite.
+Sistemele de inteligența artificială nu învață în același mod ca un om. Deși atât sistemele de IA cât și oamenii pot colecta date din mediul înconjurător, metodele lor de colectare sunt fundamental diferite.
 
 Oamenii se bazează pe cele cinci simțuri: văz, auz, miros, gust și pipăit. În schimb, sistemele (computerele) folosesc senzori pentru a colecta date. De exemplu, un senzor poate măsura umiditatea solului într-un câmp agricol sau viteza unei mașini.
 

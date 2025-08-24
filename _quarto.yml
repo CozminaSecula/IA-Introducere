@@ -39,7 +39,7 @@ website:
                     href: modul1/capitol1/1_1.qmd
                   - text: "Istoria IA"
                     href: modul1/capitol1/1_2.qmd
-                  - text: 'Cum "învață" IA?'
+                  - text: 'Cum învață sistemele IA?'
                     href: modul1/capitol1/1_3.qmd
                   - text: "Rolul tău"
                     href: modul1/capitol1/1_4.qmd

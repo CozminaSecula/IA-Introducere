@@ -75,7 +75,7 @@ Structura completă a cursului: [**Module**](/structura-curs.qmd) ({{< iconify f
 
 ## Cui se adresează?
 
-Acest curs este destinat elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.
+Cursul este pentru oricine dorește să învețe fundamentele inteligenței artificiale. Acest website este adresat în special elevilor de liceu și studenților, indiferent de profilul de studiu. Abordarea este non-tehnică, iar conceptele sunt introduse treptat, astfel încât nu este necesară experiența în programare.
 
 ## Obiective de învățare
 
